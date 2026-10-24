@@ -1,0 +1,106 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : PI7C9X3G808GPA_EVB_V1_0.brd                   )
+(    Software Version : 25.1S010                                      )
+(    Date/Time        : Wed Oct 21 13:00:23 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro'
+Design Directory:            'C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/BRD'
+Old design name:             'C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/BRD/PI7C9X3G808GPA_EVB_V1_0.brd'
+New design name:             'C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/BRD/PI7C9X3G808GPA_EVB_V1_0.brd'
+
+CmdLine: netrev -$ -i C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro -y 1 -h -z -q netrev_constraint_report.xml C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/BRD/#Taaaasb03156.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro/pstchip.dat 
+   Finished reading C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro/pstxprt.dat 
+   Finished reading C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro/pstxnet.dat 
+   Finished reading C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/Allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/orcadx_25.1/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/allegrolib/symbols 
+           C:/cadence_circuitos/ClipAireESP 
+           C:/Users/PC/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Cadence_Circuitos/Examen Recuperacion/míos/CadenceLib1 
+           C:/Cadence_Circuitos/Examen Recuperacion/Footprints 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib 
+           C:/cadence_circuitos/examen recuperacion/Footprints 
+           C:/cadence_circuitos/2026/Footprints2026 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/allegrolib/symbols 
+           C:/cadence_circuitos/ClipAireESP 
+           C:/Users/PC/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Cadence_Circuitos/Examen Recuperacion/míos/CadenceLib1 
+           C:/Cadence_Circuitos/Examen Recuperacion/Footprints 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib 
+           C:/cadence_circuitos/examen recuperacion/Footprints 
+           C:/cadence_circuitos/2026/Footprints2026 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 21 13:00:23 2026
+   DESIGN NAME : 'PI7C9X3G808GP_V16'
+   PACKAGING ON Nov 23 2025 21:41:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:38
+elapsed time  0:00:00
+

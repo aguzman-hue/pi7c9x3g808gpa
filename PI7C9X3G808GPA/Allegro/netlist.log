@@ -1,0 +1,57 @@
+{ Using PSTWRITER 25.1.0 d001Oct-21-2026 at 13:00:13 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J6.4" ignored for J6: SCHEMATIC1, PAGE_16 (9.10, 12.60). Connecting pin to net "CLKBUF_OE_PHY1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "P2.B17" ignored for P2: SCHEMATIC1, PAGE_8 (6.20, 2.00). Connecting pin to net "PRSNT#".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "P2.B10" ignored for P2: SCHEMATIC1, PAGE_8 (6.20, 2.00). Connecting pin to net "3.3VAUX".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "SLOT7.B31" ignored for SLOT7: SCHEMATIC1, PAGE_10 (14.40, 8.50). Connecting pin to net "PRSNT#_SL7".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U26.7" ignored for U26: SCHEMATIC1, PAGE_16 (4.60, 11.60). Connecting pin to net "GPIO_12".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U26.5" ignored for U26: SCHEMATIC1, PAGE_16 (4.60, 11.60). Connecting pin to net "CLKBUF_OE_3_L".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "P1.1" ignored for P1: SCHEMATIC1, PAGE_6 (1.20, 1.80). Connecting pin to net "5VCC_EXT".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U26.6" ignored for U26: SCHEMATIC1, PAGE_16 (4.60, 11.60). Connecting pin to net "CLKBUF_OE_8_L".
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package PWR_ATX12V_3 , PWR1: SCHEMATIC1, PAGE_6 (7.57, 1.60).
+#10 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package PWR_ATX12V_3 , PWR1: SCHEMATIC1, PAGE_6 (7.57, 1.60).
+#11 WARNING(ORCAP-36042): Pin "12V" is renamed to "12V#5" as visible power pin of same name already exists in Package PWR_ATX12V_3 , PWR1: SCHEMATIC1, PAGE_6 (7.57, 1.60).
+#12 WARNING(ORCAP-36042): Pin "12V" is renamed to "12V#6" as visible power pin of same name already exists in Package PWR_ATX12V_3 , PWR1: SCHEMATIC1, PAGE_6 (7.57, 1.60).
+#13 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package PWR_ATX12V_3 , PWR1: SCHEMATIC1, PAGE_6 (7.57, 1.60).
+#14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package PWR_ATX12V_3 , PWR1: SCHEMATIC1, PAGE_6 (7.57, 1.60).
+#15 WARNING(ORCAP-36042): Pin "+12V" is renamed to "+12V#B1" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#16 WARNING(ORCAP-36042): Pin "+12V" is renamed to "+12V#B2" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#17 WARNING(ORCAP-36042): Pin "+12V" is renamed to "+12V#B3" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#18 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B4" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#19 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B7" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#20 WARNING(ORCAP-36042): Pin "+3.3V" is renamed to "+3.3V#B8" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B13" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B16" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#23 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B18" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#24 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B21" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B22" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B25" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B26" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B29" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B32" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#30 WARNING(ORCAP-36042): Pin "+12V" is renamed to "+12V#A2" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#31 WARNING(ORCAP-36042): Pin "+12V" is renamed to "+12V#A3" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A4" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#33 WARNING(ORCAP-36042): Pin "+3.3V" is renamed to "+3.3V#A9" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#34 WARNING(ORCAP-36042): Pin "+3.3V" is renamed to "+3.3V#A10" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A12" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A15" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A18" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A20" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A23" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A24" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A27" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A28" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A31" as visible power pin of same name already exists in Package PCIExp_x4_1 , SLOT4: SCHEMATIC1, PAGE_10 (4.90, 2.30).
+#44 WARNING(ORCAP-36006): Part Name "TPS2311_0_TSSOP20-6_5-_65_TPS2311IPW " is renamed to "TPS2311_0_TSSOP20-6_5-_65_TPS2311IPW".
+#45 WARNING(ORCAP-36006): Part Name "SN74AVC16T245_48-TSSOP_SN74AVC16T245DGGR " is renamed to "SN74AVC16T245_48-TSSOP_SN74AVC16T245DGGR".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\Cadence_Circuitos\2026\PI7C9X3G808GPA\Allegro\pstchip.dat
+
+Loading... C:\Cadence_Circuitos\2026\PI7C9X3G808GPA\Allegro\pstchip.dat
+
+Loading... C:\Cadence_Circuitos\2026\PI7C9X3G808GPA\Allegro\pstxprt.dat
+
+Loading... C:\Cadence_Circuitos\2026\PI7C9X3G808GPA\Allegro\pstxnet.dat
+packaging the design view...

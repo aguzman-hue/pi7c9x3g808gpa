@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PI7C9X3G808GPA_EVB_V1_0.brd                   )
+(    Software Version : 25.1S010                                      )
+(    Date/Time        : Wed Oct 21 13:02:11 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U31 / TPSM843B22RDGR_B3QFN25_RDG_TEX_TPSM843B22RDG / B3QFN25_RDG_TEX at (205.594 10763.323)
+         Placed symbol:  U30 / TPSM843620SITRPB_SIT0015A-MFG_TPSM843620SIT / SIT0015A-MFG at (519.455 10686.992)
+         Placed symbol:  C305 / C_MLCC_C1206_DISCRETE_1UF / C1206 at (757.624 10648.823)
+         Placed symbol:  C307 / C_MLCC_C1206_DISCRETE_1UF / C1206 at (1007.624 10648.823)
+         Placed symbol:  C306 / C_MLCC_C1206_DISCRETE_2.98UF / C1206 at (1257.624 10648.823)
+         Placed symbol:  C308 / C_MLCC_C1206_DISCRETE_12PF / C1206 at (1507.624 10648.823)
+         Placed symbol:  R200 / R_2P_R0402_100K / R0402 at (1694.813 10620.323)
+         Placed symbol:  R202 / R_2P_R0402_4.02K / R0402 at (1819.191 10620.323)
+         Placed symbol:  R203 / R_2P_R0402_56K / R0402 at (1943.569 10620.323)
+         Placed symbol:  C293 / CAP_0_7_3X4_3X2_8_100UF / 7_3X4_3X2_8 at (2224.734 10688.469)
+         Placed symbol:  C294 / C_MLCC_C1206_DISCRETE_10UF / C1206 at (2568.710 10648.823)
+         Placed symbol:  C295 / C_MLCC_C1206_DISCRETE_10UF / C1206 at (2818.710 10648.823)
+         Placed symbol:  C296 / C_MLCC_C1206_DISCRETE_10UF / C1206 at (3068.710 10648.823)
+         Placed symbol:  C297 / C_MLCC_C1206_DISCRETE_0.1UF / C1206 at (3318.710 10648.823)
+         Placed symbol:  C303 / C_MLCC_C1206_DISCRETE_2.2UF / C1206 at (3568.710 10648.823)
+         Placed symbol:  C302 / C_MLCC_C1206_DISCRETE_100PF / C1206 at (3818.710 10648.823)
+         Placed symbol:  C304 / C_MLCC_C1206_DISCRETE_61.27UF / C1206 at (4068.710 10648.823)
+         Placed symbol:  C309 / C_MLCC_C1206_DISCRETE_47UF / C1206 at (4318.710 10648.823)
+         Placed symbol:  C299 / C_MLCC_C1206_DISCRETE_100UF / C1206 at (4568.710 10648.823)
+         Placed symbol:  C300 / C_MLCC_C1206_DISCRETE_100UF / C1206 at (4818.710 10648.823)
+         Placed symbol:  C301 / C_MLCC_C1206_DISCRETE_100UF / C1206 at (5068.710 10648.823)
+         Placed symbol:  R191 / R_2P_R0402_16.9K / R0402 at (5255.899 10620.323)
+         Placed symbol:  R192 / R_2P_R0402_6.04K / R0402 at (5380.277 10620.323)
+         Placed symbol:  R193 / R_2P_R0402_4.87K / R0402 at (5504.655 10620.323)
+         Placed symbol:  R197 / R_2P_R0402_11.8K / R0402 at (5629.033 10620.323)
+         Placed symbol:  R201 / R_2P_R0402_11.8K / R0402 at (5753.411 10620.323)
+         Placed symbol:  R194 / R_2P_R0402_10K / R0402 at (5877.789 10620.323)
+         Placed symbol:  R199 / R_2P_R0402_10K / R0402 at (6002.167 10620.323)
+         Placed symbol:  R204 / R_2P_R0402_10K / R0402 at (6126.545 10620.323)
+         Placed symbol:  R198 / R_2P_R0402_9K / R0402 at (6250.923 10620.323)
+         Placed symbol:  R196 / R_2P_R0402_10 / R0402 at (92.189 10999.323)
+         Placed symbol:  R195 / R_2P_R0402_499 / R0402 at (216.567 10999.323)
+         Placed symbol:  C298 / C_MLCC_C1206_DISCRETE_47UF / C1206 at (403.756 11027.823)
+
+
+Placed 33 of 33 applicable (33 total) symbols.
+
+-----------------------------------------------------------------------
+

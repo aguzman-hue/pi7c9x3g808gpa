@@ -1,0 +1,4980 @@
+\t (04:12:46) allegro 25.1 S010 (4374085) [11/23/2025] Windows SPB 64-bit Edition
+\t (04:12:46)     Journal start - Tue Oct 20 19:35:44 2026
+\t (04:12:46)         Host=LAPTOP-LGGHNJMR User=PC Pid=3156 CPUs=12
+\t (04:12:46) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe
+\t (04:12:46) 
+\d (04:12:46) Design opened: C:/Cadence_Circuitos/2026/PI7C9X3G808GPA/BRD/PI7C9X3G808GPA_EVB_V1_0.brd
+\i (04:12:46) updateport SearchPane
+\i (04:12:46) generaledit 
+\t (04:12:46) [19:35:44.403714] Periodic Lic check successful
+[19:35:44.928025] Feature usage summary:
+[19:35:44.928025] OrCAD_X_PCB_Professional_Plus  
+[19:35:44.928026] OrCAD_X_Professional_Plus  
+\i (04:12:48) zoom out 1 
+\i (04:12:48) setwindow pcb
+\i (04:12:48) zoom out 1726.967 13470.443
+\i (04:12:48) trapsize 132650
+\i (04:12:48) zoom out 1 
+\i (04:12:48) setwindow pcb
+\i (04:12:48) zoom out 1726.968 13470.443
+\i (04:12:48) trapsize 265300
+\i (04:12:49) zoom in 1 
+\i (04:12:49) setwindow pcb
+\i (04:12:49) zoom in 4578.951 -1492.499
+\i (04:12:49) trapsize 132650
+\i (04:12:50) zoom in 1 
+\i (04:12:50) setwindow pcb
+\i (04:12:50) zoom in 1315.756 9278.697
+\i (04:12:50) trapsize 66325
+\i (04:31:59) plctxt in 
+\t (04:31:59) [19:54:57.080664] Periodic Lic check successful
+[19:54:57.080691] Feature usage summary:
+[19:54:57.080691] OrCAD_X_PCB_Professional_Plus  
+[19:54:57.080691] OrCAD_X_Professional_Plus  
+\i (04:32:01) setwindow form.plctxt
+\i (04:32:01) FORM plctxt browse  
+\i (04:32:32) fillin "menu_cancel"
+\i (04:33:09) FORM plctxt browse  
+\i (04:33:17) fillin "C:/Users/PC/Downloads/placement_pcie_ampliado.txt"
+\i (04:33:29) FORM plctxt ignore_fix NO 
+\i (04:33:32) FORM plctxt add_and_move YES 
+\i (04:33:36) FORM plctxt execute  
+\t (04:33:36) Starting Place symbols by text file...
+\i (04:33:37) setwindow pcb
+\i (04:33:37) updateport SearchPane
+\t (04:33:38) SpawnProcessExit background process completed status = 0
+
+\t (04:33:38) Opening existing design...
+\i (04:33:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:33:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (04:33:38) trapsize 66325
+\i (04:33:40) updateport SearchPane
+\i (04:33:43) setwindow form.plctxt
+\i (04:33:43) FORM plctxt cancel  
+\i (04:33:43) setwindow pcb
+\i (04:33:43) generaledit 
+\i (04:33:46) trapsize 27819
+\i (04:33:47) zoom out 1 
+\i (04:33:47) setwindow pcb
+\i (04:33:47) zoom out 2877.234 4146.368
+\i (04:33:47) trapsize 55638
+\i (04:33:47) zoom out 1 
+\i (04:33:47) setwindow pcb
+\i (04:33:47) zoom out 2877.235 4146.368
+\i (04:33:47) trapsize 111276
+\i (04:33:47) zoom out 1 
+\i (04:33:47) setwindow pcb
+\i (04:33:47) zoom out 4298.473 4146.368
+\i (04:33:47) trapsize 222551
+\i (04:33:48) zoom in 1 
+\i (04:33:48) setwindow pcb
+\i (04:33:48) zoom in -2400.323 8419.353
+\i (04:33:48) trapsize 111276
+\i (04:33:49) zoom in 1 
+\i (04:33:49) setwindow pcb
+\i (04:33:49) zoom in -2289.047 8441.609
+\i (04:33:49) trapsize 55638
+\i (04:33:50) zoom out 1 
+\i (04:33:50) setwindow pcb
+\i (04:33:50) zoom out 537.355 9788.044
+\i (04:33:50) trapsize 111276
+\i (04:33:52) drag_start grid tgl -63.534 13371.121
+\i (04:33:52) drag_stop 7792.528 10923.057
+\i (04:33:55) move 
+\i (04:33:56) pick grid 248.038 11701.986
+\t (04:33:56) last pick:  247.551 11701.700
+\t (04:33:56) Moving C137 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C122 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving R182 / R_2P_R0402_16.9K / R0402.
+\t (04:33:56) Moving R183 / R_2P_R0402_6.04K / R0402.
+\t (04:33:56) Moving R160 / R_R0402_0R / R0402.
+\t (04:33:56) Moving R184 / R_2P_R0402_4.87K / R0402.
+\t (04:33:56) Moving R185 / R_2P_R0402_11.8K / R0402.
+\t (04:33:56) Moving C164 / C_MLCC_0_C0402_10UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving R186 / R_2P_R0402_10K / R0402.
+\t (04:33:56) Moving C126 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving R187 / R_2P_R0402_10K / R0402.
+\t (04:33:56) Moving R188 / R_2P_R0402_9K / R0402.
+\t (04:33:56) Moving R189 / R_2P_R0402_10 / R0402.
+\t (04:33:56) Moving R190 / R_2P_R0402_499 / R0402.
+\t (04:33:56) Moving C130 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C158 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C153 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C148 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C143 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C154 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C165 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C159 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C161 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C166 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C157 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C162 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C152 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C167 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C147 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C141 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C142 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C136 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C128 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C121 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C149 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C120 / C_MLCC_0_C0402_4.7UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C282 / CAP_0_7_3X4_3X2_8_100UF / 7_3X4_3X2_8.
+\t (04:33:56) Moving C284 / C_MLCC_C1206_DISCRETE_10UF / C1206.
+\t (04:33:56) Moving C156 / C_MLCC_0_C0402_10UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving R79 / R_2P_R0402_330R / R0402.
+\t (04:33:56) Moving C151 / C_MLCC_0_C0402_10UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving RD85 / R_2P_R0402_330R / R0402.
+\t (04:33:56) Moving C285 / C_MLCC_C1206_DISCRETE_10UF / C1206.
+\t (04:33:56) Moving C286 / C_MLCC_C1206_DISCRETE_0.1UF / C1206.
+\t (04:33:56) Moving C140 / C_MLCC_0_C0402_10UF/6.3V_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C287 / C_MLCC_C1206_DISCRETE_2.2UF / C1206.
+\t (04:33:56) Moving C288 / C_MLCC_C1206_DISCRETE_100PF / C1206.
+\t (04:33:56) Moving C134 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving RP176 / R_2P_R0402_5.1K / R0402.
+\t (04:33:56) Moving C289 / C_MLCC_C1206_DISCRETE_47UF / C1206.
+\t (04:33:56) Moving C133 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving RP177 / R_2P_R0402_5.1K / R0402.
+\t (04:33:56) Moving C290 / C_MLCC_C1206_DISCRETE_100UF / C1206.
+\t (04:33:56) Moving C129 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C291 / C_MLCC_C1206_DISCRETE_100UF / C1206.
+\t (04:33:56) Moving C292 / C_MLCC_C1206_DISCRETE_100UF / C1206.
+\t (04:33:56) Moving C125 / C_MLCC_C0402_DISCRETE_0.1UF_(C0402,C0402_BGA;B:C0402,C0402_BGA) / C0402.
+\t (04:33:56) Moving C283 / C_MLCC_C1206_DISCRETE_10UF / C1206.
+\t (04:33:56) Pick new location for the element(s).
+\i (04:34:02) pick grid 270.293 9253.922
+\t (04:34:02) last pick:  270.551 9253.700
+\i (04:34:03) updateport SearchPane
+\i (04:34:03) generaledit 
+\i (04:34:03) pick grid 6768.792 11167.863
+\t (04:34:03) last pick:  6768.551 11167.700
+\i (04:34:04) zoom in 1 
+\i (04:34:04) setwindow pcb
+\i (04:34:04) zoom in 5477.995 9587.749
+\i (04:34:04) trapsize 55638
+\i (04:34:04) zoom in 1 
+\i (04:34:04) setwindow pcb
+\i (04:34:04) zoom in 5477.995 9587.749
+\i (04:34:04) trapsize 27819
+\i (04:34:05) pick grid 4971.691 10094.054
+\t (04:34:05) last pick:  4971.551 10093.700
+\i (04:34:06) pick grid 4810.341 10043.980
+\t (04:34:06) last pick:  4810.551 10043.700
+\i (04:34:07) pick grid 4877.106 10077.363
+\t (04:34:07) last pick:  4877.551 10077.700
+\i (04:34:07) drag_start grid 4715.757 10294.350
+\i (04:34:07) drag_stop 5133.040 9888.194
+\i (04:34:08) pick grid 4971.691 10066.235
+\t (04:34:08) last pick:  4971.551 10066.700
+\i (04:34:09) pick grid 4643.427 9754.663
+\t (04:34:09) last pick:  4643.551 9754.700
+\i (04:34:10) move 
+\t (04:34:10) Select element(s) to move.
+\i (04:34:11) pick grid 4938.308 10110.745
+\t (04:34:11) last pick:  4938.551 10110.700
+\i (04:34:13) pick grid 4932.744 10027.289
+\t (04:34:13) last pick:  4932.551 10027.700
+\t (04:34:13) last pick:  4932.551 10027.700
+\t (04:34:13) Element has no origin, using pick.
+\t (04:34:13) Pick new location for the element(s).
+\i (04:34:13) drag_start grid 4593.353 10177.511
+\i (04:34:14) drag_stop grid 5461.304 9776.918
+\i (04:34:14) pick grid 4899.361 10160.819
+\t (04:34:14) last pick:  4899.551 10160.700
+\t (04:34:14) last pick:  4899.551 10160.700
+\t (04:34:14) Element has no origin, using pick.
+\t (04:34:14) Pick new location for the element(s).
+\i (04:34:14) updateport SearchPane
+\i (04:34:15) pick grid 5038.456 9904.885
+\t (04:34:15) last pick:  5038.551 9904.700
+\i (04:34:16) undo 
+\i (04:34:16) trapsize 27819
+\i (04:34:16) updateport SearchPane
+\i (04:34:16) generaledit 
+\i (04:34:16) undo 
+\i (04:34:16) trapsize 27819
+\i (04:34:16) updateport SearchPane
+\i (04:34:16) generaledit 
+\i (04:34:17) pick grid 4882.670 9810.301
+\t (04:34:17) last pick:  4882.551 9810.700
+\i (04:34:18) drag_start grid 4559.971 10277.659
+\i (04:34:18) move 
+\t (04:34:18) last pick:  4849.145 10212.030
+\t (04:34:18) Pick new location for the element(s).
+\i (04:34:21) drag_stop grid 4854.851 10244.276
+\i (04:34:21) updateport SearchPane
+\i (04:34:21) generaledit 
+\i (04:34:21) pick grid 4437.567 10255.404
+\t (04:34:21) last pick:  4437.551 10255.700
+\i (04:34:22) drag_start grid 4437.567 10349.988
+\i (04:34:22) drag_stop 5255.444 9893.758
+\i (04:34:23) pick grid 5044.020 10088.490
+\t (04:34:23) last pick:  5043.551 10088.700
+\i (04:34:24) drag_start grid 5667.164 9587.750
+\i (04:34:24) drag_stop 5483.559 9648.951
+\i (04:34:24) drag_start grid 4559.971 10305.478
+\i (04:34:24) move 
+\t (04:34:24) last pick:  4854.551 10244.700
+\t (04:34:24) Pick new location for the element(s).
+\i (04:34:25) drag_stop grid 4904.925 10199.766
+\i (04:34:25) updateport SearchPane
+\i (04:34:25) generaledit 
+\i (04:34:27) move 
+\t (04:34:27) last pick:  4947.145 10104.030
+\t (04:34:27) Moving U29 / TPSM843620SITRPB_SIT0015A-MFG_TPSM843620SIT / SIT0015A-MFG.
+\t (04:34:27) Pick new location for the element(s).
+\i (04:34:29) zoom out 1 
+\i (04:34:29) setwindow pcb
+\i (04:34:29) zoom out 4404.185 9565.495
+\i (04:34:29) trapsize 55638
+\i (04:34:29) zoom out 1 
+\i (04:34:29) setwindow pcb
+\i (04:34:29) zoom out 4315.164 8530.630
+\i (04:34:29) trapsize 111276
+\i (04:34:30) zoom in 1 
+\i (04:34:30) setwindow pcb
+\i (04:34:30) zoom in 3180.152 2989.102
+\i (04:34:30) trapsize 55638
+\i (04:34:33) zoom in 1 
+\i (04:34:33) setwindow pcb
+\i (04:34:33) zoom in 3747.658 3245.036
+\i (04:34:33) trapsize 27819
+\i (04:34:33) zoom in 1 
+\i (04:34:33) setwindow pcb
+\i (04:34:33) zoom in 3714.276 3295.111
+\i (04:34:33) trapsize 13909
+\i (04:34:34) zoom in 1 
+\i (04:34:34) setwindow pcb
+\i (04:34:34) zoom in 3700.366 3306.238
+\i (04:34:34) trapsize 6955
+\i (04:34:34) zoom out 1 
+\i (04:34:34) setwindow pcb
+\i (04:34:34) zoom out 3700.366 3306.239
+\i (04:34:34) trapsize 13909
+\i (04:34:34) zoom out 1 
+\i (04:34:34) setwindow pcb
+\i (04:34:34) zoom out 3700.366 3306.238
+\i (04:34:34) trapsize 27819
+\i (04:34:34) zoom out 1 
+\i (04:34:34) setwindow pcb
+\i (04:34:34) zoom out 3700.366 3306.239
+\i (04:34:34) trapsize 55638
+\i (04:34:34) zoom out 1 
+\i (04:34:34) setwindow pcb
+\i (04:34:34) zoom out 3711.493 3306.239
+\i (04:34:34) trapsize 111276
+\i (04:34:34) zoom out 1 
+\i (04:34:34) setwindow pcb
+\i (04:34:34) zoom out 3711.493 3306.238
+\i (04:34:34) trapsize 222551
+\i (04:34:36) zoom in 1 
+\i (04:34:36) setwindow pcb
+\i (04:34:36) zoom in -842.463 3306.238
+\i (04:34:36) trapsize 111276
+\i (04:34:36) zoom in 1 
+\i (04:34:36) setwindow pcb
+\i (04:34:36) zoom in 1761.387 2994.666
+\i (04:34:36) trapsize 55638
+\i (04:34:36) zoom in 1 
+\i (04:34:36) setwindow pcb
+\i (04:34:36) zoom in 1772.515 2972.412
+\i (04:34:36) trapsize 27819
+\i (04:34:37) zoom out 1 
+\i (04:34:37) setwindow pcb
+\i (04:34:37) zoom out 1983.939 2861.137
+\i (04:34:37) trapsize 55638
+\i (04:34:37) zoom out 1 
+\i (04:34:37) setwindow pcb
+\i (04:34:37) zoom out 3675.330 3907.127
+\i (04:34:37) trapsize 111276
+\i (04:34:37) zoom out 1 
+\i (04:34:37) setwindow pcb
+\i (04:34:37) zoom out 3675.330 3907.128
+\i (04:34:37) trapsize 222551
+\i (04:34:40) zoom in 1 
+\i (04:34:40) setwindow pcb
+\i (04:34:40) zoom in 5477.995 6755.785
+\i (04:34:40) trapsize 111276
+\i (04:34:40) zoom in 1 
+\i (04:34:40) setwindow pcb
+\i (04:34:40) zoom in 4788.086 6288.428
+\i (04:34:40) trapsize 55638
+\i (04:34:41) zoom out 1 
+\i (04:34:41) setwindow pcb
+\i (04:34:41) zoom out 4064.795 5609.646
+\i (04:34:41) trapsize 111276
+\i (04:34:42) pick grid 3463.905 4074.042
+\t (04:34:42) last pick:  3463.551 4073.700
+\i (04:34:42) updateport SearchPane
+\i (04:34:42) generaledit 
+\i (04:34:43) zoom in 1 
+\i (04:34:43) setwindow pcb
+\i (04:34:43) zoom in 3931.263 4385.614
+\i (04:34:43) trapsize 55638
+\i (04:34:43) zoom out 1 
+\i (04:34:43) setwindow pcb
+\i (04:34:43) zoom out 3597.436 3951.639
+\i (04:34:43) trapsize 111276
+\i (04:34:44) zoom out 1 
+\i (04:34:44) setwindow pcb
+\i (04:34:44) zoom out 3263.609 2794.372
+\i (04:34:44) trapsize 222551
+\i (04:34:44) zoom in 1 
+\i (04:34:44) setwindow pcb
+\i (04:34:44) zoom in -2266.792 4708.314
+\i (04:34:44) trapsize 111276
+\i (04:34:46) zoom in 1 
+\i (04:34:46) setwindow pcb
+\i (04:34:46) zoom in 670.886 9337.382
+\i (04:34:46) trapsize 55638
+\i (04:34:46) zoom in 1 
+\i (04:34:46) setwindow pcb
+\i (04:34:46) zoom in 670.886 9337.382
+\i (04:34:46) trapsize 27819
+\i (04:34:46) zoom in 1 
+\i (04:34:46) setwindow pcb
+\i (04:34:46) zoom in 670.887 9337.382
+\i (04:34:46) trapsize 13909
+\i (04:34:47) zoom in 1 
+\i (04:34:47) setwindow pcb
+\i (04:34:47) zoom in 670.887 9337.383
+\i (04:34:47) trapsize 6955
+\i (04:34:47) zoom in 1 
+\i (04:34:47) setwindow pcb
+\i (04:34:47) zoom in 670.887 9337.383
+\i (04:34:47) trapsize 3477
+\i (04:34:59) pick grid 629.855 9221.935
+\t (04:34:59) last pick:  629.551 9221.700
+\i (04:35:00) pick grid 634.723 9282.441
+\t (04:35:00) last pick:  634.551 9282.700
+\i (04:35:00) prepopup 636.809 9282.441
+\i (04:35:01) pick grid 690.361 9331.819
+\t (04:35:01) last pick:  690.551 9331.700
+\i (04:35:01) pick grid 631.941 9221.239
+\t (04:35:01) last pick:  631.551 9221.700
+\i (04:35:02) pick grid 622.900 9223.326
+\t (04:35:02) last pick:  622.551 9223.700
+\i (04:35:02) pick grid 623.595 9227.499
+\t (04:35:02) last pick:  623.551 9227.700
+\i (04:35:03) pick grid 627.073 9227.499
+\t (04:35:03) last pick:  627.551 9227.700
+\i (04:35:03) pick grid 627.073 9221.239
+\t (04:35:03) last pick:  627.551 9221.700
+\i (04:35:04) pick grid 622.900 9197.593
+\t (04:35:04) last pick:  622.551 9197.700
+\i (04:35:04) drag_start grid 575.608 9249.754
+\i (04:35:05) drag_stop 631.246 9225.412
+\i (04:35:05) pick grid 621.509 9219.848
+\t (04:35:05) last pick:  621.551 9219.700
+\i (04:35:06) pick grid 648.632 9290.787
+\t (04:35:06) last pick:  648.551 9290.700
+\i (04:35:06) zoom out 1 
+\i (04:35:06) setwindow pcb
+\i (04:35:06) zoom out 661.846 9262.968
+\i (04:35:06) trapsize 6955
+\i (04:35:06) zoom out 1 
+\i (04:35:06) setwindow pcb
+\i (04:35:06) zoom out 661.847 9262.968
+\i (04:35:06) trapsize 13909
+\i (04:35:07) zoom out 1 
+\i (04:35:07) setwindow pcb
+\i (04:35:07) zoom out 667.410 9260.185
+\i (04:35:07) trapsize 27819
+\i (04:35:07) zoom out 1 
+\i (04:35:07) setwindow pcb
+\i (04:35:07) zoom out 667.410 9260.186
+\i (04:35:07) trapsize 55638
+\i (04:35:07) zoom out 1 
+\i (04:35:07) setwindow pcb
+\i (04:35:07) zoom out 667.410 9260.186
+\i (04:35:07) trapsize 111276
+\i (04:35:08) zoom out 1 
+\i (04:35:08) setwindow pcb
+\i (04:35:08) zoom out 622.899 6322.508
+\i (04:35:08) trapsize 222551
+\i (04:35:08) zoom in 1 
+\i (04:35:08) setwindow pcb
+\i (04:35:08) zoom in 136.763 2450.114
+\i (04:35:08) trapsize 111276
+\i (04:35:08) zoom in 1 
+\i (04:35:08) setwindow pcb
+\i (04:35:08) zoom in -108.044 2628.155
+\i (04:35:08) trapsize 55638
+\i (04:35:09) zoom out 1 
+\i (04:35:09) setwindow pcb
+\i (04:35:09) zoom out 1171.627 6511.676
+\i (04:35:09) trapsize 111276
+\i (04:35:09) zoom out 1 
+\i (04:35:09) setwindow pcb
+\i (04:35:09) zoom out 1171.627 6511.676
+\i (04:35:09) trapsize 222551
+\i (04:35:10) zoom in 1 
+\i (04:35:10) setwindow pcb
+\i (04:35:10) zoom in 3475.033 8692.678
+\i (04:35:10) trapsize 111276
+\i (04:35:11) zoom in 1 
+\i (04:35:11) setwindow pcb
+\i (04:35:11) zoom in 3296.992 8848.464
+\i (04:35:11) trapsize 55638
+\i (04:35:11) zoom in 1 
+\i (04:35:11) setwindow pcb
+\i (04:35:11) zoom in 3296.992 8848.465
+\i (04:35:11) trapsize 27819
+\i (04:35:12) pick grid 3419.395 9048.761
+\t (04:35:12) last pick:  3419.551 9048.700
+\i (04:35:13) pick grid 3397.140 8965.304
+\t (04:35:13) last pick:  3397.551 8965.700
+\i (04:35:14) pick grid 3391.576 9121.090
+\t (04:35:14) last pick:  3391.551 9120.700
+\i (04:35:14) drag_start grid 3419.395 9310.259
+\i (04:35:14) drag_stop 3508.416 8842.901
+\i (04:35:15) move 
+\t (04:35:15) last pick:  3451.976 9075.205
+\t (04:35:15) Moving C282 / CAP_0_7_3X4_3X2_8_100UF / 7_3X4_3X2_8.
+\t (04:35:15) Pick new location for the element(s).
+\i (04:35:16) zoom out 1 
+\i (04:35:16) setwindow pcb
+\i (04:35:16) zoom out 3224.663 8648.169
+\i (04:35:16) trapsize 55638
+\i (04:35:17) zoom out 1 
+\i (04:35:17) setwindow pcb
+\i (04:35:17) zoom out 3224.663 8648.168
+\i (04:35:17) trapsize 111276
+\i (04:35:18) zoom in 1 
+\i (04:35:18) setwindow pcb
+\i (04:35:18) zoom in 4092.612 2817.323
+\i (04:35:18) trapsize 55638
+\i (04:35:18) zoom in 1 
+\i (04:35:18) setwindow pcb
+\i (04:35:18) zoom in 4092.613 2817.324
+\i (04:35:18) trapsize 27819
+\i (04:35:30) pick grid 5717.238 3134.460
+\t (04:35:30) last pick:  5717.551 3134.700
+\i (04:35:30) updateport SearchPane
+\i (04:35:30) generaledit 
+\i (04:35:34) pick grid 3936.827 3051.003
+\t (04:35:34) last pick:  3936.551 3050.700
+\i (04:35:34) zoom out 1 
+\i (04:35:34) setwindow pcb
+\i (04:35:34) zoom out 3914.572 3067.695
+\i (04:35:34) trapsize 55638
+\i (04:35:34) zoom out 1 
+\i (04:35:34) setwindow pcb
+\i (04:35:34) zoom out 3914.572 3067.694
+\i (04:35:34) trapsize 111276
+\i (04:35:35) zoom in 1 
+\i (04:35:35) setwindow pcb
+\i (04:35:35) zoom in 286.986 10011.296
+\i (04:35:35) trapsize 55638
+\i (04:35:35) zoom in 1 
+\i (04:35:35) setwindow pcb
+\i (04:35:35) zoom in 286.986 10011.296
+\i (04:35:35) trapsize 27819
+\i (04:35:36) zoom in 1 
+\i (04:35:36) setwindow pcb
+\i (04:35:36) zoom in 2840.763 9171.165
+\i (04:35:36) trapsize 13909
+\i (04:35:37) zoom in 1 
+\i (04:35:37) setwindow pcb
+\i (04:35:37) zoom in 2938.129 9185.075
+\i (04:35:37) trapsize 6955
+\i (04:35:38) zoom out 1 
+\i (04:35:38) setwindow pcb
+\i (04:35:38) zoom out 3431.915 9083.536
+\i (04:35:38) trapsize 13909
+\i (04:35:39) zoom out 1 
+\i (04:35:39) setwindow pcb
+\i (04:35:39) zoom out 3431.915 9083.536
+\i (04:35:39) trapsize 27819
+\i (04:35:40) pick grid 3737.922 9055.717
+\t (04:35:40) last pick:  3737.551 9055.700
+\i (04:35:40) pick grid 3799.123 8977.824
+\t (04:35:40) last pick:  3799.551 8977.700
+\i (04:35:42) move 
+\t (04:35:42) last pick:  3795.952 9035.559
+\t (04:35:42) Moving C284 / C_MLCC_C1206_DISCRETE_10UF / C1206.
+\t (04:35:42) Pick new location for the element(s).
+\i (04:35:43) zoom out 1 
+\i (04:35:43) setwindow pcb
+\i (04:35:43) zoom out 3698.975 8699.634
+\i (04:35:43) trapsize 55638
+\i (04:35:43) zoom out 1 
+\i (04:35:43) setwindow pcb
+\i (04:35:43) zoom out 4276.217 8699.635
+\i (04:35:43) trapsize 111276
+\i (04:35:44) zoom out 1 
+\i (04:35:44) setwindow pcb
+\i (04:35:44) zoom out 14691.620 8699.634
+\i (04:35:44) trapsize 222551
+\i (04:35:44) zoom out 1 
+\i (04:35:44) setwindow pcb
+\i (04:35:44) zoom out 35522.425 8699.635
+\i (04:35:44) trapsize 445103
+\i (04:35:44) zoom in 1 
+\i (04:35:44) setwindow pcb
+\i (04:35:44) zoom in -5694.082 1310.931
+\i (04:35:44) trapsize 222551
+\i (04:35:45) zoom in 1 
+\i (04:35:45) setwindow pcb
+\i (04:35:45) zoom in -4492.305 1043.869
+\i (04:35:45) trapsize 111276
+\i (04:35:45) zoom in 1 
+\i (04:35:45) setwindow pcb
+\i (04:35:45) zoom in -1487.862 732.298
+\i (04:35:45) trapsize 55638
+\i (04:35:45) zoom in 1 
+\i (04:35:45) setwindow pcb
+\i (04:35:45) zoom in -909.228 932.595
+\i (04:35:45) trapsize 27819
+\i (04:35:55) zoom in 1 
+\i (04:35:55) setwindow pcb
+\i (04:35:55) zoom in 3597.437 2696.314
+\i (04:35:55) trapsize 13909
+\i (04:35:56) zoom out 1 
+\i (04:35:56) setwindow pcb
+\i (04:35:56) zoom out 3597.437 2696.314
+\i (04:35:56) trapsize 27819
+\i (04:35:56) zoom out 1 
+\i (04:35:56) setwindow pcb
+\i (04:35:56) zoom out 3597.436 2696.314
+\i (04:35:56) trapsize 55638
+\i (04:35:56) zoom out 1 
+\i (04:35:56) setwindow pcb
+\i (04:35:56) zoom out 5366.719 2696.314
+\i (04:35:56) trapsize 111276
+\i (04:35:57) zoom in 1 
+\i (04:35:57) setwindow pcb
+\i (04:35:57) zoom in -3490.824 4365.449
+\i (04:35:57) trapsize 55638
+\i (04:35:57) zoom in 1 
+\i (04:35:57) setwindow pcb
+\i (04:35:57) zoom in -1932.964 4220.791
+\i (04:35:57) trapsize 27819
+\i (04:35:57) zoom out 1 
+\i (04:35:57) setwindow pcb
+\i (04:35:57) zoom out -1259.746 4120.644
+\i (04:35:57) trapsize 55638
+\i (04:35:57) zoom out 1 
+\i (04:35:57) setwindow pcb
+\i (04:35:57) zoom out -1259.747 4120.643
+\i (04:35:57) trapsize 111276
+\i (04:35:57) zoom out 1 
+\i (04:35:57) setwindow pcb
+\i (04:35:57) zoom out 2317.766 4120.643
+\i (04:35:57) trapsize 222551
+\i (04:35:58) zoom out 1 
+\i (04:35:58) setwindow pcb
+\i (04:35:58) zoom out 10774.716 5354.486
+\i (04:35:58) trapsize 445103
+\i (04:35:58) zoom in 1 
+\i (04:35:58) setwindow pcb
+\i (04:35:58) zoom in -1599.138 9004.327
+\i (04:35:58) trapsize 222551
+\i (04:35:59) zoom in 1 
+\i (04:35:59) setwindow pcb
+\i (04:35:59) zoom in 1338.540 7357.447
+\i (04:35:59) trapsize 111276
+\i (04:35:59) zoom in 1 
+\i (04:35:59) setwindow pcb
+\i (04:35:59) zoom in 2451.297 7913.826
+\i (04:35:59) trapsize 55638
+\i (04:36:02) pick grid 3797.733 9037.710
+\t (04:36:02) last pick:  3797.551 9037.700
+\i (04:36:02) updateport SearchPane
+\i (04:36:02) generaledit 
+\i (04:36:04) zoom out 1 
+\i (04:36:04) setwindow pcb
+\i (04:36:04) zoom out 6802.176 9516.196
+\i (04:36:04) trapsize 111276
+\i (04:36:05) zoom out 1 
+\i (04:36:05) setwindow pcb
+\i (04:36:05) zoom out 7436.446 9160.113
+\i (04:36:05) trapsize 222551
+\i (04:36:05) zoom in 1 
+\i (04:36:05) setwindow pcb
+\i (04:36:05) zoom in 225.783 4442.025
+\i (04:36:05) trapsize 111276
+\i (04:36:06) zoom in 1 
+\i (04:36:06) setwindow pcb
+\i (04:36:06) zoom in 181.273 4508.790
+\i (04:36:06) trapsize 55638
+\i (04:36:07) zoom in 1 
+\i (04:36:07) setwindow pcb
+\i (04:36:07) zoom in 359.314 3818.881
+\i (04:36:07) trapsize 27819
+\i (04:36:07) zoom out 1 
+\i (04:36:07) setwindow pcb
+\i (04:36:07) zoom out 476.153 3507.309
+\i (04:36:07) trapsize 55638
+\i (04:36:08) zoom out 1 
+\i (04:36:08) setwindow pcb
+\i (04:36:08) zoom out 476.154 3507.309
+\i (04:36:08) trapsize 111276
+\i (04:36:49) save 
+\t (04:36:49) [19:59:47.042491] Periodic Lic check successful
+[19:59:47.566801] Feature usage summary:
+[19:59:47.566802] OrCAD_X_PCB_Professional_Plus  
+[19:59:47.566802] OrCAD_X_Professional_Plus  
+\i (04:36:50) fillin yes 
+\i (04:36:51) generaledit 
+\i (04:36:52) zoom in 1 
+\i (04:36:52) setwindow pcb
+\i (04:36:52) zoom in 3324.811 1949.450
+\i (04:36:52) trapsize 55638
+\i (04:36:52) zoom in 1 
+\i (04:36:52) setwindow pcb
+\i (04:36:52) zoom in 2846.326 1092.628
+\i (04:36:52) trapsize 27819
+\i (04:36:52) zoom in 1 
+\i (04:36:52) setwindow pcb
+\i (04:36:52) zoom in 2846.326 1092.628
+\i (04:36:52) trapsize 13909
+\i (04:36:52) zoom in 1 
+\i (04:36:52) setwindow pcb
+\i (04:36:52) zoom in 2846.326 1092.628
+\i (04:36:52) trapsize 6955
+\i (04:36:54) zoom out 1 
+\i (04:36:54) setwindow pcb
+\i (04:36:54) zoom out 2686.368 1637.879
+\i (04:36:54) trapsize 13909
+\i (04:36:54) zoom out 1 
+\i (04:36:54) setwindow pcb
+\i (04:36:54) zoom out 2686.368 1637.880
+\i (04:36:54) trapsize 27819
+\i (04:36:54) zoom out 1 
+\i (04:36:54) setwindow pcb
+\i (04:36:54) zoom out 2686.367 1637.880
+\i (04:36:54) trapsize 55638
+\i (04:36:55) zoom out 1 
+\i (04:36:55) setwindow pcb
+\i (04:36:55) zoom out 2241.264 2583.723
+\i (04:36:55) trapsize 111276
+\i (04:36:55) zoom out 1 
+\i (04:36:55) setwindow pcb
+\i (04:36:55) zoom out 2308.030 3518.439
+\i (04:36:55) trapsize 222551
+\i (04:36:55) zoom out 1 
+\i (04:36:55) setwindow pcb
+\i (04:36:55) zoom out -1198.545 7001.365
+\i (04:36:55) trapsize 445103
+\i (04:36:56) zoom in 1 
+\i (04:36:56) setwindow pcb
+\i (04:36:56) zoom in -530.891 7669.019
+\i (04:36:56) trapsize 222551
+\i (04:36:56) zoom in 1 
+\i (04:36:56) setwindow pcb
+\i (04:36:56) zoom in -3335.038 7624.509
+\i (04:36:56) trapsize 111276
+\i (04:36:57) zoom in 1 
+\i (04:36:57) setwindow pcb
+\i (04:36:57) zoom in -3335.038 7624.509
+\i (04:36:57) trapsize 55638
+\i (04:36:57) zoom in 1 
+\i (04:36:57) setwindow pcb
+\i (04:36:57) zoom in 1983.940 8770.649
+\i (04:36:57) trapsize 27819
+\i (04:36:57) zoom in 1 
+\i (04:36:57) setwindow pcb
+\i (04:36:57) zoom in 1533.273 8959.818
+\i (04:36:57) trapsize 13909
+\i (04:36:58) zoom in 1 
+\i (04:36:58) setwindow pcb
+\i (04:36:58) zoom in 1533.273 8959.818
+\i (04:36:58) trapsize 6955
+\i (04:36:58) zoom in 1 
+\i (04:36:58) setwindow pcb
+\i (04:36:58) zoom in 1552.746 9004.329
+\i (04:36:58) trapsize 3477
+\i (04:36:59) zoom in 1 
+\i (04:36:59) setwindow pcb
+\i (04:36:59) zoom in 1552.746 9004.329
+\i (04:36:59) trapsize 1739
+\i (04:37:02) zoom out 1 
+\i (04:37:02) setwindow pcb
+\i (04:37:02) zoom out 1573.610 8965.383
+\i (04:37:02) trapsize 3477
+\i (04:37:02) zoom out 1 
+\i (04:37:02) setwindow pcb
+\i (04:37:02) zoom out 1573.610 8965.383
+\i (04:37:02) trapsize 6955
+\i (04:37:02) zoom out 1 
+\i (04:37:02) setwindow pcb
+\i (04:37:02) zoom out 1573.611 8965.383
+\i (04:37:02) trapsize 13909
+\i (04:37:02) zoom out 1 
+\i (04:37:02) setwindow pcb
+\i (04:37:02) zoom out 1573.611 8965.383
+\i (04:37:02) trapsize 27819
+\i (04:37:02) zoom out 1 
+\i (04:37:02) setwindow pcb
+\i (04:37:02) zoom out 1573.610 8965.383
+\i (04:37:02) trapsize 55638
+\i (04:37:03) zoom in 1 
+\i (04:37:03) setwindow pcb
+\i (04:37:03) zoom in 4032.803 8709.448
+\i (04:37:03) trapsize 27819
+\i (04:37:03) zoom in 1 
+\i (04:37:03) setwindow pcb
+\i (04:37:03) zoom in 4032.803 8709.449
+\i (04:37:03) trapsize 13909
+\i (04:37:04) zoom in 1 
+\i (04:37:04) setwindow pcb
+\i (04:37:04) zoom in 4411.140 8854.108
+\i (04:37:04) trapsize 6955
+\i (04:37:04) zoom out 1 
+\i (04:37:04) setwindow pcb
+\i (04:37:04) zoom out 4455.651 9021.022
+\i (04:37:04) trapsize 13909
+\i (04:37:04) zoom out 1 
+\i (04:37:04) setwindow pcb
+\i (04:37:04) zoom out 4455.651 9021.021
+\i (04:37:04) trapsize 27819
+\i (04:37:05) zoom out 1 
+\i (04:37:05) setwindow pcb
+\i (04:37:05) zoom out 4455.650 9021.022
+\i (04:37:05) trapsize 55638
+\i (04:37:05) zoom in 1 
+\i (04:37:05) setwindow pcb
+\i (04:37:05) zoom in 4455.650 9021.022
+\i (04:37:05) trapsize 27819
+\i (04:37:05) zoom in 1 
+\i (04:37:05) setwindow pcb
+\i (04:37:05) zoom in 4455.650 9021.022
+\i (04:37:05) trapsize 13909
+\i (04:37:06) zoom out 1 
+\i (04:37:06) setwindow pcb
+\i (04:37:06) zoom out 4411.139 9021.022
+\i (04:37:06) trapsize 27819
+\i (04:37:06) zoom out 1 
+\i (04:37:06) setwindow pcb
+\i (04:37:06) zoom out 4411.139 9021.023
+\i (04:37:06) trapsize 55638
+\i (04:37:06) zoom out 1 
+\i (04:37:06) setwindow pcb
+\i (04:37:06) zoom out 4411.140 9021.023
+\i (04:37:06) trapsize 111276
+\i (04:37:29) reports 'Placed Component Report' 
+\i (04:37:30) updateport SearchPane
+\i (04:37:30) generaledit 
+\i (04:37:32) setwindow text
+\i (04:37:32) save
+\i (04:37:54) fillin "menu_cancel"
+\i (04:38:19) close
+\i (04:54:30) setwindow pcb
+\i (04:54:30) plctxt in 
+\t (04:54:30) [20:17:28.229883] Periodic Lic check successful
+[20:17:28.230059] Feature usage summary:
+[20:17:28.230064] OrCAD_X_PCB_Professional_Plus  
+[20:17:28.230065] OrCAD_X_Professional_Plus  
+\i (04:54:31) setwindow form.plctxt
+\i (04:54:31) FORM plctxt browse  
+\i (04:54:37) fillin "C:/Users/PC/Downloads/placement_desacoplo_U28.txt"
+\i (04:54:38) FORM plctxt execute  
+\t (04:54:38) Starting Place symbols by text file...
+\i (04:54:39) setwindow pcb
+\i (04:54:39) updateport SearchPane
+\t (04:54:39) SpawnProcessExit background process completed status = 0
+
+\t (04:54:39) Opening existing design...
+\i (04:54:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:54:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (04:54:41) trapsize 111276
+\i (04:54:42) updateport SearchPane
+\i (04:54:43) setwindow form.plctxt
+\i (04:54:43) FORM plctxt add_and_move YES 
+\i (04:54:44) FORM plctxt ignore_fix NO 
+\i (04:54:46) FORM plctxt execute  
+\t (04:54:46) Starting Place symbols by text file...
+\i (04:54:46) setwindow pcb
+\i (04:54:46) updateport SearchPane
+\t (04:54:46) SpawnProcessExit background process completed status = 0
+
+\t (04:54:47) Opening existing design...
+\i (04:54:47) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:54:47) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (04:54:47) trapsize 111276
+\i (04:54:49) updateport SearchPane
+\i (04:54:53) pick grid 2851.889 3056.648
+\t (04:54:53) last pick:  2851.551 3056.700
+\i (04:54:54) zoom in 1 
+\i (04:54:54) setwindow pcb
+\i (04:54:54) zoom in 2495.807 9443.871
+\i (04:54:54) trapsize 55638
+\i (04:54:54) zoom in 1 
+\i (04:54:54) setwindow pcb
+\i (04:54:54) zoom in 2495.807 9443.871
+\i (04:54:54) trapsize 27819
+\i (04:54:54) zoom in 1 
+\i (04:54:54) setwindow pcb
+\i (04:54:54) zoom in 2495.807 9443.871
+\i (04:54:54) trapsize 13909
+\i (04:54:54) zoom in 1 
+\i (04:54:54) setwindow pcb
+\i (04:54:54) zoom in 2495.807 9443.871
+\i (04:54:54) trapsize 6955
+\i (04:54:54) zoom in 1 
+\i (04:54:54) setwindow pcb
+\i (04:54:54) zoom in 2495.807 9443.872
+\i (04:54:54) trapsize 3477
+\i (04:54:54) zoom out 1 
+\i (04:54:54) setwindow pcb
+\i (04:54:54) zoom out 2495.807 9443.872
+\i (04:54:54) trapsize 6955
+\i (04:54:55) zoom out 1 
+\i (04:54:55) setwindow pcb
+\i (04:54:55) zoom out 2495.808 9443.873
+\i (04:54:55) trapsize 13909
+\i (04:54:55) zoom out 1 
+\i (04:54:55) setwindow pcb
+\i (04:54:55) zoom out 2495.808 9443.872
+\i (04:54:55) trapsize 27819
+\i (04:54:55) zoom out 1 
+\i (04:54:55) setwindow pcb
+\i (04:54:55) zoom out 2495.807 9443.873
+\i (04:54:55) trapsize 55638
+\i (04:54:55) zoom out 1 
+\i (04:54:55) setwindow pcb
+\i (04:54:55) zoom out 2495.807 9443.873
+\i (04:54:55) trapsize 111276
+\i (04:54:57) zoom in 1 
+\i (04:54:57) setwindow pcb
+\i (04:54:57) zoom in 1427.560 3991.366
+\i (04:54:57) trapsize 55638
+\i (04:54:57) zoom in 1 
+\i (04:54:57) setwindow pcb
+\i (04:54:57) zoom in 1427.561 3991.366
+\i (04:54:57) trapsize 27819
+\i (04:54:58) zoom out 1 
+\i (04:54:58) setwindow pcb
+\i (04:54:58) zoom out 1427.561 3991.366
+\i (04:54:58) trapsize 55638
+\i (04:54:58) zoom out 1 
+\i (04:54:58) setwindow pcb
+\i (04:54:58) zoom out 1427.562 3991.366
+\i (04:54:58) trapsize 111276
+\i (04:54:58) zoom out 1 
+\i (04:54:58) setwindow pcb
+\i (04:54:58) zoom out 1427.561 3991.367
+\i (04:54:58) trapsize 222551
+\i (04:54:59) setwindow form.plctxt
+\i (04:54:59) FORM plctxt execute  
+\t (04:54:59) Starting Place symbols by text file...
+\i (04:55:00) setwindow pcb
+\i (04:55:00) updateport SearchPane
+\t (04:55:00) SpawnProcessExit background process completed status = 0
+
+\t (04:55:00) Opening existing design...
+\i (04:55:01) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (04:55:01) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (04:55:01) trapsize 222551
+\i (04:55:02) updateport SearchPane
+\i (04:55:04) setwindow form.plctxt
+\i (04:55:04) FORM plctxt cancel  
+\i (04:55:04) setwindow pcb
+\i (04:55:04) generaledit 
+\i (04:55:05) zoom in 1 
+\i (04:55:05) setwindow pcb
+\i (04:55:05) zoom in 47.742 1498.792
+\i (04:55:05) trapsize 111276
+\i (04:55:05) zoom in 1 
+\i (04:55:05) setwindow pcb
+\i (04:55:05) zoom in 47.743 1498.792
+\i (04:55:05) trapsize 55638
+\i (04:55:07) zoom out 1 
+\i (04:55:07) setwindow pcb
+\i (04:55:07) zoom out 47.743 1498.793
+\i (04:55:07) trapsize 111276
+\i (04:55:09) undo 
+\i (04:55:09) generaledit 
+\i (04:55:11) pick grid 9328.133 5371.186
+\t (04:55:11) last pick:  9328.551 5370.700
+\i (04:55:12) undo 
+\i (04:55:12) generaledit 
+\i (04:55:14) redo 
+\i (04:55:14) generaledit 
+\i (04:55:15) undo 
+\i (04:55:15) generaledit 
+\i (04:55:16) undo 
+\i (04:55:16) generaledit 
+\i (04:55:17) undo 
+\i (04:55:17) generaledit 
+\i (04:55:17) undo 
+\i (04:55:17) generaledit 
+\i (04:55:18) undo 
+\i (04:55:18) generaledit 
+\i (04:55:18) undo 
+\i (04:55:18) generaledit 
+\i (04:55:19) pick grid 9328.133 5371.186
+\t (04:55:19) last pick:  9328.551 5370.700
+\i (04:55:20) undo 
+\i (04:55:20) generaledit 
+\i (04:55:20) undo 
+\i (04:55:20) generaledit 
+\i (04:55:20) undo 
+\i (04:55:20) generaledit 
+\i (04:55:22) undo 
+\i (04:55:22) generaledit 
+\i (04:55:23) undo 
+\i (04:55:23) generaledit 
+\i (04:55:23) undo 
+\i (04:55:23) generaledit 
+\i (04:55:24) undo 
+\i (04:55:24) generaledit 
+\i (04:55:24) undo 
+\i (04:55:24) generaledit 
+\i (04:55:24) undo 
+\i (04:55:24) generaledit 
+\i (04:55:26) zoom in 1 
+\i (04:55:26) setwindow pcb
+\i (04:55:26) zoom in 2584.828 1877.130
+\i (04:55:26) trapsize 55638
+\i (04:55:26) zoom in 1 
+\i (04:55:26) setwindow pcb
+\i (04:55:26) zoom in 2584.828 1877.130
+\i (04:55:26) trapsize 27819
+\i (04:55:26) zoom in 1 
+\i (04:55:26) setwindow pcb
+\i (04:55:26) zoom in 2584.828 1877.131
+\i (04:55:26) trapsize 13909
+\i (04:55:28) zoom in 1 
+\i (04:55:28) setwindow pcb
+\i (04:55:28) zoom in 2159.199 2016.226
+\i (04:55:28) trapsize 6955
+\i (04:55:28) zoom in 1 
+\i (04:55:28) setwindow pcb
+\i (04:55:28) zoom in 2159.200 2016.226
+\i (04:55:28) trapsize 3477
+\i (04:55:28) zoom in 1 
+\i (04:55:28) setwindow pcb
+\i (04:55:28) zoom in 2159.200 2016.227
+\i (04:55:28) trapsize 1739
+\i (04:55:30) zoom out 1 
+\i (04:55:30) setwindow pcb
+\i (04:55:30) zoom out 2159.201 2016.227
+\i (04:55:30) trapsize 3477
+\i (04:55:31) zoom out 1 
+\i (04:55:31) setwindow pcb
+\i (04:55:31) zoom out 2159.200 2016.228
+\i (04:55:31) trapsize 6955
+\i (04:55:33) zoom out 1 
+\i (04:55:33) setwindow pcb
+\i (04:55:33) zoom out 2324.723 1707.437
+\i (04:55:33) trapsize 13909
+\i (04:55:55) zoom out 1 
+\i (04:55:55) setwindow pcb
+\i (04:55:55) zoom out 2127.209 3042.746
+\i (04:55:55) trapsize 27819
+\i (04:55:55) zoom out 1 
+\i (04:55:55) setwindow pcb
+\i (04:55:55) zoom out 2127.208 3042.746
+\i (04:55:55) trapsize 55638
+\i (04:55:56) zoom out 1 
+\i (04:55:56) setwindow pcb
+\i (04:55:56) zoom out 2015.932 2263.816
+\i (04:55:56) trapsize 111276
+\i (04:55:56) zoom out 1 
+\i (04:55:56) setwindow pcb
+\i (04:55:56) zoom out 2015.932 2263.816
+\i (04:55:56) trapsize 222551
+\i (04:55:58) zoom in 1 
+\i (04:55:58) setwindow pcb
+\i (04:55:58) zoom in 1917.173 9983.553
+\i (04:55:58) trapsize 111276
+\i (04:55:58) zoom in 1 
+\i (04:55:58) setwindow pcb
+\i (04:55:58) zoom in 1917.173 9983.553
+\i (04:55:58) trapsize 55638
+\i (04:55:59) zoom in 1 
+\i (04:55:59) setwindow pcb
+\i (04:55:59) zoom in 1917.174 9983.553
+\i (04:55:59) trapsize 27819
+\i (04:55:59) zoom in 1 
+\i (04:55:59) setwindow pcb
+\i (04:55:59) zoom in 1917.174 9983.553
+\i (04:55:59) trapsize 13909
+\i (04:56:00) zoom in 1 
+\i (04:56:00) setwindow pcb
+\i (04:56:00) zoom in 1917.174 9983.553
+\i (04:56:00) trapsize 6955
+\i (04:56:00) zoom in 1 
+\i (04:56:00) setwindow pcb
+\i (04:56:00) zoom in 1917.174 9983.553
+\i (04:56:00) trapsize 3477
+\i (04:56:00) zoom out 1 
+\i (04:56:00) setwindow pcb
+\i (04:56:00) zoom out 1917.175 9983.553
+\i (04:56:00) trapsize 6955
+\i (04:56:00) zoom out 1 
+\i (04:56:00) setwindow pcb
+\i (04:56:00) zoom out 1917.174 9983.554
+\i (04:56:00) trapsize 13909
+\i (04:56:00) zoom out 1 
+\i (04:56:00) setwindow pcb
+\i (04:56:00) zoom out 1917.174 9983.554
+\i (04:56:00) trapsize 27819
+\i (04:56:02) zoom in 1 
+\i (04:56:02) setwindow pcb
+\i (04:56:02) zoom in 5082.967 9071.094
+\i (04:56:02) trapsize 13909
+\i (04:56:02) zoom in 1 
+\i (04:56:02) setwindow pcb
+\i (04:56:02) zoom in 5082.967 9071.094
+\i (04:56:02) trapsize 6955
+\i (04:56:02) zoom in 1 
+\i (04:56:02) setwindow pcb
+\i (04:56:02) zoom in 5082.967 9071.094
+\i (04:56:02) trapsize 3477
+\i (04:56:02) zoom in 1 
+\i (04:56:02) setwindow pcb
+\i (04:56:02) zoom in 5082.967 9071.094
+\i (04:56:02) trapsize 1739
+\i (04:56:03) zoom out 1 
+\i (04:56:03) setwindow pcb
+\i (04:56:03) zoom out 5082.967 9071.094
+\i (04:56:03) trapsize 3477
+\i (04:56:04) zoom out 1 
+\i (04:56:04) setwindow pcb
+\i (04:56:04) zoom out 5082.967 9071.094
+\i (04:56:04) trapsize 6955
+\i (04:56:04) zoom out 1 
+\i (04:56:04) setwindow pcb
+\i (04:56:04) zoom out 5082.968 9071.094
+\i (04:56:04) trapsize 13909
+\i (04:56:04) zoom out 1 
+\i (04:56:04) setwindow pcb
+\i (04:56:04) zoom out 5082.969 9071.094
+\i (04:56:04) trapsize 27819
+\i (04:56:04) zoom out 1 
+\i (04:56:04) setwindow pcb
+\i (04:56:04) zoom out 5082.968 9071.094
+\i (04:56:04) trapsize 55638
+\i (04:56:05) zoom in 1 
+\i (04:56:05) setwindow pcb
+\i (04:56:05) zoom in 821.109 9360.410
+\i (04:56:05) trapsize 27819
+\i (04:56:05) zoom in 1 
+\i (04:56:05) setwindow pcb
+\i (04:56:05) zoom in 821.109 9360.410
+\i (04:56:05) trapsize 13909
+\i (04:56:05) zoom in 1 
+\i (04:56:05) setwindow pcb
+\i (04:56:05) zoom in 821.109 9360.410
+\i (04:56:05) trapsize 6955
+\i (04:56:05) zoom in 1 
+\i (04:56:05) setwindow pcb
+\i (04:56:05) zoom in 821.109 9360.410
+\i (04:56:05) trapsize 3477
+\i (04:56:06) zoom in 1 
+\i (04:56:06) setwindow pcb
+\i (04:56:06) zoom in 821.109 9360.410
+\i (04:56:06) trapsize 1739
+\i (04:56:08) zoom out 1 
+\i (04:56:08) setwindow pcb
+\i (04:56:08) zoom out 821.109 9360.410
+\i (04:56:08) trapsize 3477
+\i (04:56:08) zoom out 1 
+\i (04:56:08) setwindow pcb
+\i (04:56:08) zoom out 821.109 9360.410
+\i (04:56:08) trapsize 6955
+\i (04:56:08) zoom out 1 
+\i (04:56:08) setwindow pcb
+\i (04:56:08) zoom out 821.110 9360.410
+\i (04:56:08) trapsize 13909
+\i (04:56:08) zoom out 1 
+\i (04:56:08) setwindow pcb
+\i (04:56:08) zoom out 821.110 9360.411
+\i (04:56:08) trapsize 27819
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 821.109 9360.411
+\i (04:56:09) trapsize 55638
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 821.110 9360.411
+\i (04:56:09) trapsize 111276
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 2028.449 9360.411
+\i (04:56:09) trapsize 222551
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 10196.083 9360.411
+\i (04:56:09) trapsize 445103
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 27243.515 26719.414
+\i (04:56:09) trapsize 498987
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 37172.892 34521.739
+\i (04:56:09) trapsize 498987
+\i (04:56:09) zoom out 1 
+\i (04:56:09) setwindow pcb
+\i (04:56:09) zoom out 47452.025 36118.498
+\i (04:56:09) trapsize 498987
+\i (04:56:10) zoom in 1 
+\i (04:56:10) setwindow pcb
+\i (04:56:10) zoom in 1245.824 9871.778
+\i (04:56:10) trapsize 249494
+\i (04:56:10) zoom in 1 
+\i (04:56:10) setwindow pcb
+\i (04:56:10) zoom in -2446.681 9871.779
+\i (04:56:10) trapsize 124747
+\i (04:56:11) zoom in 1 
+\i (04:56:11) setwindow pcb
+\i (04:56:11) zoom in -2446.682 9871.779
+\i (04:56:11) trapsize 62373
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 5948.775 9410.216
+\i (04:56:12) trapsize 124747
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 12497.982 9410.216
+\i (04:56:12) trapsize 249494
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 31135.149 9410.217
+\i (04:56:12) trapsize 498987
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 68409.482 6179.274
+\i (04:56:12) trapsize 498987
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 68409.482 6179.274
+\i (04:56:12) trapsize 498987
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 68409.482 6179.274
+\i (04:56:12) trapsize 498987
+\i (04:56:12) zoom out 1 
+\i (04:56:12) setwindow pcb
+\i (04:56:12) zoom out 68409.482 6179.274
+\i (04:56:12) trapsize 498987
+\i (04:56:13) zoom in 1 
+\i (04:56:13) setwindow pcb
+\i (04:56:13) zoom in 1645.013 5580.490
+\i (04:56:13) trapsize 249494
+\i (04:56:13) zoom in 1 
+\i (04:56:13) setwindow pcb
+\i (04:56:13) zoom in -2247.086 5580.490
+\i (04:56:13) trapsize 124747
+\i (04:56:14) zoom in 1 
+\i (04:56:14) setwindow pcb
+\i (04:56:14) zoom in -2247.086 5580.490
+\i (04:56:14) trapsize 62373
+\i (04:56:18) save 
+\i (04:56:20) fillin yes 
+\i (04:56:20) generaledit 
+\i (04:56:22) zoom in 1 
+\i (04:56:22) setwindow pcb
+\i (04:56:22) zoom in 4426.866 6678.262
+\i (04:56:22) trapsize 31187
+\i (04:56:22) zoom in 1 
+\i (04:56:22) setwindow pcb
+\i (04:56:22) zoom in 4426.867 6678.262
+\i (04:56:22) trapsize 15593
+\i (04:56:23) zoom in 1 
+\i (04:56:23) setwindow pcb
+\i (04:56:23) zoom in 4426.867 6678.262
+\i (04:56:23) trapsize 7797
+\i (04:56:23) zoom in 1 
+\i (04:56:23) setwindow pcb
+\i (04:56:23) zoom in 4426.867 6678.262
+\i (04:56:23) trapsize 3898
+\i (04:56:24) zoom in 1 
+\i (04:56:24) setwindow pcb
+\i (04:56:24) zoom in 4426.867 6678.262
+\i (04:56:24) trapsize 1949
+\i (04:56:24) zoom in 1 
+\i (04:56:24) setwindow pcb
+\i (04:56:24) zoom in 4426.866 6678.263
+\i (04:56:24) trapsize 975
+\i (04:56:25) zoom out 1 
+\i (04:56:25) setwindow pcb
+\i (04:56:25) zoom out 4426.866 6678.263
+\i (04:56:25) trapsize 1949
+\i (04:56:25) zoom out 1 
+\i (04:56:25) setwindow pcb
+\i (04:56:25) zoom out 4426.865 6678.264
+\i (04:56:25) trapsize 3898
+\i (04:56:27) zoom out 1 
+\i (04:56:27) setwindow pcb
+\i (04:56:27) zoom out 4245.983 6838.096
+\i (04:56:27) trapsize 7797
+\i (04:56:27) zoom out 1 
+\i (04:56:27) setwindow pcb
+\i (04:56:27) zoom out 4245.982 6838.096
+\i (04:56:27) trapsize 15593
+\i (04:56:28) zoom out 1 
+\i (04:56:28) setwindow pcb
+\i (04:56:28) zoom out 4245.982 6838.095
+\i (04:56:28) trapsize 31187
+\i (04:56:28) zoom out 1 
+\i (04:56:28) setwindow pcb
+\i (04:56:28) zoom out 4245.982 6838.095
+\i (04:56:28) trapsize 62373
+\i (04:56:30) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (04:56:30) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (04:56:31) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (04:56:31) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (04:56:32) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (04:56:32) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (04:56:35) pick grid 1439.178 9407.881
+\t (04:56:35) last pick:  1439.551 9407.700
+\i (04:56:39) zoom out 1 
+\i (04:56:39) setwindow pcb
+\i (04:56:39) zoom out 1925.690 2060.289
+\i (04:56:39) trapsize 124747
+\i (04:56:49) reports 'Placed Component Report' 
+\i (04:56:50) updateport SearchPane
+\i (04:56:50) generaledit 
+\i (05:10:49) xrefdes '!' C283 
+\i (05:10:49) xrefdes '!' C285 
+\i (05:10:49) xrefdes '!' C286 
+\i (05:10:49) xrefdes '!' C289 
+\i (05:10:49) xrefdes '!' C290 
+\i (05:10:49) xrefdes '!' C291 
+\i (05:10:49) xrefdes '!' C292 
+\i (05:10:49) xrefdes '!' C288 
+\i (05:10:49) xrefdes '!' C287 
+\i (05:10:49) xname_flush '!' 
+\i (05:22:50) xNet 0.95V_Vddc 
+\i (05:22:50) xNet 5Vcc_Ext 
+\i (05:22:50) xNet Gnd 
+\i (05:22:50) xNet N28028821 
+\i (05:22:50) xNet N28030818 
+\i (05:22:50) xNet N28036168 
+\i (05:22:50) xNet Pwr_Ocp_U2 
+\i (05:22:50) xNet Pwr_Ss_U2 
+\i (05:22:50) xNet Pwr_Stsel_U2 
+\i (05:22:50) xNet U2_Pgood 
+\i (05:22:50) xNet U2_Ph1 
+\i (05:22:50) xrefdes U1 
+\i (05:22:50) xrefdes Tp3 
+\i (05:22:50) xrefdes Tp2 
+\i (05:22:50) xrefdes Tp6 
+\i (05:22:50) xrefdes Tp5 
+\i (05:22:50) xrefdes R2 
+\i (05:22:50) xrefdes R3 
+\i (05:22:50) xrefdes C18 
+\i (05:22:50) xrefdes R4 
+\i (05:22:50) xrefdes R5 
+\i (05:22:50) xrefdes R1 
+\i (05:22:50) xrefdes C2 
+\i (05:22:50) xrefdes C1 
+\i (05:22:50) xrefdes C3 
+\i (05:22:50) xrefdes C4 
+\i (05:22:50) xrefdes C7 
+\i (05:22:50) xrefdes C6 
+\i (05:22:50) xrefdes C5 
+\i (05:22:50) xname_flush 
+\i (05:22:51) xNet '!' 0.95V_Vddc 
+\i (05:22:51) xNet '!' 5Vcc_Ext 
+\i (05:22:51) xNet '!' Gnd 
+\i (05:22:51) xNet '!' N28028821 
+\i (05:22:51) xNet '!' N28030818 
+\i (05:22:51) xNet '!' N28036168 
+\i (05:22:51) xNet '!' Pwr_Ocp_U2 
+\i (05:22:51) xNet '!' Pwr_Ss_U2 
+\i (05:22:51) xNet '!' Pwr_Stsel_U2 
+\i (05:22:51) xNet '!' U2_Pgood 
+\i (05:22:51) xNet '!' U2_Ph1 
+\i (05:22:51) xrefdes '!' U1 
+\i (05:22:51) xrefdes '!' Tp3 
+\i (05:22:51) xrefdes '!' Tp2 
+\i (05:22:51) xrefdes '!' Tp6 
+\i (05:22:51) xrefdes '!' Tp5 
+\i (05:22:51) xrefdes '!' R2 
+\i (05:22:51) xrefdes '!' R3 
+\i (05:22:51) xrefdes '!' C18 
+\i (05:22:51) xrefdes '!' R4 
+\i (05:22:51) xrefdes '!' R5 
+\i (05:22:51) xrefdes '!' R1 
+\i (05:22:51) xrefdes '!' C2 
+\i (05:22:51) xrefdes '!' C1 
+\i (05:22:51) xrefdes '!' C3 
+\i (05:22:51) xrefdes '!' C4 
+\i (05:22:51) xrefdes '!' C7 
+\i (05:22:51) xrefdes '!' C6 
+\i (05:22:51) xrefdes '!' C5 
+\i (05:22:51) xname_flush '!' 
+\i (05:22:58) xNet 0.95V_Vddc 
+\i (05:22:58) xNet 5Vcc_Ext 
+\i (05:22:58) xNet Gnd 
+\i (05:22:58) xNet N28028821 
+\i (05:22:58) xNet N28030818 
+\i (05:22:58) xNet N28036168 
+\i (05:22:58) xNet Pwr_Ocp_U2 
+\i (05:22:58) xNet Pwr_Ss_U2 
+\i (05:22:58) xNet Pwr_Stsel_U2 
+\i (05:22:58) xNet U2_Pgood 
+\i (05:22:58) xNet U2_Ph1 
+\i (05:22:58) xrefdes U1 
+\i (05:22:58) xrefdes Tp3 
+\i (05:22:58) xrefdes Tp2 
+\i (05:22:58) xrefdes Tp6 
+\i (05:22:58) xrefdes Tp5 
+\i (05:22:58) xrefdes R2 
+\i (05:22:58) xrefdes R3 
+\i (05:22:58) xrefdes C18 
+\i (05:22:58) xrefdes R4 
+\i (05:22:58) xrefdes R5 
+\i (05:22:58) xrefdes R1 
+\i (05:22:58) xrefdes C2 
+\i (05:22:58) xrefdes C1 
+\i (05:22:58) xrefdes C3 
+\i (05:22:58) xrefdes C4 
+\i (05:22:58) xrefdes C7 
+\i (05:22:58) xrefdes C6 
+\i (05:22:58) xrefdes C5 
+\i (05:22:58) xname_flush 
+\i (05:23:04) xNet N28481535 
+\i (05:23:04) xNet N28481557 
+\i (05:23:04) xNet N28481559 
+\i (05:23:04) xNet N28481563 
+\i (05:23:04) xNet N28481583 
+\i (05:23:04) xNet N28481609 
+\i (05:23:04) xNet N28481635 
+\i (05:23:04) xNet N28481637 
+\i (05:23:04) xrefdes U29 
+\i (05:23:04) xrefdes C282 
+\i (05:23:04) xrefdes C283 
+\i (05:23:04) xrefdes C284 
+\i (05:23:04) xrefdes C285 
+\i (05:23:04) xrefdes C286 
+\i (05:23:04) xrefdes C289 
+\i (05:23:04) xrefdes C290 
+\i (05:23:04) xrefdes C291 
+\i (05:23:04) xrefdes C292 
+\i (05:23:04) xrefdes R182 
+\i (05:23:04) xrefdes R184 
+\i (05:23:04) xrefdes R186 
+\i (05:23:04) xrefdes C288 
+\i (05:23:04) xrefdes R189 
+\i (05:23:04) xrefdes R183 
+\i (05:23:04) xrefdes R185 
+\i (05:23:04) xrefdes R188 
+\i (05:23:04) xrefdes R187 
+\i (05:23:04) xrefdes R190 
+\i (05:23:04) xrefdes C287 
+\i (05:23:04) xname_flush 
+\i (05:23:08) xNet '!' 0.95V_Vddc 
+\i (05:23:08) xNet '!' 5Vcc_Ext 
+\i (05:23:08) xNet '!' Gnd 
+\i (05:23:08) xNet '!' N28481535 
+\i (05:23:08) xNet '!' N28481557 
+\i (05:23:08) xNet '!' N28481559 
+\i (05:23:08) xNet '!' N28481563 
+\i (05:23:08) xNet '!' N28481583 
+\i (05:23:08) xNet '!' N28481609 
+\i (05:23:08) xNet '!' N28481635 
+\i (05:23:08) xNet '!' N28481637 
+\i (05:23:08) xrefdes '!' U29 
+\i (05:23:08) xrefdes '!' C282 
+\i (05:23:08) xrefdes '!' C283 
+\i (05:23:08) xrefdes '!' C284 
+\i (05:23:08) xrefdes '!' C285 
+\i (05:23:08) xrefdes '!' C286 
+\i (05:23:08) xrefdes '!' C289 
+\i (05:23:08) xrefdes '!' C290 
+\i (05:23:09) xrefdes '!' C291 
+\i (05:23:09) xrefdes '!' C292 
+\i (05:23:09) xrefdes '!' R182 
+\i (05:23:09) xrefdes '!' R184 
+\i (05:23:09) xrefdes '!' R186 
+\i (05:23:09) xrefdes '!' C288 
+\i (05:23:09) xrefdes '!' R189 
+\i (05:23:09) xrefdes '!' R183 
+\i (05:23:09) xrefdes '!' R185 
+\i (05:23:09) xrefdes '!' R188 
+\i (05:23:09) xrefdes '!' R187 
+\i (05:23:09) xrefdes '!' R190 
+\i (05:23:09) xrefdes '!' C287 
+\i (05:23:09) xname_flush '!' 
+\i (05:23:13) xNet 0.95V_Vddc 
+\i (05:23:13) xNet 5Vcc_Ext 
+\i (05:23:13) xNet Gnd 
+\i (05:23:13) xNet N28481535 
+\i (05:23:13) xNet N28481557 
+\i (05:23:13) xNet N28481559 
+\i (05:23:13) xNet N28481563 
+\i (05:23:13) xNet N28481583 
+\i (05:23:13) xNet N28481609 
+\i (05:23:13) xNet N28481635 
+\i (05:23:13) xNet N28481637 
+\i (05:23:13) xrefdes U29 
+\i (05:23:13) xrefdes C282 
+\i (05:23:13) xrefdes C283 
+\i (05:23:13) xrefdes C284 
+\i (05:23:13) xrefdes C285 
+\i (05:23:13) xrefdes C286 
+\i (05:23:13) xrefdes C289 
+\i (05:23:13) xrefdes C290 
+\i (05:23:13) xrefdes C291 
+\i (05:23:13) xrefdes C292 
+\i (05:23:13) xrefdes R182 
+\i (05:23:13) xrefdes R184 
+\i (05:23:13) xrefdes R186 
+\i (05:23:13) xrefdes C288 
+\i (05:23:13) xrefdes R189 
+\i (05:23:13) xrefdes R183 
+\i (05:23:13) xrefdes R185 
+\i (05:23:13) xrefdes R188 
+\i (05:23:13) xrefdes R187 
+\i (05:23:13) xrefdes R190 
+\i (05:23:14) xrefdes C287 
+\i (05:23:14) xname_flush 
+\i (05:23:15) xNet '!' 0.95V_Vddc 
+\i (05:23:15) xNet '!' 5Vcc_Ext 
+\i (05:23:15) xNet '!' Gnd 
+\i (05:23:15) xNet '!' N28481535 
+\i (05:23:15) xNet '!' N28481557 
+\i (05:23:15) xNet '!' N28481559 
+\i (05:23:15) xNet '!' N28481563 
+\i (05:23:15) xNet '!' N28481583 
+\i (05:23:15) xNet '!' N28481609 
+\i (05:23:15) xNet '!' N28481635 
+\i (05:23:15) xNet '!' N28481637 
+\i (05:23:15) xrefdes '!' U29 
+\i (05:23:15) xrefdes '!' C282 
+\i (05:23:15) xrefdes '!' C283 
+\i (05:23:15) xrefdes '!' C284 
+\i (05:23:15) xrefdes '!' C285 
+\i (05:23:15) xrefdes '!' C286 
+\i (05:23:15) xrefdes '!' C289 
+\i (05:23:15) xrefdes '!' C290 
+\i (05:23:15) xrefdes '!' C291 
+\i (05:23:15) xrefdes '!' C292 
+\i (05:23:15) xrefdes '!' R182 
+\i (05:23:15) xrefdes '!' R184 
+\i (05:23:15) xrefdes '!' R186 
+\i (05:23:15) xrefdes '!' C288 
+\i (05:23:15) xrefdes '!' R189 
+\i (05:23:15) xrefdes '!' R183 
+\i (05:23:15) xrefdes '!' R185 
+\i (05:23:15) xrefdes '!' R188 
+\i (05:23:15) xrefdes '!' R187 
+\i (05:23:15) xrefdes '!' R190 
+\i (05:23:15) xrefdes '!' C287 
+\i (05:23:15) xname_flush '!' 
+\i (05:23:50) xNet 0.95V_Vddc 
+\i (05:23:50) xNet 5Vcc_Ext 
+\i (05:23:50) xNet Gnd 
+\i (05:23:50) xNet N28067181 
+\i (05:23:50) xNet N28067218 
+\i (05:23:50) xNet N28067330 
+\i (05:23:50) xNet Pwr_Ocp_U3 
+\i (05:23:50) xNet Pwr_Ss_U3 
+\i (05:23:50) xNet Pwr_Stsel_U3 
+\i (05:23:50) xNet U3_Pgood 
+\i (05:23:50) xNet U3_Ph1 
+\i (05:23:50) xrefdes U3 
+\i (05:23:50) xrefdes C29 
+\i (05:23:50) xrefdes Tp11 
+\i (05:23:50) xrefdes Tp10 
+\i (05:23:50) xrefdes Tp13 
+\i (05:23:50) xrefdes Tp12 
+\i (05:23:50) xrefdes R21 
+\i (05:23:50) xrefdes R22 
+\i (05:23:50) xrefdes C35 
+\i (05:23:50) xrefdes C30 
+\i (05:23:50) xrefdes R23 
+\i (05:23:50) xrefdes R24 
+\i (05:23:50) xrefdes C32 
+\i (05:23:50) xrefdes C34 
+\i (05:23:50) xrefdes C33 
+\i (05:23:50) xrefdes R20 
+\i (05:23:51) xrefdes C31 
+\i (05:23:51) xrefdes C28 
+\i (05:23:51) xname_flush 
+\i (05:23:56) xname_flush 
+\i (05:24:00) xNet '!' 0.95V_Vddc 
+\i (05:24:00) xNet '!' 5Vcc_Ext 
+\i (05:24:00) xNet '!' Gnd 
+\i (05:24:00) xname_flush '!' 
+\i (05:28:16) pick grid 11680.898 1860.694
+\t (05:28:16) last pick:  11680.551 1860.700
+\i (05:28:18) save 
+\t (05:28:18) [20:51:16.165017] Periodic Lic check successful
+[20:51:16.165064] Feature usage summary:
+[20:51:16.165065] OrCAD_X_PCB_Professional_Plus  
+[20:51:16.165066] OrCAD_X_Professional_Plus  
+\i (05:28:19) fillin yes 
+\i (05:28:19) generaledit 
+\i (20:22:42) setwindow text
+\i (20:22:42) close
+\i (20:23:24) setwindow pcb
+\i (20:23:24) xname_flush 
+\i (20:23:25) xname_flush '!' 
+\i (20:33:14) xNet 12Vcc_Ext 
+\i (20:33:14) xname_flush 
+\i (20:33:14) trapsize 56909
+\i (20:33:14) xNet '!' 12Vcc_Ext 
+\i (20:33:14) xname_flush '!' 
+\i (20:33:14) xNet 12Vcc_Ext 
+\i (20:33:14) xname_flush 
+\i (20:33:14) trapsize 56909
+\i (20:33:15) xNet '!' 12Vcc_Ext 
+\i (20:33:15) xname_flush '!' 
+\i (20:33:26) xNet 3.3V_Ext 
+\i (20:33:26) xname_flush 
+\i (20:33:26) trapsize 56909
+\i (20:33:27) xNet '!' 3.3V_Ext 
+\i (20:33:27) xname_flush '!' 
+\i (20:35:02) xname_flush 
+\i (20:35:12) xname_flush '!' 
+\i (20:35:13) xname_flush 
+\i (20:35:38) xname_flush 
+\i (20:36:09) xNet 12Vcc_Ext 
+\i (20:36:09) xname_flush 
+\i (20:36:09) trapsize 56909
+\i (20:36:10) xNet '!' 12Vcc_Ext 
+\i (20:36:10) xname_flush '!' 
+\i (20:36:55) xrefdes C21 
+\i (20:36:55) xname_flush 
+\i (20:36:55) trapsize 2692
+\i (20:36:59) xrefdes '!' C21 
+\i (20:36:59) xname_flush '!' 
+\i (20:37:31) xname_flush 
+\i (20:37:32) xname_flush '!' 
+\i (20:37:55) xNet 12Vcc_Ext 
+\i (20:37:55) xname_flush 
+\i (20:37:55) trapsize 56909
+\i (20:37:56) xNet '!' 12Vcc_Ext 
+\i (20:37:56) xname_flush '!' 
+\i (20:37:57) xNet 12Vcc_Ext 
+\i (20:37:57) xname_flush 
+\i (20:37:57) trapsize 56909
+\i (20:37:59) xNet '!' 12Vcc_Ext 
+\i (20:37:59) xname_flush '!' 
+\i (20:38:13) xNet 12Vcc_Ext 
+\i (20:38:13) xname_flush 
+\i (20:38:13) trapsize 56909
+\i (20:38:16) xNet '!' 12Vcc_Ext 
+\i (20:38:16) xname_flush '!' 
+\i (20:38:16) xNet 12Vcc_Ext 
+\i (20:38:16) xname_flush 
+\i (20:38:16) trapsize 56909
+\i (20:38:17) xNet '!' 12Vcc_Ext 
+\i (20:38:17) xname_flush '!' 
+\i (20:38:19) xNet 12Vcc_Ext 
+\i (20:38:19) xname_flush 
+\i (20:38:19) trapsize 56909
+\i (20:38:22) xNet '!' 12Vcc_Ext 
+\i (20:38:22) xname_flush '!' 
+\i (20:38:51) xNet 12Vcc_Ext 
+\i (20:38:51) xNet N28481535 
+\i (20:38:51) xNet N28481559 
+\i (20:38:51) xrefdes R184 
+\i (20:38:51) xrefdes R185 
+\i (20:38:51) xname_flush 
+\i (20:38:51) trapsize 56909
+\i (20:38:55) xNet '!' 12Vcc_Ext 
+\i (20:38:55) xNet '!' N28481535 
+\i (20:38:55) xNet '!' N28481559 
+\i (20:38:55) xrefdes '!' R184 
+\i (20:38:55) xrefdes '!' R185 
+\i (20:38:55) xname_flush '!' 
+\i (20:39:27) xname_flush 
+\i (20:53:16) xname_flush '!' 
+\i (20:56:41) xname_flush 
+\i (21:05:34) xname_flush 
+\i (21:05:56) xname_flush 
+\i (21:05:58) xname_flush '!' 
+\i (21:06:05) xNet 12Vcc_Ext 
+\i (21:06:05) xname_flush 
+\i (21:06:05) trapsize 56909
+\i (21:06:09) xNet '!' 12Vcc_Ext 
+\i (21:06:09) xname_flush '!' 
+\i (21:06:14) xNet 12Vcc_Ext 
+\i (21:06:14) xname_flush 
+\i (21:06:14) trapsize 56909
+\i (21:06:15) xNet '!' 12Vcc_Ext 
+\i (21:06:15) xname_flush '!' 
+\i (21:06:15) xname_flush 
+\i (21:06:18) xname_flush '!' 
+\i (21:06:22) xname_flush 
+\i (21:06:26) xname_flush 
+\i (21:06:29) xNet 12Vcc_Ext 
+\i (21:06:29) xname_flush 
+\i (21:06:29) trapsize 56909
+\i (21:06:30) xNet '!' 12Vcc_Ext 
+\i (21:06:30) xname_flush '!' 
+\i (21:06:31) xname_flush 
+\i (21:06:32) xname_flush '!' 
+\i (21:06:32) xname_flush 
+\i (21:06:32) xNet 12Vcc_Ext 
+\i (21:06:32) xname_flush 
+\i (21:06:32) trapsize 56909
+\i (21:06:36) xNet '!' 12Vcc_Ext 
+\i (21:06:36) xname_flush '!' 
+\i (21:06:37) xNet 12Vcc_Ext 
+\i (21:06:37) xname_flush 
+\i (21:06:37) trapsize 56909
+\i (21:06:43) xNet '!' 12Vcc_Ext 
+\i (21:06:43) xname_flush '!' 
+\i (21:06:50) xname_flush 
+\i (21:06:58) xname_flush '!' 
+\i (21:06:58) xname_flush 
+\i (21:07:03) xname_flush '!' 
+\i (21:07:04) xname_flush 
+\i (21:07:06) xname_flush '!' 
+\i (21:07:06) xname_flush 
+\i (21:07:08) xname_flush '!' 
+\i (21:07:09) xname_flush 
+\i (21:07:13) xname_flush '!' 
+\i (21:07:16) xname_flush 
+\i (21:07:17) xname_flush '!' 
+\i (21:07:19) xname_flush 
+\i (21:07:19) xname_flush '!' 
+\i (21:07:21) xname_flush 
+\i (21:07:27) xname_flush '!' 
+\i (21:07:28) xname_flush 
+\i (21:07:29) xname_flush '!' 
+\i (21:07:29) xname_flush 
+\i (21:07:31) xname_flush '!' 
+\i (21:07:45) xname_flush 
+\i (21:07:48) xname_flush '!' 
+\i (21:07:53) xname_flush 
+\i (21:07:55) xname_flush '!' 
+\i (21:07:56) xname_flush 
+\i (21:07:58) xname_flush '!' 
+\i (21:07:59) xname_flush 
+\i (21:10:23) xNet 12Vcc_Ext 
+\i (21:10:23) xname_flush 
+\i (21:10:23) trapsize 56909
+\i (21:10:25) xNet '!' 12Vcc_Ext 
+\i (21:10:25) xname_flush '!' 
+\i (21:10:39) xNet 12Vcc_Ext 
+\i (21:10:39) xname_flush 
+\i (21:10:39) trapsize 56909
+\i (21:10:40) xNet '!' 12Vcc_Ext 
+\i (21:10:40) xname_flush '!' 
+\i (21:10:40) xNet 12Vcc_Ext 
+\i (21:10:40) xname_flush 
+\i (21:10:40) trapsize 56909
+\i (21:10:47) xNet '!' 12Vcc_Ext 
+\i (21:10:47) xname_flush '!' 
+\i (21:10:49) xNet 12Vcc_Ext 
+\i (21:10:49) xname_flush 
+\i (21:10:49) trapsize 56909
+\i (21:10:52) xNet '!' 12Vcc_Ext 
+\i (21:10:52) xname_flush '!' 
+\i (21:11:53) xNet 3.3V_Ext 
+\i (21:11:53) xname_flush 
+\i (21:11:53) trapsize 56909
+\i (21:11:54) xNet '!' 3.3V_Ext 
+\i (21:11:54) xname_flush '!' 
+\i (21:11:55) xNet 3.3V_Ext 
+\i (21:11:55) xname_flush 
+\i (21:11:56) trapsize 56909
+\i (21:11:57) xNet '!' 3.3V_Ext 
+\i (21:11:57) xname_flush '!' 
+\i (21:12:22) xname_flush 
+\i (21:12:23) xname_flush '!' 
+\i (21:12:26) xname_flush 
+\i (21:12:32) xname_flush '!' 
+\i (21:13:04) xname_flush 
+\i (21:13:04) xname_flush '!' 
+\i (21:13:06) xname_flush 
+\i (21:13:19) xname_flush '!' 
+\i (21:13:20) xname_flush 
+\i (21:13:22) xname_flush '!' 
+\i (21:13:54) xname_flush 
+\i (21:13:56) xname_flush '!' 
+\i (21:13:56) xname_flush 
+\i (21:13:58) xname_flush '!' 
+\i (21:13:58) xname_flush 
+\i (21:13:59) xname_flush '!' 
+\i (21:13:59) xname_flush 
+\i (21:14:00) xname_flush '!' 
+\i (21:14:00) xname_flush 
+\i (21:14:03) xname_flush '!' 
+\i (21:14:03) xname_flush 
+\i (21:14:26) xNet 3.3V_Ext 
+\i (21:14:26) xname_flush 
+\i (21:14:26) trapsize 56909
+\i (21:14:29) xNet '!' 3.3V_Ext 
+\i (21:14:29) xname_flush '!' 
+\i (21:14:44) xNet 12Vcc_Ext 
+\i (21:14:44) xname_flush 
+\i (21:14:44) trapsize 56909
+\i (21:14:52) xNet '!' 12Vcc_Ext 
+\i (21:14:52) xname_flush '!' 
+\i (21:14:53) xNet 12Vcc_Ext 
+\i (21:14:53) xname_flush 
+\i (21:14:53) trapsize 56909
+\i (21:15:02) xname_flush 
+\i (21:15:04) xname_flush '!' 
+\i (21:15:04) xname_flush 
+\i (21:15:06) xNet '!' 12Vcc_Ext 
+\i (21:15:06) xname_flush '!' 
+\i (21:15:06) xNet 12Vcc_Ext 
+\i (21:15:06) xname_flush 
+\i (21:15:06) trapsize 56909
+\i (21:15:08) xNet '!' 12Vcc_Ext 
+\i (21:15:08) xname_flush '!' 
+\i (21:15:11) xNet 12Vcc_Ext 
+\i (21:15:11) xname_flush 
+\i (21:15:11) trapsize 56909
+\i (21:15:13) xNet '!' 12Vcc_Ext 
+\i (21:15:13) xname_flush '!' 
+\i (21:15:26) xname_flush 
+\i (21:15:27) xNet 12Vcc_Ext 
+\i (21:15:27) xname_flush 
+\i (21:15:27) trapsize 56909
+\i (21:15:29) xNet '!' 12Vcc_Ext 
+\i (21:15:29) xname_flush '!' 
+\i (21:15:38) xname_flush 
+\i (21:15:39) xname_flush '!' 
+\i (21:15:39) xname_flush '!' 
+\i (21:15:40) xname_flush 
+\i (21:15:41) xname_flush '!' 
+\i (21:16:05) xNet 12Vcc_Ext 
+\i (21:16:05) xname_flush 
+\i (21:16:05) trapsize 56909
+\i (21:16:06) xNet '!' 12Vcc_Ext 
+\i (21:16:06) xname_flush '!' 
+\i (21:16:09) xNet 12Vcc_Ext 
+\i (21:16:09) xname_flush 
+\i (21:16:09) trapsize 56909
+\i (21:16:10) xNet '!' 12Vcc_Ext 
+\i (21:16:10) xname_flush '!' 
+\i (21:16:12) xNet 12Vcc_Ext 
+\i (21:16:12) xname_flush 
+\i (21:16:12) trapsize 56909
+\i (21:16:13) xNet '!' 12Vcc_Ext 
+\i (21:16:13) xname_flush '!' 
+\i (21:16:14) xNet 12Vcc_Ext 
+\i (21:16:14) xname_flush 
+\i (21:16:14) trapsize 56909
+\i (21:16:17) xNet '!' 12Vcc_Ext 
+\i (21:16:17) xname_flush '!' 
+\i (21:17:11) xNet 12Vcc_Ext 
+\i (21:17:11) xNet N24248530 
+\i (21:17:11) xNet N24248584 
+\i (21:17:11) xNet N24248628 
+\i (21:17:11) xNet N24248658 
+\i (21:17:11) xNet N24248709 
+\i (21:17:11) xNet N24248723 
+\i (21:17:11) xNet U1_Pgood 
+\i (21:17:11) xNet U1_Ph1 
+\i (21:17:11) xNet U1_V5v 
+\i (21:17:11) xrefdes C19 
+\i (21:17:11) xrefdes C20 
+\i (21:17:11) xrefdes C22 
+\i (21:17:11) xrefdes C23 
+\i (21:17:11) xrefdes C24 
+\i (21:17:11) xrefdes C25 
+\i (21:17:11) xrefdes C26 
+\i (21:17:11) xrefdes C27 
+\i (21:17:11) xrefdes R6 
+\i (21:17:11) xrefdes R7 
+\i (21:17:11) xrefdes R8 
+\i (21:17:11) xrefdes R9 
+\i (21:17:11) xrefdes R10 
+\i (21:17:11) xrefdes R14 
+\i (21:17:11) xrefdes Tp8 
+\i (21:17:11) xrefdes Tp9 
+\i (21:17:11) xrefdes C21 
+\i (21:17:11) xrefdes U2 
+\i (21:17:11) xname_flush 
+\i (21:17:15) xname_flush 
+\i (21:17:18) xNet '!' 12Vcc_Ext 
+\i (21:17:18) xname_flush '!' 
+\i (21:27:48) zoom out 1 
+\i (21:27:48) setwindow pcb
+\t (21:27:48) [12:50:46.432563] Periodic Lic check successful
+[12:50:46.432586] Feature usage summary:
+[12:50:46.432586] OrCAD_X_PCB_Professional_Plus  
+[12:50:46.432587] OrCAD_X_Professional_Plus  
+\i (21:27:48) zoom out 337.003 5192.155
+\i (21:27:48) trapsize 113817
+\i (21:27:48) zoom out 1 
+\i (21:27:48) setwindow pcb
+\i (21:27:48) zoom out 6904.244 5169.392
+\i (21:27:48) trapsize 227634
+\i (21:27:48) zoom out 1 
+\i (21:27:48) setwindow pcb
+\i (21:27:48) zoom out 19947.674 5169.393
+\i (21:27:48) trapsize 455268
+\i (21:27:49) zoom in 1 
+\i (21:27:49) setwindow pcb
+\i (21:27:49) zoom in 10887.840 9274.432
+\i (21:27:49) trapsize 227634
+\i (21:27:49) zoom in 1 
+\i (21:27:49) setwindow pcb
+\i (21:27:49) zoom in 1782.479 9365.486
+\i (21:27:49) trapsize 113817
+\i (21:27:55) netin 
+\i (21:27:58) setwindow form.niparams
+\i (21:27:58) FORM niparams import  
+\t (21:27:58) Starting Cadence Logic Import...
+\i (21:27:58) setwindow pcb
+\i (21:27:58) updateport SearchPane
+\t (21:27:58) SpawnProcessExit background process completed status = 1
+
+\w (21:27:58) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (21:27:59) Opening existing design...
+\i (21:27:59) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (21:27:59) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (21:27:59) trapsize 113817
+\i (21:28:01) updateport SearchPane
+\i (21:28:01) generaledit 
+\i (21:28:18) setwindow text
+\i (21:28:18) close
+\i (21:28:22) setwindow pcb
+\i (21:28:22) netin 
+\i (21:28:24) setwindow form.niparams
+\i (21:28:24) FORM niparams import  
+\t (21:28:24) Starting Cadence Logic Import...
+\i (21:28:24) setwindow pcb
+\i (21:28:24) updateport SearchPane
+\t (21:28:24) SpawnProcessExit background process completed status = 1
+
+\w (21:28:24) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (21:28:25) Opening existing design...
+\i (21:28:25) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (21:28:25) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (21:28:25) trapsize 113817
+\i (21:28:26) updateport SearchPane
+\i (21:28:26) generaledit 
+\i (21:35:42) xrefdes U31 
+\t (21:35:42) Can not select unplaced component U31.
+\t (21:35:42) Can not select unplaced component U31.
+\i (21:35:42) xname_flush 
+\i (21:37:21) setwindow text
+\i (21:37:21) close
+\i (21:37:23) setwindow pcb
+\i (21:37:23) netin 
+\t (21:37:23) [13:00:21.111449] Periodic Lic check successful
+[13:00:21.635760] Feature usage summary:
+[13:00:21.635760] OrCAD_X_PCB_Professional_Plus  
+[13:00:21.635761] OrCAD_X_Professional_Plus  
+\i (21:37:24) setwindow form.niparams
+\i (21:37:24) FORM niparams import  
+\t (21:37:24) Starting Cadence Logic Import...
+\i (21:37:25) setwindow pcb
+\i (21:37:25) updateport SearchPane
+\t (21:37:25) SpawnProcessExit background process completed status = 0
+
+\t (21:37:25) Opening existing design...
+\i (21:37:25) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (21:37:25) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (21:37:26) trapsize 113817
+\i (21:37:27) updateport SearchPane
+\i (21:37:27) generaledit 
+\i (21:37:40) done 
+\i (21:37:40) place manual 
+\i (21:37:40) setwindow form.plc_manual
+\i (21:37:40) FORM plc_manual tree  'Components by refdes' 
+\i (21:37:40) setwindow pcb
+\i (21:37:40) FORM plc_manual placement_list 
+\i (21:37:40) FORM plc_manual categories Components by refdes 
+\i (21:37:40) trapsize 113817
+\i (21:37:44) setwindow form.plc_manual
+\i (21:37:44) FORM plc_manual tree  U31 'Components by refdes' 
+\i (21:37:44) FORM plc_manual tree 'MULTISEL YES' U31 'Components by refdes' 
+\t (21:37:44) Placing U31 / TPSM843B22RDGR_B3QFN25_RDG_TEX_TPSM843B22RDG / B3QFN25_RDG_TEX on Top.
+\i (21:37:45) setwindow pcb
+\i (21:37:45) updateport SearchPane
+\i (21:37:45) setwindow form.plc_manual
+\i (21:37:45) FORM plc_manual tree  U30 'Components by refdes' 
+\i (21:37:47) FORM plc_manual tree  U31 'Components by refdes' 
+\i (21:37:47) FORM plc_manual tree 'MULTISEL NO' U31 'Components by refdes' 
+\i (21:37:48) FORM plc_manual tree  U30 'Components by refdes' 
+\i (21:37:48) FORM plc_manual tree 'MULTISEL YES' U30 'Components by refdes' 
+\t (21:37:48) Placing U30 / TPSM843620SITRPB_SIT0015A-MFG_TPSM843620SIT / SIT0015A-MFG on Top.
+\i (21:37:48) setwindow pcb
+\i (21:37:48) updateport SearchPane
+\i (21:37:49) setwindow form.plc_manual
+\i (21:37:49) FORM plc_manual tree 'MULTISEL NO' U30 'Components by refdes' 
+\i (21:37:51) FORM plc_manual cancel  
+\i (21:37:51) setwindow pcb
+\i (21:37:51) updateport SearchPane
+\i (21:37:51) generaledit 
+\i (21:37:56) xrefdes '!' U31 
+\t (21:37:56) Can not select unplaced component U31.
+\t (21:37:56) Can not select unplaced component U31.
+\i (21:37:56) xname_flush '!' 
+\i (21:38:18) xrefdes U30 
+\t (21:38:18) Can not select unplaced component U30.
+\t (21:38:18) Can not select unplaced component U30.
+\i (21:38:18) xname_flush 
+\i (21:38:20) xrefdes '!' U30 
+\t (21:38:20) Can not select unplaced component U30.
+\t (21:38:20) Can not select unplaced component U30.
+\i (21:38:20) xname_flush '!' 
+\i (21:38:28) pick grid 4787.250 13007.634
+\t (21:38:28) last pick:  4787.551 13007.700
+\i (21:39:13) quickplace 
+\i (21:39:19) setwindow form.quickplc
+\i (21:39:19) FORM quickplc place_net_name YES 
+\i (21:39:24) FORM quickplc place  
+\i (21:39:27) FORM quickplc done  
+\i (21:39:27) setwindow pcb
+\i (21:39:27) updateport SearchPane
+\i (21:39:27) generaledit 
+\i (21:39:29) pick grid 1645.900 9934.574
+\t (21:39:29) last pick:  1645.551 9934.700
+\i (21:39:30) zoom in 1 
+\i (21:39:30) setwindow pcb
+\i (21:39:30) zoom in 1645.900 9934.574
+\i (21:39:30) trapsize 56909
+\i (21:39:30) zoom in 1 
+\i (21:39:30) setwindow pcb
+\i (21:39:30) zoom in 1645.899 9934.574
+\i (21:39:30) trapsize 28454
+\i (21:39:31) zoom out 1 
+\i (21:39:31) setwindow pcb
+\i (21:39:31) zoom out 1645.899 9934.574
+\i (21:39:31) trapsize 56909
+\i (21:39:32) unrats all 
+\i (21:39:32) generaledit 
+\i (21:39:33) unrats all 
+\i (21:39:33) generaledit 
+\i (21:39:34) unrats all 
+\i (21:39:34) generaledit 
+\i (21:39:35) rats all 
+\i (21:39:35) generaledit 
+\i (21:39:36) rats all 
+\i (21:39:36) generaledit 
+\i (21:39:39) unrats all 
+\i (21:39:39) generaledit 
+\i (21:39:41) zoom in 1 
+\i (21:39:41) setwindow pcb
+\i (21:39:41) zoom in 894.706 9968.720
+\i (21:39:41) trapsize 28454
+\i (21:39:42) zoom out 1 
+\i (21:39:42) setwindow pcb
+\i (21:39:42) zoom out 894.706 9968.720
+\i (21:39:42) trapsize 56909
+\i (21:39:58) reports 'Placed Component Report' 
+\i (21:39:59) updateport SearchPane
+\i (21:39:59) generaledit 
+\i (21:40:31) setwindow text
+\i (21:40:31) close
+\i (21:40:33) setwindow pcb
+\i (21:40:33) pick grid 12708.915 13223.888
+\t (21:40:33) last pick:  12708.551 13223.700
+\i (21:40:34) save 
+\i (21:40:35) fillin yes 
+\i (21:40:35) generaledit 
+\i (21:48:17) plctxt in 
+\t (21:48:17) [13:11:15.467058] Periodic Lic check successful
+[13:11:15.991368] Feature usage summary:
+[13:11:15.991369] OrCAD_X_PCB_Professional_Plus  
+[13:11:15.991369] OrCAD_X_Professional_Plus  
+\i (21:48:19) setwindow form.plctxt
+\i (21:48:19) FORM plctxt browse  
+\i (21:48:27) fillin "C:/Users/PC/Downloads/placement_bucks_final.txt"
+\i (21:48:29) FORM plctxt execute  
+\t (21:48:29) Starting Place symbols by text file...
+\i (21:48:29) setwindow pcb
+\i (21:48:29) updateport SearchPane
+\t (21:48:29) SpawnProcessExit background process completed status = 0
+
+\t (21:48:30) Opening existing design...
+\i (21:48:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (21:48:30) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (21:48:30) trapsize 56909
+\i (21:48:31) updateport SearchPane
+\i (21:48:35) setwindow form.plctxt
+\i (21:48:35) FORM plctxt add_and_move YES 
+\i (21:48:37) FORM plctxt ignore_fix NO 
+\i (21:48:39) FORM plctxt execute  
+\t (21:48:39) Starting Place symbols by text file...
+\i (21:48:39) setwindow pcb
+\i (21:48:39) updateport SearchPane
+\t (21:48:39) SpawnProcessExit background process completed status = 0
+
+\t (21:48:39) Opening existing design...
+\i (21:48:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (21:48:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (21:48:40) trapsize 56909
+\i (21:48:41) updateport SearchPane
+\i (21:48:43) zoom out 1 
+\i (21:48:43) setwindow pcb
+\i (21:48:43) zoom out 4161.254 7726.524
+\i (21:48:43) trapsize 113817
+\i (21:48:43) zoom in 1 
+\i (21:48:43) setwindow pcb
+\i (21:48:43) zoom in 2317.418 5609.528
+\i (21:48:43) trapsize 56909
+\i (21:48:44) zoom out 1 
+\i (21:48:44) setwindow pcb
+\i (21:48:44) zoom out 2340.182 5598.146
+\i (21:48:44) trapsize 113817
+\i (21:48:44) zoom out 1 
+\i (21:48:44) setwindow pcb
+\i (21:48:44) zoom out 2340.181 5598.146
+\i (21:48:44) trapsize 227634
+\i (21:48:44) zoom out 1 
+\i (21:48:44) setwindow pcb
+\i (21:48:44) zoom out 7609.915 4232.342
+\i (21:48:44) trapsize 455268
+\i (21:48:45) zoom in 1 
+\i (21:48:45) setwindow pcb
+\i (21:48:45) zoom in 1327.214 -1400.074
+\i (21:48:45) trapsize 227634
+\i (21:48:45) zoom in 1 
+\i (21:48:45) setwindow pcb
+\i (21:48:45) zoom in -2405.986 -1400.074
+\i (21:48:45) trapsize 113817
+\i (21:48:45) zoom in 1 
+\i (21:48:45) setwindow pcb
+\i (21:48:45) zoom in 143.516 716.923
+\i (21:48:45) trapsize 56909
+\i (21:48:45) zoom in 1 
+\i (21:48:45) setwindow pcb
+\i (21:48:45) zoom in 1019.908 1138.047
+\i (21:48:45) trapsize 28454
+\i (21:48:46) zoom in 1 
+\i (21:48:46) setwindow pcb
+\i (21:48:46) zoom in 1019.908 1138.047
+\i (21:48:46) trapsize 14227
+\i (21:48:47) zoom out 1 
+\i (21:48:47) setwindow pcb
+\i (21:48:47) zoom out 2024.344 1846.558
+\i (21:48:47) trapsize 28454
+\i (21:48:48) zoom out 1 
+\i (21:48:48) setwindow pcb
+\i (21:48:48) zoom out 1819.473 987.240
+\i (21:48:48) trapsize 56909
+\i (21:48:49) zoom out 1 
+\i (21:48:49) setwindow pcb
+\i (21:48:49) zoom out 2001.580 1818.105
+\i (21:48:49) trapsize 113817
+\i (21:48:50) zoom in 1 
+\i (21:48:50) setwindow pcb
+\i (21:48:50) zoom in 2169.460 1886.396
+\i (21:48:50) trapsize 56909
+\i (21:48:51) zoom in 1 
+\i (21:48:51) setwindow pcb
+\i (21:48:51) zoom in 2169.460 1886.396
+\i (21:48:51) trapsize 28454
+\i (21:48:51) zoom in 1 
+\i (21:48:51) setwindow pcb
+\i (21:48:51) zoom in 2169.460 1886.396
+\i (21:48:51) trapsize 14227
+\i (21:48:53) zoom out 1 
+\i (21:48:53) setwindow pcb
+\i (21:48:53) zoom out 1779.637 1798.188
+\i (21:48:53) trapsize 28454
+\i (21:48:53) zoom out 1 
+\i (21:48:53) setwindow pcb
+\i (21:48:53) zoom out 1779.637 1798.189
+\i (21:48:53) trapsize 56909
+\i (21:48:54) zoom in 1 
+\i (21:48:54) setwindow pcb
+\i (21:48:54) zoom in 3043.006 3220.902
+\i (21:48:54) trapsize 28454
+\i (21:48:54) zoom in 1 
+\i (21:48:54) setwindow pcb
+\i (21:48:54) zoom in 3088.533 3209.520
+\i (21:48:54) trapsize 14227
+\i (21:48:54) zoom in 1 
+\i (21:48:54) setwindow pcb
+\i (21:48:54) zoom in 3099.915 3192.448
+\i (21:48:54) trapsize 7114
+\i (21:48:55) zoom in 1 
+\i (21:48:55) setwindow pcb
+\i (21:48:55) zoom in 3218.000 2998.959
+\i (21:48:55) trapsize 3557
+\i (21:48:56) zoom in 1 
+\i (21:48:56) setwindow pcb
+\i (21:48:56) zoom in 3183.144 2969.794
+\i (21:48:56) trapsize 1778
+\i (21:48:56) zoom in 1 
+\i (21:48:56) setwindow pcb
+\i (21:48:56) zoom in 3183.144 2969.794
+\i (21:48:56) trapsize 889
+\i (21:48:56) zoom out 1 
+\i (21:48:56) setwindow pcb
+\i (21:48:56) zoom out 3183.144 2969.794
+\i (21:48:56) trapsize 1778
+\i (21:48:56) zoom out 1 
+\i (21:48:56) setwindow pcb
+\i (21:48:56) zoom out 3183.144 2969.794
+\i (21:48:56) trapsize 3557
+\i (21:48:56) zoom out 1 
+\i (21:48:56) setwindow pcb
+\i (21:48:56) zoom out 3183.144 2969.795
+\i (21:48:56) trapsize 7114
+\i (21:48:57) zoom out 1 
+\i (21:48:57) setwindow pcb
+\i (21:48:57) zoom out 3183.145 2969.795
+\i (21:48:57) trapsize 14227
+\i (21:48:57) zoom out 1 
+\i (21:48:57) setwindow pcb
+\i (21:48:57) zoom out 3183.145 2969.795
+\i (21:48:57) trapsize 28454
+\i (21:48:57) zoom out 1 
+\i (21:48:57) setwindow pcb
+\i (21:48:57) zoom out 2397.806 2360.874
+\i (21:48:57) trapsize 56909
+\i (21:48:57) zoom out 1 
+\i (21:48:57) setwindow pcb
+\i (21:48:57) zoom out 2397.806 2360.874
+\i (21:48:57) trapsize 113817
+\i (21:48:58) zoom in 1 
+\i (21:48:58) setwindow pcb
+\i (21:48:58) zoom in 1692.140 4318.527
+\i (21:48:58) trapsize 56909
+\i (21:48:58) zoom in 1 
+\i (21:48:58) setwindow pcb
+\i (21:48:58) zoom in 1601.086 4136.420
+\i (21:48:58) trapsize 28454
+\i (21:48:58) pick grid 1584.014 4130.730
+\t (21:48:58) last pick:  1583.551 4130.700
+\i (21:49:00) setwindow form.plctxt
+\i (21:49:00) FORM plctxt cancel  
+\i (21:49:00) setwindow pcb
+\i (21:49:00) generaledit 
+\i (21:49:01) save 
+\i (21:49:02) fillin yes 
+\i (21:49:02) generaledit 
+\i (21:49:03) zoom out 1 
+\i (21:49:03) setwindow pcb
+\i (21:49:03) zoom out 3023.800 3817.733
+\i (21:49:03) trapsize 56909
+\i (21:49:03) zoom out 1 
+\i (21:49:03) setwindow pcb
+\i (21:49:03) zoom out 1066.147 3897.405
+\i (21:49:03) trapsize 113817
+\i (21:49:04) zoom out 1 
+\i (21:49:04) setwindow pcb
+\i (21:49:04) zoom out 1066.147 3897.404
+\i (21:49:04) trapsize 227634
+\i (21:49:04) zoom in 1 
+\i (21:49:04) setwindow pcb
+\i (21:49:04) zoom in 1145.109 -1156.074
+\i (21:49:04) trapsize 113817
+\i (21:49:04) zoom in 1 
+\i (21:49:04) setwindow pcb
+\i (21:49:04) zoom in 325.626 1188.558
+\i (21:49:04) trapsize 56909
+\i (21:49:05) zoom in 1 
+\i (21:49:05) setwindow pcb
+\i (21:49:05) zoom in 120.755 1723.498
+\i (21:49:05) trapsize 28454
+\i (21:49:05) zoom in 1 
+\i (21:49:05) setwindow pcb
+\i (21:49:05) zoom in 217.500 2025.113
+\i (21:49:05) trapsize 14227
+\i (21:49:06) zoom in 1 
+\i (21:49:06) setwindow pcb
+\i (21:49:06) zoom in 248.800 2096.249
+\i (21:49:06) trapsize 7114
+\i (21:49:06) zoom in 1 
+\i (21:49:06) setwindow pcb
+\i (21:49:06) zoom in 294.327 2171.653
+\i (21:49:06) trapsize 3557
+\i (21:49:06) zoom in 1 
+\i (21:49:06) setwindow pcb
+\i (21:49:06) zoom in 294.327 2171.653
+\i (21:49:06) trapsize 1778
+\i (21:49:07) zoom out 1 
+\i (21:49:07) setwindow pcb
+\i (21:49:07) zoom out 314.601 2177.344
+\i (21:49:07) trapsize 3557
+\i (21:49:07) zoom out 1 
+\i (21:49:07) setwindow pcb
+\i (21:49:07) zoom out 314.602 2177.345
+\i (21:49:07) trapsize 7114
+\i (21:49:07) zoom out 1 
+\i (21:49:07) setwindow pcb
+\i (21:49:07) zoom out 314.601 2177.344
+\i (21:49:07) trapsize 14227
+\i (21:49:08) zoom out 1 
+\i (21:49:08) setwindow pcb
+\i (21:49:08) zoom out 402.810 1830.203
+\i (21:49:08) trapsize 28454
+\i (21:49:08) zoom out 1 
+\i (21:49:08) setwindow pcb
+\i (21:49:08) zoom out 402.809 1830.202
+\i (21:49:08) trapsize 56909
+\i (21:49:09) zoom out 1 
+\i (21:49:09) setwindow pcb
+\i (21:49:09) zoom out 323.137 1226.972
+\i (21:49:09) trapsize 113817
+\i (21:49:10) zoom in 1 
+\i (21:49:10) setwindow pcb
+\i (21:49:10) zoom in 323.137 1226.973
+\i (21:49:10) trapsize 56909
+\i (21:49:10) zoom in 1 
+\i (21:49:10) setwindow pcb
+\i (21:49:10) zoom in 323.137 1226.973
+\i (21:49:10) trapsize 28454
+\i (21:49:11) zoom out 1 
+\i (21:49:11) setwindow pcb
+\i (21:49:11) zoom out 323.137 1226.973
+\i (21:49:11) trapsize 56909
+\i (21:49:11) zoom out 1 
+\i (21:49:11) setwindow pcb
+\i (21:49:11) zoom out 323.137 1226.973
+\i (21:49:11) trapsize 113817
+\i (21:49:12) zoom out 1 
+\i (21:49:12) setwindow pcb
+\i (21:49:12) zoom out 323.137 1226.974
+\i (21:49:12) trapsize 227634
+\i (21:49:12) zoom in 1 
+\i (21:49:12) setwindow pcb
+\i (21:49:12) zoom in 5060.417 1636.715
+\i (21:49:12) trapsize 113817
+\i (21:49:21) zoom out 1 
+\i (21:49:21) setwindow pcb
+\i (21:49:21) zoom out 234.572 6121.109
+\i (21:49:21) trapsize 227634
+\i (21:49:22) zoom in 1 
+\i (21:49:22) setwindow pcb
+\i (21:49:22) zoom in -4591.273 6121.109
+\i (21:49:22) trapsize 113817
+\i (21:49:22) zoom in 1 
+\i (21:49:22) setwindow pcb
+\i (21:49:22) zoom in -3703.499 6508.087
+\i (21:49:22) trapsize 56909
+\i (21:49:23) zoom out 1 
+\i (21:49:23) setwindow pcb
+\i (21:49:23) zoom out -1586.501 6075.583
+\i (21:49:23) trapsize 113817
+\i (21:49:23) zoom out 1 
+\i (21:49:23) setwindow pcb
+\i (21:49:23) zoom out -243.460 6075.582
+\i (21:49:23) trapsize 227634
+\i (21:49:23) zoom in 1 
+\i (21:49:23) setwindow pcb
+\i (21:49:23) zoom in 5652.266 6075.582
+\i (21:49:23) trapsize 113817
+\i (21:49:23) zoom in 1 
+\i (21:49:23) setwindow pcb
+\i (21:49:23) zoom in 5242.525 5552.024
+\i (21:49:23) trapsize 56909
+\i (21:49:24) zoom out 1 
+\i (21:49:24) setwindow pcb
+\i (21:49:24) zoom out 4286.461 4960.175
+\i (21:49:24) trapsize 113817
+\i (21:49:24) zoom out 1 
+\i (21:49:24) setwindow pcb
+\i (21:49:24) zoom out 2943.420 3002.522
+\i (21:49:24) trapsize 227634
+\i (21:49:24) zoom out 1 
+\i (21:49:24) setwindow pcb
+\i (21:49:24) zoom out -1677.555 3002.522
+\i (21:49:24) trapsize 455268
+\i (21:49:24) zoom in 1 
+\i (21:49:24) setwindow pcb
+\i (21:49:24) zoom in 2146.699 4084.393
+\i (21:49:24) trapsize 227634
+\i (21:49:25) zoom in 1 
+\i (21:49:25) setwindow pcb
+\i (21:49:25) zoom in -1768.609 3082.803
+\i (21:49:25) trapsize 113817
+\i (21:49:25) zoom in 1 
+\i (21:49:25) setwindow pcb
+\i (21:49:25) zoom in -516.621 -809.742
+\i (21:49:25) trapsize 56909
+\i (21:49:26) roam y -96 
+\i (21:49:26) roam y -96
+\i (21:49:27) roam y -96 
+\i (21:49:27) roam y -96
+\i (21:49:28) roam y 96 
+\i (21:49:28) roam y 96
+\i (21:49:29) roam y -96 
+\i (21:49:29) roam y -96
+\i (21:49:30) roam y 96 
+\i (21:49:30) roam y 96
+\i (21:53:11) xrefdes '!' Rp176 
+\i (21:53:11) xrefdes '!' Rp177 
+\i (21:53:11) xname_flush '!' 
+\i (22:06:18) xrefdes '!' C125 
+\i (22:06:18) xrefdes '!' C129 
+\i (22:06:18) xrefdes '!' C133 
+\i (22:06:18) xrefdes '!' C134 
+\i (22:06:18) xrefdes '!' C140 
+\i (22:06:18) xname_flush '!' 
+\i (22:08:01) xNet 1.8V_Ext 
+\i (22:08:01) xNet 12Vcc_Ext 
+\i (22:08:01) xNet Ckmode 
+\i (22:08:01) xNet Clkbuf_Input_Sel 
+\i (22:08:01) xNet Refclkin_R 
+\i (22:08:01) xNet Refclkip_R 
+\i (22:08:01) xNet Refclkn_Sl4 
+\i (22:08:01) xNet Refclkn_Sl5 
+\i (22:08:01) xNet Refclkn_Sl6 
+\i (22:08:01) xNet Refclkn_Sl7 
+\i (22:08:01) xNet Refclkon0 
+\i (22:08:01) xNet Refclkon4 
+\i (22:08:01) xNet Refclkon5 
+\i (22:08:01) xNet Refclkon6 
+\i (22:08:01) xNet Refclkon7 
+\i (22:08:02) xNet Refclkon_Phy0 
+\i (22:08:02) xNet Refclkon_Phy1 
+\i (22:08:02) xNet Refclkop0 
+\i (22:08:02) xNet Refclkop4 
+\i (22:08:02) xNet Refclkop5 
+\i (22:08:02) xNet Refclkop6 
+\i (22:08:02) xNet Refclkop7 
+\i (22:08:02) xNet Refclkop_Phy0 
+\i (22:08:02) xNet Refclkop_Phy1 
+\i (22:08:02) xNet Refclkp_Sl4 
+\i (22:08:02) xNet Refclkp_Sl5 
+\i (22:08:02) xNet Refclkp_Sl6 
+\i (22:08:02) xNet Refclkp_Sl7 
+\i (22:08:02) xNet Resref 
+\i (22:08:02) xrefdes R102 
+\i (22:08:02) xrefdes R88 
+\i (22:08:02) xrefdes R89 
+\i (22:08:02) xrefdes R90 
+\i (22:08:02) xrefdes R91 
+\i (22:08:02) xrefdes R92 
+\i (22:08:02) xrefdes R93 
+\i (22:08:02) xrefdes R159 
+\i (22:08:02) xrefdes R160 
+\i (22:08:02) xrefdes Rd82 
+\i (22:08:02) xrefdes Rd81 
+\i (22:08:02) xrefdes Rp87 
+\i (22:08:02) xrefdes Rd5 
+\i (22:08:02) xrefdes R157 
+\i (22:08:02) xrefdes R158 
+\i (22:08:02) xrefdes U28 
+\i (22:08:02) xname_flush 
+\i (22:08:04) xNet '!' 1.8V_Ext 
+\i (22:08:04) xNet '!' 12Vcc_Ext 
+\i (22:08:04) xNet '!' Ckmode 
+\i (22:08:04) xNet '!' Clkbuf_Input_Sel 
+\i (22:08:04) xNet '!' Refclkin_R 
+\i (22:08:04) xNet '!' Refclkip_R 
+\i (22:08:04) xNet '!' Refclkn_Sl4 
+\i (22:08:04) xNet '!' Refclkn_Sl5 
+\i (22:08:04) xNet '!' Refclkn_Sl6 
+\i (22:08:04) xNet '!' Refclkn_Sl7 
+\i (22:08:04) xNet '!' Refclkon0 
+\i (22:08:04) xNet '!' Refclkon4 
+\i (22:08:04) xNet '!' Refclkon5 
+\i (22:08:04) xNet '!' Refclkon6 
+\i (22:08:04) xNet '!' Refclkon7 
+\i (22:08:04) xNet '!' Refclkon_Phy0 
+\i (22:08:04) xNet '!' Refclkon_Phy1 
+\i (22:08:04) xNet '!' Refclkop0 
+\i (22:08:04) xNet '!' Refclkop4 
+\i (22:08:04) xNet '!' Refclkop5 
+\i (22:08:05) xNet '!' Refclkop6 
+\i (22:08:05) xNet '!' Refclkop7 
+\i (22:08:05) xNet '!' Refclkop_Phy0 
+\i (22:08:05) xNet '!' Refclkop_Phy1 
+\i (22:08:05) xNet '!' Refclkp_Sl4 
+\i (22:08:05) xNet '!' Refclkp_Sl5 
+\i (22:08:05) xNet '!' Refclkp_Sl6 
+\i (22:08:05) xNet '!' Refclkp_Sl7 
+\i (22:08:05) xNet '!' Resref 
+\i (22:08:05) xrefdes '!' R102 
+\i (22:08:05) xrefdes '!' R88 
+\i (22:08:05) xrefdes '!' R89 
+\i (22:08:05) xrefdes '!' R90 
+\i (22:08:05) xrefdes '!' R91 
+\i (22:08:05) xrefdes '!' R92 
+\i (22:08:05) xrefdes '!' R93 
+\i (22:08:05) xrefdes '!' R159 
+\i (22:08:05) xrefdes '!' R160 
+\i (22:08:05) xrefdes '!' Rd82 
+\i (22:08:05) xrefdes '!' Rd81 
+\i (22:08:05) xrefdes '!' Rp87 
+\i (22:08:05) xrefdes '!' Rd5 
+\i (22:08:05) xrefdes '!' R157 
+\i (22:08:05) xrefdes '!' R158 
+\i (22:08:05) xrefdes '!' U28 
+\i (22:08:05) xname_flush '!' 
+\i (22:12:31) xNet 1.8V_Ext 
+\i (22:12:31) xNet 12Vcc_Ext 
+\i (22:12:31) xNet Prsnt#_Sl7 
+\i (22:12:31) xNet Clkbuf_Oe_2_L 
+\i (22:12:31) xNet Clkbuf_Oe_3_L 
+\i (22:12:31) xNet Clkbuf_Oe_8_L 
+\i (22:12:31) xNet Clkbuf_Oe_Phy0 
+\i (22:12:31) xNet Clkbuf_Oe_Phy1 
+\i (22:12:31) xNet Clkbuf_Oe_Slot4 
+\i (22:12:31) xNet Clkreq_L_0 
+\i (22:12:31) xNet Clkreq_L_4 
+\i (22:12:31) xNet Gpio_12 
+\i (22:12:31) xNet Gpio_23 
+\i (22:12:31) xNet Gpio_7 
+\i (22:12:31) xNet Gpio_8 
+\i (22:12:31) xNet Hp_Led_7 
+\i (22:12:31) xNet Hp_Rst_7_L 
+\i (22:12:31) xNet N27804735 
+\i (22:12:31) xNet Pdc_L_7 
+\i (22:12:31) xNet Sl7 
+\i (22:12:31) xNet U9_Oe 
+\i (22:12:31) xrefdes Rp66 
+\i (22:12:31) xrefdes Rp67 
+\i (22:12:31) xrefdes Rp68 
+\i (22:12:31) xrefdes Rp69 
+\i (22:12:31) xrefdes C237 
+\i (22:12:31) xrefdes C240 
+\i (22:12:31) xrefdes C239 
+\i (22:12:31) xrefdes Rp65 
+\i (22:12:31) xrefdes R133 
+\i (22:12:31) xrefdes Rp71 
+\i (22:12:31) xrefdes Rp70 
+\i (22:12:31) xrefdes Rp74 
+\i (22:12:31) xrefdes Rp73 
+\i (22:12:31) xrefdes Rp72 
+\i (22:12:31) xrefdes R132 
+\i (22:12:31) xrefdes C238 
+\i (22:12:31) xrefdes C241 
+\i (22:12:31) xrefdes C242 
+\i (22:12:31) xrefdes C243 
+\i (22:12:31) xrefdes U26 
+\i (22:12:31) xrefdes R134 
+\i (22:12:31) xrefdes Ds18 
+\i (22:12:31) xrefdes J6 
+\i (22:12:31) xrefdes Rp89 
+\i (22:12:31) xrefdes Rp90 
+\i (22:12:31) xrefdes Rp91 
+\i (22:12:31) xrefdes J10 
+\i (22:12:31) xrefdes Rp80 
+\i (22:12:31) xrefdes Rp81 
+\i (22:12:31) xrefdes Rp82 
+\i (22:12:31) xname_flush 
+\i (22:12:38) xNet '!' 1.8V_Ext 
+\i (22:12:38) xNet '!' 12Vcc_Ext 
+\i (22:12:38) xNet '!' Prsnt#_Sl7 
+\i (22:12:38) xNet '!' Clkbuf_Oe_2_L 
+\i (22:12:38) xNet '!' Clkbuf_Oe_3_L 
+\i (22:12:38) xNet '!' Clkbuf_Oe_8_L 
+\i (22:12:38) xNet '!' Clkbuf_Oe_Phy0 
+\i (22:12:38) xNet '!' Clkbuf_Oe_Phy1 
+\i (22:12:38) xNet '!' Clkbuf_Oe_Slot4 
+\i (22:12:38) xNet '!' Clkreq_L_0 
+\i (22:12:38) xNet '!' Clkreq_L_4 
+\i (22:12:38) xNet '!' Gpio_12 
+\i (22:12:38) xNet '!' Gpio_23 
+\i (22:12:38) xNet '!' Gpio_7 
+\i (22:12:38) xNet '!' Gpio_8 
+\i (22:12:38) xNet '!' Hp_Led_7 
+\i (22:12:38) xNet '!' Hp_Rst_7_L 
+\i (22:12:38) xNet '!' N27804735 
+\i (22:12:38) xNet '!' Pdc_L_7 
+\i (22:12:38) xNet '!' Sl7 
+\i (22:12:38) xNet '!' U9_Oe 
+\i (22:12:38) xrefdes '!' Rp66 
+\i (22:12:38) xrefdes '!' Rp67 
+\i (22:12:38) xrefdes '!' Rp68 
+\i (22:12:38) xrefdes '!' Rp69 
+\i (22:12:38) xrefdes '!' C237 
+\i (22:12:38) xrefdes '!' C240 
+\i (22:12:38) xrefdes '!' C239 
+\i (22:12:38) xrefdes '!' Rp65 
+\i (22:12:38) xrefdes '!' R133 
+\i (22:12:38) xrefdes '!' Rp71 
+\i (22:12:38) xrefdes '!' Rp70 
+\i (22:12:38) xrefdes '!' Rp74 
+\i (22:12:38) xrefdes '!' Rp73 
+\i (22:12:38) xrefdes '!' Rp72 
+\i (22:12:38) xrefdes '!' R132 
+\i (22:12:38) xrefdes '!' C238 
+\i (22:12:38) xrefdes '!' C241 
+\i (22:12:38) xrefdes '!' C242 
+\i (22:12:38) xrefdes '!' C243 
+\i (22:12:38) xrefdes '!' U26 
+\i (22:12:38) xrefdes '!' R134 
+\i (22:12:38) xrefdes '!' Ds18 
+\i (22:12:38) xrefdes '!' J6 
+\i (22:12:38) xrefdes '!' Rp89 
+\i (22:12:38) xrefdes '!' Rp90 
+\i (22:12:38) xrefdes '!' Rp91 
+\i (22:12:38) xrefdes '!' J10 
+\i (22:12:39) xrefdes '!' Rp80 
+\i (22:12:39) xrefdes '!' Rp81 
+\i (22:12:39) xrefdes '!' Rp82 
+\i (22:12:39) xname_flush '!' 
+\i (22:12:41) xNet 12V_Sl4_Shp 
+\i (22:12:41) xNet 12Vcc_Ext 
+\i (22:12:41) xNet 12Vg 
+\i (22:12:41) xNet 12Vs 
+\i (22:12:41) xNet 3.3V_Sl4_Shp 
+\i (22:12:41) xNet 3Vg 
+\i (22:12:41) xNet 3Vs 
+\i (22:12:41) xNet Clken#_S 
+\i (22:12:41) xNet Fault# 
+\i (22:12:41) xNet Mrl#_S 
+\i (22:12:41) xNet Perst#_S 
+\i (22:12:41) xNet Perst#_Sl4 
+\i (22:12:41) xNet Pwrflt#_S 
+\i (22:12:41) xNet Clken_N_Sl 
+\i (22:12:41) xNet Is1 
+\i (22:12:41) xNet Is2 
+\i (22:12:41) xNet N22226783 
+\i (22:12:41) xNet N22226854 
+\i (22:12:41) xNet N22226894 
+\i (22:12:41) xNet N22226919 
+\i (22:12:41) xNet N22226922 
+\i (22:12:41) xNet N22226992 
+\i (22:12:41) xNet N22227049 
+\i (22:12:41) xNet N22227050 
+\i (22:12:41) xNet Perst4_L 
+\i (22:12:41) xNet Pwren_S 
+\i (22:12:41) xNet Pwren_Sl 
+\i (22:12:41) xNet Pwrgood_S 
+\i (22:12:41) xNet Shp_Hp_Ctrl 
+\i (22:12:41) xrefdes R118 
+\i (22:12:41) xrefdes R128 
+\i (22:12:41) xrefdes M2 
+\i (22:12:41) xrefdes R125 
+\i (22:12:41) xrefdes R130 
+\i (22:12:41) xrefdes C234 
+\i (22:12:41) xrefdes R116 
+\i (22:12:41) xrefdes Bd9 
+\i (22:12:41) xrefdes R121 
+\i (22:12:42) xrefdes Rp63 
+\i (22:12:42) xrefdes C233 
+\i (22:12:42) xrefdes D2 
+\i (22:12:42) xrefdes R123 
+\i (22:12:42) xrefdes C236 
+\i (22:12:42) xrefdes Bd10 
+\i (22:12:42) xrefdes C232 
+\i (22:12:42) xrefdes Rp64 
+\i (22:12:42) xrefdes C228 
+\i (22:12:42) xrefdes C229 
+\i (22:12:42) xrefdes C231 
+\i (22:12:42) xrefdes R117 
+\i (22:12:42) xrefdes R122 
+\i (22:12:42) xrefdes R119 
+\i (22:12:42) xrefdes R114 
+\i (22:12:42) xrefdes R120 
+\i (22:12:42) xrefdes R129 
+\i (22:12:42) xrefdes U25 
+\i (22:12:42) xrefdes M1 
+\i (22:12:42) xrefdes D1 
+\i (22:12:42) xrefdes Tp20 
+\i (22:12:42) xrefdes R115 
+\i (22:12:42) xrefdes C227 
+\i (22:12:42) xrefdes C235 
+\i (22:12:42) xrefdes R127 
+\i (22:12:42) xrefdes R124 
+\i (22:12:42) xrefdes R126 
+\i (22:12:42) xrefdes R131 
+\i (22:12:42) xrefdes C230 
+\i (22:12:42) xrefdes U24 
+\i (22:12:42) xrefdes C226 
+\i (22:12:42) xrefdes Rd67 
+\i (22:12:42) xrefdes Rd68 
+\i (22:12:42) xrefdes Sw14 
+\i (22:12:42) xname_flush 
+\i (22:12:45) xNet '!' 12V_Sl4_Shp 
+\i (22:12:45) xNet '!' 12Vcc_Ext 
+\i (22:12:45) xNet '!' 12Vg 
+\i (22:12:45) xNet '!' 12Vs 
+\i (22:12:45) xNet '!' 3.3V_Sl4_Shp 
+\i (22:12:45) xNet '!' 3Vg 
+\i (22:12:45) xNet '!' 3Vs 
+\i (22:12:45) xNet '!' Clken#_S 
+\i (22:12:45) xNet '!' Fault# 
+\i (22:12:45) xNet '!' Mrl#_S 
+\i (22:12:45) xNet '!' Perst#_S 
+\i (22:12:45) xNet '!' Perst#_Sl4 
+\i (22:12:45) xNet '!' Pwrflt#_S 
+\i (22:12:45) xNet '!' Clken_N_Sl 
+\i (22:12:45) xNet '!' Is1 
+\i (22:12:45) xNet '!' Is2 
+\i (22:12:45) xNet '!' N22226783 
+\i (22:12:45) xNet '!' N22226854 
+\i (22:12:45) xNet '!' N22226894 
+\i (22:12:45) xNet '!' N22226919 
+\i (22:12:45) xNet '!' N22226922 
+\i (22:12:45) xNet '!' N22226992 
+\i (22:12:45) xNet '!' N22227049 
+\i (22:12:45) xNet '!' N22227050 
+\i (22:12:45) xNet '!' Perst4_L 
+\i (22:12:45) xNet '!' Pwren_S 
+\i (22:12:45) xNet '!' Pwren_Sl 
+\i (22:12:45) xNet '!' Pwrgood_S 
+\i (22:12:45) xNet '!' Shp_Hp_Ctrl 
+\i (22:12:45) xrefdes '!' R118 
+\i (22:12:45) xrefdes '!' R128 
+\i (22:12:45) xrefdes '!' M2 
+\i (22:12:45) xrefdes '!' R125 
+\i (22:12:45) xrefdes '!' R130 
+\i (22:12:46) xrefdes '!' C234 
+\i (22:12:46) xrefdes '!' R116 
+\i (22:12:46) xrefdes '!' Bd9 
+\i (22:12:46) xrefdes '!' R121 
+\i (22:12:46) xrefdes '!' Rp63 
+\i (22:12:46) xrefdes '!' C233 
+\i (22:12:46) xrefdes '!' D2 
+\i (22:12:46) xrefdes '!' R123 
+\i (22:12:46) xrefdes '!' C236 
+\i (22:12:46) xrefdes '!' Bd10 
+\i (22:12:46) xrefdes '!' C232 
+\i (22:12:46) xrefdes '!' Rp64 
+\i (22:12:46) xrefdes '!' C228 
+\i (22:12:46) xrefdes '!' C229 
+\i (22:12:46) xrefdes '!' C231 
+\i (22:12:46) xrefdes '!' R117 
+\i (22:12:46) xrefdes '!' R122 
+\i (22:12:46) xrefdes '!' R119 
+\i (22:12:46) xrefdes '!' R114 
+\i (22:12:46) xrefdes '!' R120 
+\i (22:12:46) xrefdes '!' R129 
+\i (22:12:46) xrefdes '!' U25 
+\i (22:12:46) xrefdes '!' M1 
+\i (22:12:46) xrefdes '!' D1 
+\i (22:12:46) xrefdes '!' Tp20 
+\i (22:12:46) xrefdes '!' R115 
+\i (22:12:46) xrefdes '!' C227 
+\i (22:12:46) xrefdes '!' C235 
+\i (22:12:46) xrefdes '!' R127 
+\i (22:12:46) xrefdes '!' R124 
+\i (22:12:46) xrefdes '!' R126 
+\i (22:12:46) xrefdes '!' R131 
+\i (22:12:46) xrefdes '!' C230 
+\i (22:12:46) xrefdes '!' U24 
+\i (22:12:46) xrefdes '!' C226 
+\i (22:12:46) xrefdes '!' Rd67 
+\i (22:12:46) xrefdes '!' Rd68 
+\i (22:12:46) xrefdes '!' Sw14 
+\i (22:12:46) xname_flush '!' 
+\i (22:12:49) xNet 1.8V_Ext 
+\i (22:12:49) xNet 12Vcc_Ext 
+\i (22:12:49) xNet Atnled#_S 
+\i (22:12:49) xNet Button#_S 
+\i (22:12:49) xNet Clken#_S 
+\i (22:12:49) xNet Mrl#_S 
+\i (22:12:49) xNet Perst#_S 
+\i (22:12:49) xNet Prsnt#_Sl4 
+\i (22:12:49) xNet Pwrflt#_S 
+\i (22:12:49) xNet Pwrled#_S 
+\i (22:12:49) xNet Gpio_S 
+\i (22:12:49) xNet Hpscl 
+\i (22:12:49) xNet Hpsda 
+\i (22:12:49) xNet Interlock_S 
+\i (22:12:49) xNet Ioe_Addr0 
+\i (22:12:49) xNet Ioe_Addr1 
+\i (22:12:49) xNet Ioe_Addr2 
+\i (22:12:49) xNet N22227000 
+\i (22:12:49) xNet N22227069 
+\i (22:12:49) xNet N22818950 
+\i (22:12:49) xNet N22828371 
+\i (22:12:49) xNet Pwren_S 
+\i (22:12:49) xNet Pwrgood_S 
+\i (22:12:49) xNet Shcl_I2c 
+\i (22:12:49) xNet Shda_I2c 
+\i (22:12:49) xNet Shpint 
+\i (22:12:49) xrefdes Ds17 
+\i (22:12:49) xrefdes R111 
+\i (22:12:49) xrefdes Rp60 
+\i (22:12:49) xrefdes Tp18 
+\i (22:12:49) xrefdes Ds16 
+\i (22:12:49) xrefdes Rp61 
+\i (22:12:49) xrefdes U23 
+\i (22:12:49) xrefdes U22 
+\i (22:12:49) xrefdes Rp62 
+\i (22:12:49) xrefdes Ds15 
+\i (22:12:49) xrefdes R110 
+\i (22:12:49) xrefdes Tp19 
+\i (22:12:49) xrefdes J5 
+\i (22:12:49) xrefdes C222 
+\i (22:12:49) xrefdes R113 
+\i (22:12:49) xrefdes C225 
+\i (22:12:49) xrefdes R112 
+\i (22:12:49) xrefdes S1 
+\i (22:12:49) xrefdes Rd64 
+\i (22:12:49) xrefdes Rd65 
+\i (22:12:49) xrefdes Rd66 
+\i (22:12:49) xrefdes R105 
+\i (22:12:49) xrefdes R106 
+\i (22:12:49) xrefdes R107 
+\i (22:12:49) xrefdes R108 
+\i (22:12:49) xrefdes R109 
+\i (22:12:49) xrefdes U21 
+\i (22:12:49) xrefdes C220 
+\i (22:12:49) xrefdes C221 
+\i (22:12:49) xname_flush 
+\i (22:12:50) xNet '!' 1.8V_Ext 
+\i (22:12:50) xNet '!' 12Vcc_Ext 
+\i (22:12:50) xNet '!' Atnled#_S 
+\i (22:12:50) xNet '!' Button#_S 
+\i (22:12:50) xNet '!' Clken#_S 
+\i (22:12:50) xNet '!' Mrl#_S 
+\i (22:12:50) xNet '!' Perst#_S 
+\i (22:12:50) xNet '!' Prsnt#_Sl4 
+\i (22:12:50) xNet '!' Pwrflt#_S 
+\i (22:12:50) xNet '!' Pwrled#_S 
+\i (22:12:50) xNet '!' Gpio_S 
+\i (22:12:50) xNet '!' Hpscl 
+\i (22:12:50) xNet '!' Hpsda 
+\i (22:12:50) xNet '!' Interlock_S 
+\i (22:12:50) xNet '!' Ioe_Addr0 
+\i (22:12:50) xNet '!' Ioe_Addr1 
+\i (22:12:50) xNet '!' Ioe_Addr2 
+\i (22:12:50) xNet '!' N22227000 
+\i (22:12:50) xNet '!' N22227069 
+\i (22:12:50) xNet '!' N22818950 
+\i (22:12:50) xNet '!' N22828371 
+\i (22:12:50) xNet '!' Pwren_S 
+\i (22:12:50) xNet '!' Pwrgood_S 
+\i (22:12:50) xNet '!' Shcl_I2c 
+\i (22:12:50) xNet '!' Shda_I2c 
+\i (22:12:50) xNet '!' Shpint 
+\i (22:12:50) xrefdes '!' Ds17 
+\i (22:12:50) xrefdes '!' R111 
+\i (22:12:50) xrefdes '!' Rp60 
+\i (22:12:50) xrefdes '!' Tp18 
+\i (22:12:50) xrefdes '!' Ds16 
+\i (22:12:50) xrefdes '!' Rp61 
+\i (22:12:50) xrefdes '!' U23 
+\i (22:12:50) xrefdes '!' U22 
+\i (22:12:50) xrefdes '!' Rp62 
+\i (22:12:50) xrefdes '!' Ds15 
+\i (22:12:50) xrefdes '!' R110 
+\i (22:12:50) xrefdes '!' Tp19 
+\i (22:12:50) xrefdes '!' J5 
+\i (22:12:50) xrefdes '!' C222 
+\i (22:12:50) xrefdes '!' R113 
+\i (22:12:50) xrefdes '!' C225 
+\i (22:12:50) xrefdes '!' R112 
+\i (22:12:50) xrefdes '!' S1 
+\i (22:12:50) xrefdes '!' Rd64 
+\i (22:12:50) xrefdes '!' Rd65 
+\i (22:12:50) xrefdes '!' Rd66 
+\i (22:12:50) xrefdes '!' R105 
+\i (22:12:50) xrefdes '!' R106 
+\i (22:12:50) xrefdes '!' R107 
+\i (22:12:50) xrefdes '!' R108 
+\i (22:12:50) xrefdes '!' R109 
+\i (22:12:50) xrefdes '!' U21 
+\i (22:12:50) xrefdes '!' C220 
+\i (22:12:50) xrefdes '!' C221 
+\i (22:12:50) xname_flush '!' 
+\i (22:12:52) xNet 1.8V_Ext 
+\i (22:12:52) xNet 12Vcc_Ext 
+\i (22:12:52) xNet Atnled#_S 
+\i (22:12:52) xNet Button#_S 
+\i (22:12:52) xNet Clken#_S 
+\i (22:12:52) xNet Mrl#_S 
+\i (22:12:52) xNet Perst#_S 
+\i (22:12:52) xNet Prsnt#_Sl4 
+\i (22:12:52) xNet Pwrflt#_S 
+\i (22:12:52) xNet Pwrled#_S 
+\i (22:12:52) xNet Gpio_S 
+\i (22:12:52) xNet Hpscl 
+\i (22:12:52) xNet Hpsda 
+\i (22:12:52) xNet Interlock_S 
+\i (22:12:52) xNet Ioe_Addr0 
+\i (22:12:52) xNet Ioe_Addr1 
+\i (22:12:52) xNet Ioe_Addr2 
+\i (22:12:52) xNet N22227000 
+\i (22:12:52) xNet N22227069 
+\i (22:12:52) xNet N22818950 
+\i (22:12:52) xNet N22828371 
+\i (22:12:52) xNet Pwren_S 
+\i (22:12:52) xNet Pwrgood_S 
+\i (22:12:52) xNet Shcl_I2c 
+\i (22:12:52) xNet Shda_I2c 
+\i (22:12:52) xNet Shpint 
+\i (22:12:52) xrefdes Ds17 
+\i (22:12:52) xrefdes R111 
+\i (22:12:52) xrefdes C219 
+\i (22:12:52) xrefdes Rp60 
+\i (22:12:52) xrefdes Tp18 
+\i (22:12:52) xrefdes Ds16 
+\i (22:12:52) xrefdes Rp61 
+\i (22:12:52) xrefdes U23 
+\i (22:12:52) xrefdes U22 
+\i (22:12:52) xrefdes Rp62 
+\i (22:12:52) xrefdes Ds15 
+\i (22:12:52) xrefdes R110 
+\i (22:12:52) xrefdes C218 
+\i (22:12:52) xrefdes R103 
+\i (22:12:52) xrefdes Tp19 
+\i (22:12:52) xrefdes R104 
+\i (22:12:52) xrefdes J5 
+\i (22:12:52) xrefdes C222 
+\i (22:12:52) xrefdes R113 
+\i (22:12:52) xrefdes C225 
+\i (22:12:52) xrefdes R112 
+\i (22:12:52) xrefdes S1 
+\i (22:12:52) xrefdes Rd64 
+\i (22:12:52) xrefdes Rd65 
+\i (22:12:52) xrefdes Rd66 
+\i (22:12:52) xrefdes R105 
+\i (22:12:52) xrefdes R106 
+\i (22:12:52) xrefdes R107 
+\i (22:12:52) xrefdes R108 
+\i (22:12:52) xrefdes R109 
+\i (22:12:52) xrefdes U21 
+\i (22:12:52) xrefdes C217 
+\i (22:12:52) xrefdes C220 
+\i (22:12:52) xrefdes C221 
+\i (22:12:52) xname_flush 
+\i (22:12:58) xNet '!' 1.8V_Ext 
+\i (22:12:58) xNet '!' 12Vcc_Ext 
+\i (22:12:58) xNet '!' Atnled#_S 
+\i (22:12:58) xNet '!' Button#_S 
+\i (22:12:58) xNet '!' Clken#_S 
+\i (22:12:58) xNet '!' Mrl#_S 
+\i (22:12:58) xNet '!' Perst#_S 
+\i (22:12:58) xNet '!' Prsnt#_Sl4 
+\i (22:12:58) xNet '!' Pwrflt#_S 
+\i (22:12:58) xNet '!' Pwrled#_S 
+\i (22:12:58) xNet '!' Gpio_S 
+\i (22:12:58) xNet '!' Hpscl 
+\i (22:12:58) xNet '!' Hpsda 
+\i (22:12:58) xNet '!' Interlock_S 
+\i (22:12:58) xNet '!' Ioe_Addr0 
+\i (22:12:58) xNet '!' Ioe_Addr1 
+\i (22:12:58) xNet '!' Ioe_Addr2 
+\i (22:12:58) xNet '!' N22227000 
+\i (22:12:58) xNet '!' N22227069 
+\i (22:12:58) xNet '!' N22818950 
+\i (22:12:58) xNet '!' N22828371 
+\i (22:12:58) xNet '!' Pwren_S 
+\i (22:12:58) xNet '!' Pwrgood_S 
+\i (22:12:58) xNet '!' Shcl_I2c 
+\i (22:12:58) xNet '!' Shda_I2c 
+\i (22:12:58) xNet '!' Shpint 
+\i (22:12:58) xrefdes '!' Ds17 
+\i (22:12:58) xrefdes '!' R111 
+\i (22:12:58) xrefdes '!' C219 
+\i (22:12:58) xrefdes '!' Rp60 
+\i (22:12:58) xrefdes '!' Tp18 
+\i (22:12:58) xrefdes '!' Ds16 
+\i (22:12:58) xrefdes '!' Rp61 
+\i (22:12:58) xrefdes '!' U23 
+\i (22:12:58) xrefdes '!' U22 
+\i (22:12:58) xrefdes '!' Rp62 
+\i (22:12:58) xrefdes '!' Ds15 
+\i (22:12:58) xrefdes '!' R110 
+\i (22:12:58) xrefdes '!' C218 
+\i (22:12:58) xrefdes '!' R103 
+\i (22:12:58) xrefdes '!' Tp19 
+\i (22:12:58) xrefdes '!' R104 
+\i (22:12:58) xrefdes '!' J5 
+\i (22:12:58) xrefdes '!' C222 
+\i (22:12:58) xrefdes '!' R113 
+\i (22:12:58) xrefdes '!' C225 
+\i (22:12:58) xrefdes '!' R112 
+\i (22:12:58) xrefdes '!' S1 
+\i (22:12:58) xrefdes '!' Rd64 
+\i (22:12:58) xrefdes '!' Rd65 
+\i (22:12:58) xrefdes '!' Rd66 
+\i (22:12:58) xrefdes '!' R105 
+\i (22:12:58) xrefdes '!' R106 
+\i (22:12:58) xrefdes '!' R107 
+\i (22:12:58) xrefdes '!' R108 
+\i (22:12:58) xrefdes '!' R109 
+\i (22:12:58) xrefdes '!' U21 
+\i (22:12:58) xrefdes '!' C217 
+\i (22:12:58) xrefdes '!' C220 
+\i (22:12:58) xrefdes '!' C221 
+\i (22:12:58) xname_flush '!' 
+\i (22:13:37) xNet 12Vcc_Ext 
+\i (22:13:37) xNet Mr# 
+\i (22:13:37) xNet Perst#_Sl5 
+\i (22:13:37) xNet Perst#_Sl6 
+\i (22:13:37) xNet Perst#_Sl7 
+\i (22:13:37) xNet Cperst_L 
+\i (22:13:37) xNet Mreset_L 
+\i (22:13:37) xNet N20181756 
+\i (22:13:37) xNet N20182455 
+\i (22:13:37) xNet Perst4_L 
+\i (22:13:37) xNet Perst_L 
+\i (22:13:37) xNet Perst_L_3V3 
+\i (22:13:37) xNet Pin6_Dwnrst_L 
+\i (22:13:37) xNet Pin8_Dwnrst_L 
+\i (22:13:37) xrefdes R156 
+\i (22:13:37) xrefdes R135 
+\i (22:13:37) xrefdes Rp75 
+\i (22:13:37) xrefdes S2 
+\i (22:13:37) xrefdes Rp76 
+\i (22:13:37) xrefdes U27 
+\i (22:13:37) xrefdes R143 
+\i (22:13:37) xrefdes C245 
+\i (22:13:37) xrefdes R144 
+\i (22:13:37) xrefdes R148 
+\i (22:13:37) xrefdes R155 
+\i (22:13:37) xrefdes R152 
+\i (22:13:37) xrefdes C244 
+\i (22:13:37) xrefdes R139 
+\i (22:13:37) xrefdes U23 
+\i (22:13:37) xrefdes U23 
+\i (22:13:37) xrefdes U23 
+\i (22:13:37) xrefdes R154 
+\i (22:13:37) xrefdes R153 
+\i (22:13:37) xname_flush 
+\i (22:13:45) xNet '!' 12Vcc_Ext 
+\i (22:13:45) xNet '!' Mr# 
+\i (22:13:45) xNet '!' Perst#_Sl5 
+\i (22:13:45) xNet '!' Perst#_Sl6 
+\i (22:13:45) xNet '!' Perst#_Sl7 
+\i (22:13:45) xNet '!' Cperst_L 
+\i (22:13:45) xNet '!' Mreset_L 
+\i (22:13:45) xNet '!' N20181756 
+\i (22:13:45) xNet '!' N20182455 
+\i (22:13:45) xNet '!' Perst4_L 
+\i (22:13:45) xNet '!' Perst_L 
+\i (22:13:45) xNet '!' Perst_L_3V3 
+\i (22:13:45) xNet '!' Pin6_Dwnrst_L 
+\i (22:13:45) xNet '!' Pin8_Dwnrst_L 
+\i (22:13:45) xrefdes '!' R156 
+\i (22:13:45) xrefdes '!' R135 
+\i (22:13:45) xrefdes '!' Rp75 
+\i (22:13:45) xrefdes '!' S2 
+\i (22:13:45) xrefdes '!' Rp76 
+\i (22:13:45) xrefdes '!' U27 
+\i (22:13:45) xrefdes '!' R143 
+\i (22:13:45) xrefdes '!' C245 
+\i (22:13:45) xrefdes '!' R144 
+\i (22:13:45) xrefdes '!' R148 
+\i (22:13:45) xrefdes '!' R155 
+\i (22:13:45) xrefdes '!' R152 
+\i (22:13:45) xrefdes '!' C244 
+\i (22:13:45) xrefdes '!' R139 
+\i (22:13:45) xrefdes '!' U23 
+\i (22:13:45) xrefdes '!' U23 
+\i (22:13:45) xrefdes '!' U23 
+\i (22:13:45) xrefdes '!' R154 
+\i (22:13:45) xrefdes '!' R153 
+\i (22:13:45) xname_flush '!' 
+\i (22:22:36) xNet 12Vcc_Ext 
+\i (22:22:36) xNet 3.3Vaux 
+\i (22:22:36) xNet Prsnt# 
+\i (22:22:36) xNet Cperst_L 
+\i (22:22:36) xNet Crefclkn 
+\i (22:22:36) xNet Crefclkp 
+\i (22:22:36) xNet N27551266 
+\i (22:22:36) xNet Pern0_Recept 
+\i (22:22:36) xNet Pern1_Recept 
+\i (22:22:36) xNet Pern2_Recept 
+\i (22:22:36) xNet Pern3_Recept 
+\i (22:22:36) xNet Perp0_Recept 
+\i (22:22:36) xNet Perp1_Recept 
+\i (22:22:36) xNet Perp2_Recept 
+\i (22:22:36) xNet Perp3_Recept 
+\i (22:22:36) xNet Petn0_P0 
+\i (22:22:36) xNet Petn0_Recept 
+\i (22:22:36) xNet Petn1_P0 
+\i (22:22:36) xNet Petn1_Recept 
+\i (22:22:36) xNet Petn2_P0 
+\i (22:22:36) xNet Petn2_Recept 
+\i (22:22:36) xNet Petn3_P0 
+\i (22:22:36) xNet Petn3_Recept 
+\i (22:22:36) xNet Petp0_P0 
+\i (22:22:36) xNet Petp0_Recept 
+\i (22:22:36) xNet Petp1_P0 
+\i (22:22:36) xNet Petp1_Recept 
+\i (22:22:36) xNet Petp2_P0 
+\i (22:22:36) xNet Petp2_Recept 
+\i (22:22:36) xNet Petp3_P0 
+\i (22:22:36) xNet Petp3_Recept 
+\i (22:22:36) xNet Refclkin_R 
+\i (22:22:36) xNet Refclkip_R 
+\i (22:22:36) xNet Scl_I2c_Cn 
+\i (22:22:36) xNet Sda_I2c_Cn 
+\i (22:22:36) xNet Smbclk_P0 
+\i (22:22:36) xNet Smbdata_P0 
+\i (22:22:36) xrefdes P2 
+\i (22:22:36) xrefdes R30 
+\i (22:22:36) xrefdes R29 
+\i (22:22:36) xrefdes C46 
+\i (22:22:36) xrefdes C47 
+\i (22:22:36) xrefdes C48 
+\i (22:22:36) xrefdes C49 
+\i (22:22:36) xrefdes C50 
+\i (22:22:36) xrefdes C51 
+\i (22:22:36) xrefdes C55 
+\i (22:22:36) xrefdes C56 
+\i (22:22:36) xrefdes Rb4 
+\i (22:22:36) xrefdes Rb2 
+\i (22:22:36) xrefdes C52 
+\i (22:22:36) xrefdes C53 
+\i (22:22:36) xrefdes C54 
+\i (22:22:36) xname_flush 
+\i (22:22:44) xNet '!' 12Vcc_Ext 
+\i (22:22:44) xname_flush '!' 
+\i (22:22:59) xNet 0.95V_Cvddc 
+\i (22:22:59) xNet 1.8V_Ext 
+\i (22:22:59) xNet 12Vcc_Ext 
+\i (22:22:59) xNet N26082740 
+\i (22:22:59) xNet N26090904 
+\i (22:22:59) xrefdes R26 
+\i (22:22:59) xrefdes R25 
+\i (22:22:59) xrefdes U4 
+\i (22:22:59) xrefdes C37 
+\i (22:22:59) xrefdes C36 
+\i (22:22:59) xrefdes C40 
+\i (22:22:59) xrefdes C38 
+\i (22:22:59) xrefdes C39 
+\i (22:22:59) xrefdes R28 
+\i (22:22:59) xrefdes R27 
+\i (22:22:59) xrefdes U5 
+\i (22:22:59) xrefdes C42 
+\i (22:22:59) xrefdes C41 
+\i (22:22:59) xrefdes C45 
+\i (22:22:59) xrefdes C43 
+\i (22:22:59) xrefdes C44 
+\i (22:22:59) xname_flush 
+\i (22:23:02) xNet '!' 0.95V_Cvddc 
+\i (22:23:02) xNet '!' 1.8V_Ext 
+\i (22:23:02) xNet '!' 12Vcc_Ext 
+\i (22:23:02) xNet '!' N26082740 
+\i (22:23:02) xNet '!' N26090904 
+\i (22:23:02) xrefdes '!' R26 
+\i (22:23:02) xrefdes '!' R25 
+\i (22:23:02) xrefdes '!' U4 
+\i (22:23:02) xrefdes '!' C37 
+\i (22:23:02) xrefdes '!' C36 
+\i (22:23:02) xrefdes '!' C40 
+\i (22:23:02) xrefdes '!' C38 
+\i (22:23:02) xrefdes '!' C39 
+\i (22:23:02) xrefdes '!' R28 
+\i (22:23:02) xrefdes '!' R27 
+\i (22:23:02) xrefdes '!' U5 
+\i (22:23:02) xrefdes '!' C42 
+\i (22:23:02) xrefdes '!' C41 
+\i (22:23:02) xrefdes '!' C45 
+\i (22:23:02) xrefdes '!' C43 
+\i (22:23:02) xrefdes '!' C44 
+\i (22:23:02) xname_flush '!' 
+\i (22:28:37) xNet 12Vcc_Ext 
+\i (22:28:37) xNet 5Vcc_Ext 
+\i (22:28:37) xNet N19466357 
+\i (22:28:37) xNet N19467283 
+\i (22:28:37) xNet N28481535 
+\i (22:28:37) xNet N28481557 
+\i (22:28:37) xNet N28481559 
+\i (22:28:37) xNet N28496127 
+\i (22:28:37) xNet N28496200 
+\i (22:28:37) xNet N28496220 
+\i (22:28:37) xNet N28505161 
+\i (22:28:37) xNet N28505165 
+\i (22:28:37) xNet N28505225 
+\i (22:28:37) xNet N28511633 
+\i (22:28:37) xNet U2_Pgood 
+\i (22:28:37) xNet U3_Pgood 
+\i (22:28:37) xrefdes Tp4 
+\i (22:28:37) xrefdes Tp7 
+\i (22:28:37) xrefdes R11 
+\i (22:28:37) xrefdes R12 
+\i (22:28:37) xrefdes R13 
+\i (22:28:37) xrefdes Ds1 
+\i (22:28:37) xrefdes Ds3 
+\i (22:28:37) xrefdes Ds2 
+\i (22:28:37) xrefdes Ds4 
+\i (22:28:37) xrefdes Ds5 
+\i (22:28:37) xrefdes C16 
+\i (22:28:37) xrefdes C17 
+\i (22:28:37) xrefdes R17 
+\i (22:28:37) xrefdes R19 
+\i (22:28:37) xrefdes R16 
+\i (22:28:37) xrefdes R18 
+\i (22:28:37) xrefdes C8 
+\i (22:28:37) xrefdes C9 
+\i (22:28:37) xrefdes C10 
+\i (22:28:37) xrefdes C11 
+\i (22:28:37) xrefdes Tp1 
+\i (22:28:37) xrefdes C12 
+\i (22:28:37) xrefdes C13 
+\i (22:28:37) xrefdes C14 
+\i (22:28:37) xrefdes C15 
+\i (22:28:37) xrefdes Pwr1 
+\i (22:28:37) xrefdes C282 
+\i (22:28:37) xrefdes C283 
+\i (22:28:37) xrefdes C284 
+\i (22:28:37) xrefdes C285 
+\i (22:28:37) xrefdes C286 
+\i (22:28:37) xrefdes R182 
+\i (22:28:37) xrefdes R184 
+\i (22:28:37) xrefdes R183 
+\i (22:28:37) xrefdes R185 
+\i (22:28:37) xrefdes C293 
+\i (22:28:37) xrefdes C294 
+\i (22:28:37) xrefdes C295 
+\i (22:28:37) xrefdes C296 
+\i (22:28:37) xrefdes C297 
+\i (22:28:37) xrefdes R191 
+\i (22:28:37) xrefdes U30 
+\i (22:28:37) xrefdes R192 
+\i (22:28:37) xrefdes R193 
+\i (22:28:37) xrefdes C305 
+\i (22:28:37) xrefdes C306 
+\i (22:28:37) xrefdes C307 
+\i (22:28:37) xrefdes R200 
+\i (22:28:37) xrefdes R201 
+\i (22:28:37) xrefdes R202 
+\i (22:28:37) xrefdes U31 
+\i (22:28:37) xrefdes C308 
+\i (22:28:37) xrefdes R203 
+\i (22:28:37) xrefdes R204 
+\i (22:28:37) xrefdes C309 
+\i (22:28:37) xname_flush 
+\i (22:28:38) xNet '!' 12Vcc_Ext 
+\i (22:28:38) xNet '!' 5Vcc_Ext 
+\i (22:28:38) xNet '!' N19466357 
+\i (22:28:38) xNet '!' N19467283 
+\i (22:28:38) xNet '!' N28481535 
+\i (22:28:38) xNet '!' N28481557 
+\i (22:28:38) xNet '!' N28481559 
+\i (22:28:38) xNet '!' N28496127 
+\i (22:28:38) xNet '!' N28496200 
+\i (22:28:38) xNet '!' N28496220 
+\i (22:28:38) xNet '!' N28505161 
+\i (22:28:38) xNet '!' N28505165 
+\i (22:28:38) xNet '!' N28505225 
+\i (22:28:38) xNet '!' N28511633 
+\i (22:28:38) xNet '!' U2_Pgood 
+\i (22:28:38) xNet '!' U3_Pgood 
+\i (22:28:38) xrefdes '!' Tp4 
+\i (22:28:38) xrefdes '!' Tp7 
+\i (22:28:38) xrefdes '!' R11 
+\i (22:28:38) xrefdes '!' R12 
+\i (22:28:38) xrefdes '!' R13 
+\i (22:28:38) xrefdes '!' Ds1 
+\i (22:28:38) xrefdes '!' Ds3 
+\i (22:28:38) xrefdes '!' Ds2 
+\i (22:28:38) xrefdes '!' Ds4 
+\i (22:28:38) xrefdes '!' Ds5 
+\i (22:28:38) xrefdes '!' C16 
+\i (22:28:38) xrefdes '!' C17 
+\i (22:28:38) xrefdes '!' R17 
+\i (22:28:38) xrefdes '!' R19 
+\i (22:28:38) xrefdes '!' R16 
+\i (22:28:38) xrefdes '!' R18 
+\i (22:28:38) xrefdes '!' C8 
+\i (22:28:38) xrefdes '!' C9 
+\i (22:28:38) xrefdes '!' C10 
+\i (22:28:38) xrefdes '!' C11 
+\i (22:28:38) xrefdes '!' Tp1 
+\i (22:28:38) xrefdes '!' C12 
+\i (22:28:38) xrefdes '!' C13 
+\i (22:28:38) xrefdes '!' C14 
+\i (22:28:38) xrefdes '!' C15 
+\i (22:28:38) xrefdes '!' Pwr1 
+\i (22:28:38) xrefdes '!' C282 
+\i (22:28:38) xrefdes '!' C283 
+\i (22:28:38) xrefdes '!' C284 
+\i (22:28:38) xrefdes '!' C285 
+\i (22:28:38) xrefdes '!' C286 
+\i (22:28:38) xrefdes '!' R182 
+\i (22:28:38) xrefdes '!' R184 
+\i (22:28:38) xrefdes '!' R183 
+\i (22:28:38) xrefdes '!' R185 
+\i (22:28:38) xrefdes '!' C293 
+\i (22:28:38) xrefdes '!' C294 
+\i (22:28:38) xrefdes '!' C295 
+\i (22:28:38) xrefdes '!' C296 
+\i (22:28:38) xrefdes '!' C297 
+\i (22:28:38) xrefdes '!' R191 
+\i (22:28:38) xrefdes '!' U30 
+\i (22:28:38) xrefdes '!' R192 
+\i (22:28:38) xrefdes '!' R193 
+\i (22:28:38) xrefdes '!' C305 
+\i (22:28:38) xrefdes '!' C306 
+\i (22:28:38) xrefdes '!' C307 
+\i (22:28:38) xrefdes '!' R200 
+\i (22:28:38) xrefdes '!' R201 
+\i (22:28:38) xrefdes '!' R202 
+\i (22:28:38) xrefdes '!' U31 
+\i (22:28:38) xrefdes '!' C308 
+\i (22:28:38) xrefdes '!' R203 
+\i (22:28:38) xrefdes '!' R204 
+\i (22:28:38) xrefdes '!' C309 
+\i (22:28:38) xname_flush '!' 
+\i (22:28:40) xNet 0.95V_Vddc 
+\i (22:28:40) xNet 12Vcc_Ext 
+\i (22:28:40) xNet 5Vcc_Ext 
+\i (22:28:40) xNet N19466357 
+\i (22:28:40) xNet N19466360 
+\i (22:28:40) xNet N19467283 
+\i (22:28:40) xNet N19467285 
+\i (22:28:40) xNet N28481535 
+\i (22:28:40) xNet N28481557 
+\i (22:28:40) xNet N28481559 
+\i (22:28:40) xNet N28481563 
+\i (22:28:40) xNet N28481583 
+\i (22:28:40) xNet N28481609 
+\i (22:28:40) xNet N28481635 
+\i (22:28:40) xNet N28481637 
+\i (22:28:40) xNet N28496127 
+\i (22:28:40) xNet N28496200 
+\i (22:28:40) xNet N28496220 
+\i (22:28:40) xNet N28496224 
+\i (22:28:40) xNet N28496246 
+\i (22:28:40) xNet N28496262 
+\i (22:28:40) xNet N28496298 
+\i (22:28:40) xNet N28496300 
+\i (22:28:40) xNet N28505161 
+\i (22:28:40) xNet N28505165 
+\i (22:28:40) xNet N28505225 
+\i (22:28:40) xNet N28511633 
+\i (22:28:40) xNet U2_Pgood 
+\i (22:28:40) xNet U3_Pgood 
+\i (22:28:40) xrefdes Q1 
+\i (22:28:40) xrefdes Q2 
+\i (22:28:40) xrefdes Tp4 
+\i (22:28:40) xrefdes Tp7 
+\i (22:28:40) xrefdes R11 
+\i (22:28:40) xrefdes R12 
+\i (22:28:40) xrefdes R13 
+\i (22:28:40) xrefdes Ds1 
+\i (22:28:40) xrefdes Ds3 
+\i (22:28:40) xrefdes Ds2 
+\i (22:28:40) xrefdes Ds4 
+\i (22:28:40) xrefdes Ds5 
+\i (22:28:40) xrefdes C16 
+\i (22:28:40) xrefdes C17 
+\i (22:28:40) xrefdes R17 
+\i (22:28:40) xrefdes R19 
+\i (22:28:40) xrefdes R16 
+\i (22:28:40) xrefdes R18 
+\i (22:28:40) xrefdes P1 
+\i (22:28:40) xrefdes C8 
+\i (22:28:40) xrefdes C9 
+\i (22:28:40) xrefdes C10 
+\i (22:28:40) xrefdes C11 
+\i (22:28:40) xrefdes Tp1 
+\i (22:28:40) xrefdes C12 
+\i (22:28:40) xrefdes C13 
+\i (22:28:40) xrefdes C14 
+\i (22:28:40) xrefdes C15 
+\i (22:28:40) xrefdes Pwr1 
+\i (22:28:40) xrefdes U29 
+\i (22:28:40) xrefdes C282 
+\i (22:28:40) xrefdes C283 
+\i (22:28:40) xrefdes C284 
+\i (22:28:40) xrefdes C285 
+\i (22:28:40) xrefdes C286 
+\i (22:28:40) xrefdes C289 
+\i (22:28:40) xrefdes C290 
+\i (22:28:40) xrefdes C291 
+\i (22:28:40) xrefdes C292 
+\i (22:28:40) xrefdes R182 
+\i (22:28:40) xrefdes R184 
+\i (22:28:40) xrefdes R186 
+\i (22:28:40) xrefdes C288 
+\i (22:28:40) xrefdes R189 
+\i (22:28:40) xrefdes R183 
+\i (22:28:40) xrefdes R185 
+\i (22:28:40) xrefdes R188 
+\i (22:28:40) xrefdes R187 
+\i (22:28:40) xrefdes R190 
+\i (22:28:40) xrefdes C287 
+\i (22:28:40) xrefdes C293 
+\i (22:28:40) xrefdes C294 
+\i (22:28:40) xrefdes C295 
+\i (22:28:40) xrefdes C296 
+\i (22:28:40) xrefdes C297 
+\i (22:28:40) xrefdes R191 
+\i (22:28:40) xrefdes U30 
+\i (22:28:40) xrefdes C298 
+\i (22:28:40) xrefdes C299 
+\i (22:28:40) xrefdes C300 
+\i (22:28:40) xrefdes C301 
+\i (22:28:40) xrefdes R192 
+\i (22:28:40) xrefdes R193 
+\i (22:28:40) xrefdes R194 
+\i (22:28:40) xrefdes C302 
+\i (22:28:40) xrefdes R195 
+\i (22:28:40) xrefdes R196 
+\i (22:28:40) xrefdes C303 
+\i (22:28:40) xrefdes R197 
+\i (22:28:40) xrefdes R198 
+\i (22:28:40) xrefdes R199 
+\i (22:28:40) xrefdes C304 
+\i (22:28:40) xrefdes C305 
+\i (22:28:40) xrefdes C306 
+\i (22:28:40) xrefdes C307 
+\i (22:28:40) xrefdes R200 
+\i (22:28:41) xrefdes R201 
+\i (22:28:41) xrefdes R202 
+\i (22:28:41) xrefdes U31 
+\i (22:28:41) xrefdes C308 
+\i (22:28:41) xrefdes R203 
+\i (22:28:41) xrefdes R204 
+\i (22:28:41) xrefdes C309 
+\i (22:28:41) xname_flush 
+\i (22:28:45) xNet '!' 0.95V_Vddc 
+\i (22:28:45) xNet '!' 12Vcc_Ext 
+\i (22:28:45) xNet '!' 5Vcc_Ext 
+\i (22:28:45) xNet '!' N19466357 
+\i (22:28:45) xNet '!' N19466360 
+\i (22:28:45) xNet '!' N19467283 
+\i (22:28:45) xNet '!' N19467285 
+\i (22:28:45) xNet '!' N28481535 
+\i (22:28:45) xNet '!' N28481557 
+\i (22:28:45) xNet '!' N28481559 
+\i (22:28:45) xNet '!' N28481563 
+\i (22:28:45) xNet '!' N28481583 
+\i (22:28:45) xNet '!' N28481609 
+\i (22:28:45) xNet '!' N28481635 
+\i (22:28:45) xNet '!' N28481637 
+\i (22:28:45) xNet '!' N28496127 
+\i (22:28:45) xNet '!' N28496200 
+\i (22:28:45) xNet '!' N28496220 
+\i (22:28:45) xNet '!' N28496224 
+\i (22:28:45) xNet '!' N28496246 
+\i (22:28:45) xNet '!' N28496262 
+\i (22:28:45) xNet '!' N28496298 
+\i (22:28:45) xNet '!' N28496300 
+\i (22:28:45) xNet '!' N28505161 
+\i (22:28:45) xNet '!' N28505165 
+\i (22:28:45) xNet '!' N28505225 
+\i (22:28:45) xNet '!' N28511633 
+\i (22:28:45) xNet '!' U2_Pgood 
+\i (22:28:45) xNet '!' U3_Pgood 
+\i (22:28:45) xrefdes '!' Q1 
+\i (22:28:45) xrefdes '!' Q2 
+\i (22:28:45) xrefdes '!' Tp4 
+\i (22:28:45) xrefdes '!' Tp7 
+\i (22:28:45) xrefdes '!' R11 
+\i (22:28:45) xrefdes '!' R12 
+\i (22:28:45) xrefdes '!' R13 
+\i (22:28:45) xrefdes '!' Ds1 
+\i (22:28:45) xrefdes '!' Ds3 
+\i (22:28:45) xrefdes '!' Ds2 
+\i (22:28:45) xrefdes '!' Ds4 
+\i (22:28:45) xrefdes '!' Ds5 
+\i (22:28:45) xrefdes '!' C16 
+\i (22:28:45) xrefdes '!' C17 
+\i (22:28:45) xrefdes '!' R17 
+\i (22:28:45) xrefdes '!' R19 
+\i (22:28:45) xrefdes '!' R16 
+\i (22:28:45) xrefdes '!' R18 
+\i (22:28:45) xrefdes '!' P1 
+\i (22:28:45) xrefdes '!' C8 
+\i (22:28:45) xrefdes '!' C9 
+\i (22:28:45) xrefdes '!' C10 
+\i (22:28:45) xrefdes '!' C11 
+\i (22:28:45) xrefdes '!' Tp1 
+\i (22:28:45) xrefdes '!' C12 
+\i (22:28:45) xrefdes '!' C13 
+\i (22:28:46) xrefdes '!' C14 
+\i (22:28:46) xrefdes '!' C15 
+\i (22:28:46) xrefdes '!' Pwr1 
+\i (22:28:46) xrefdes '!' U29 
+\i (22:28:46) xrefdes '!' C282 
+\i (22:28:46) xrefdes '!' C283 
+\i (22:28:46) xrefdes '!' C284 
+\i (22:28:46) xrefdes '!' C285 
+\i (22:28:46) xrefdes '!' C286 
+\i (22:28:46) xrefdes '!' C289 
+\i (22:28:46) xrefdes '!' C290 
+\i (22:28:46) xrefdes '!' C291 
+\i (22:28:46) xrefdes '!' C292 
+\i (22:28:46) xrefdes '!' R182 
+\i (22:28:46) xrefdes '!' R184 
+\i (22:28:46) xrefdes '!' R186 
+\i (22:28:46) xrefdes '!' C288 
+\i (22:28:46) xrefdes '!' R189 
+\i (22:28:46) xrefdes '!' R183 
+\i (22:28:46) xrefdes '!' R185 
+\i (22:28:46) xrefdes '!' R188 
+\i (22:28:46) xrefdes '!' R187 
+\i (22:28:46) xrefdes '!' R190 
+\i (22:28:46) xrefdes '!' C287 
+\i (22:28:46) xrefdes '!' C293 
+\i (22:28:46) xrefdes '!' C294 
+\i (22:28:46) xrefdes '!' C295 
+\i (22:28:46) xrefdes '!' C296 
+\i (22:28:46) xrefdes '!' C297 
+\i (22:28:46) xrefdes '!' R191 
+\i (22:28:46) xrefdes '!' U30 
+\i (22:28:46) xrefdes '!' C298 
+\i (22:28:46) xrefdes '!' C299 
+\i (22:28:46) xrefdes '!' C300 
+\i (22:28:46) xrefdes '!' C301 
+\i (22:28:46) xrefdes '!' R192 
+\i (22:28:46) xrefdes '!' R193 
+\i (22:28:46) xrefdes '!' R194 
+\i (22:28:46) xrefdes '!' C302 
+\i (22:28:46) xrefdes '!' R195 
+\i (22:28:46) xrefdes '!' R196 
+\i (22:28:46) xrefdes '!' C303 
+\i (22:28:46) xrefdes '!' R197 
+\i (22:28:46) xrefdes '!' R198 
+\i (22:28:46) xrefdes '!' R199 
+\i (22:28:46) xrefdes '!' C304 
+\i (22:28:46) xrefdes '!' C305 
+\i (22:28:46) xrefdes '!' C306 
+\i (22:28:46) xrefdes '!' C307 
+\i (22:28:46) xrefdes '!' R200 
+\i (22:28:46) xrefdes '!' R201 
+\i (22:28:46) xrefdes '!' R202 
+\i (22:28:46) xrefdes '!' U31 
+\i (22:28:46) xrefdes '!' C308 
+\i (22:28:46) xrefdes '!' R203 
+\i (22:28:46) xrefdes '!' R204 
+\i (22:28:46) xrefdes '!' C309 
+\i (22:28:46) xname_flush '!' 
+\i (22:28:58) xNet Gpio_0 
+\i (22:28:58) xNet Gpio_1 
+\i (22:28:58) xNet Gpio_10 
+\i (22:28:58) xNet Gpio_11 
+\i (22:28:58) xNet Gpio_12 
+\i (22:28:58) xNet Gpio_13 
+\i (22:28:58) xNet Gpio_14 
+\i (22:28:58) xNet Gpio_15 
+\i (22:28:58) xNet Gpio_16 
+\i (22:28:58) xNet Gpio_17 
+\i (22:28:58) xNet Gpio_18 
+\i (22:28:58) xNet Gpio_19 
+\i (22:28:58) xNet Gpio_2 
+\i (22:28:58) xNet Gpio_20 
+\i (22:28:58) xNet Gpio_21 
+\i (22:28:58) xNet Gpio_22 
+\i (22:28:58) xNet Gpio_23 
+\i (22:28:58) xNet Gpio_24 
+\i (22:28:58) xNet Gpio_25 
+\i (22:28:58) xNet Gpio_26 
+\i (22:28:58) xNet Gpio_27 
+\i (22:28:58) xNet Gpio_28 
+\i (22:28:58) xNet Gpio_29 
+\i (22:28:58) xNet Gpio_3 
+\i (22:28:58) xNet Gpio_30 
+\i (22:28:58) xNet Gpio_31 
+\i (22:28:58) xNet Gpio_4 
+\i (22:28:58) xNet Gpio_5 
+\i (22:28:58) xNet Gpio_6 
+\i (22:28:58) xNet Gpio_7 
+\i (22:28:58) xNet Gpio_8 
+\i (22:28:58) xNet Gpio_9 
+\i (22:28:58) xrefdes U28 
+\i (22:28:58) xname_flush 
+\i (22:29:05) xNet '!' Cperst_L 
+\i (22:29:05) xname_flush '!' 
+\i (22:29:07) xNet 12Vcc_Ext 
+\i (22:29:07) xNet Mr# 
+\i (22:29:07) xNet Perst#_Sl5 
+\i (22:29:07) xNet Perst#_Sl6 
+\i (22:29:07) xNet Perst#_Sl7 
+\i (22:29:07) xNet Cperst_L 
+\i (22:29:07) xNet Mreset_L 
+\i (22:29:07) xNet N20181756 
+\i (22:29:07) xNet N20182455 
+\i (22:29:07) xNet Perst4_L 
+\i (22:29:07) xNet Perst_L 
+\i (22:29:07) xNet Perst_L_3V3 
+\i (22:29:07) xNet Pin6_Dwnrst_L 
+\i (22:29:07) xNet Pin8_Dwnrst_L 
+\i (22:29:07) xrefdes R156 
+\i (22:29:07) xrefdes R135 
+\i (22:29:07) xrefdes Rp75 
+\i (22:29:07) xrefdes S2 
+\i (22:29:07) xrefdes Rp76 
+\i (22:29:07) xrefdes U27 
+\i (22:29:07) xrefdes R143 
+\i (22:29:07) xrefdes C245 
+\i (22:29:07) xrefdes R144 
+\i (22:29:07) xrefdes R148 
+\i (22:29:07) xrefdes R155 
+\i (22:29:07) xrefdes R152 
+\i (22:29:07) xrefdes C244 
+\i (22:29:07) xrefdes R139 
+\i (22:29:07) xrefdes U23 
+\i (22:29:07) xrefdes U23 
+\i (22:29:07) xrefdes U23 
+\i (22:29:07) xrefdes R154 
+\i (22:29:07) xrefdes R153 
+\i (22:29:07) xname_flush 
+\i (22:29:08) xNet '!' 12Vcc_Ext 
+\i (22:29:08) xNet '!' Mr# 
+\i (22:29:08) xNet '!' Perst#_Sl5 
+\i (22:29:08) xNet '!' Perst#_Sl6 
+\i (22:29:08) xNet '!' Perst#_Sl7 
+\i (22:29:08) xNet '!' Cperst_L 
+\i (22:29:08) xNet '!' Mreset_L 
+\i (22:29:08) xNet '!' N20181756 
+\i (22:29:08) xNet '!' N20182455 
+\i (22:29:08) xNet '!' Perst4_L 
+\i (22:29:08) xNet '!' Perst_L 
+\i (22:29:08) xNet '!' Perst_L_3V3 
+\i (22:29:08) xNet '!' Pin6_Dwnrst_L 
+\i (22:29:08) xNet '!' Pin8_Dwnrst_L 
+\i (22:29:08) xrefdes '!' R156 
+\i (22:29:08) xrefdes '!' R135 
+\i (22:29:08) xrefdes '!' Rp75 
+\i (22:29:08) xrefdes '!' S2 
+\i (22:29:08) xrefdes '!' Rp76 
+\i (22:29:08) xrefdes '!' U27 
+\i (22:29:08) xrefdes '!' R143 
+\i (22:29:08) xrefdes '!' C245 
+\i (22:29:08) xrefdes '!' R144 
+\i (22:29:08) xrefdes '!' R148 
+\i (22:29:08) xrefdes '!' R155 
+\i (22:29:08) xrefdes '!' R152 
+\i (22:29:08) xrefdes '!' C244 
+\i (22:29:08) xrefdes '!' R139 
+\i (22:29:08) xrefdes '!' U23 
+\i (22:29:08) xrefdes '!' U23 
+\i (22:29:08) xrefdes '!' U23 
+\i (22:29:08) xrefdes '!' R154 
+\i (22:29:08) xrefdes '!' R153 
+\i (22:29:08) xname_flush '!' 
+\i (22:29:10) xNet 12Vcc_Ext 
+\i (22:29:10) xNet Perst#_Sl5 
+\i (22:29:10) xNet Perst#_Sl6 
+\i (22:29:10) xNet Perst#_Sl7 
+\i (22:29:10) xNet Perst4_L 
+\i (22:29:10) xNet Pin8_Dwnrst_L 
+\i (22:29:10) xrefdes R156 
+\i (22:29:10) xrefdes R155 
+\i (22:29:10) xrefdes R152 
+\i (22:29:10) xrefdes U23 
+\i (22:29:10) xrefdes R154 
+\i (22:29:10) xrefdes R153 
+\i (22:29:10) xname_flush 
+\i (22:29:10) trapsize 56909
+\i (22:29:10) xNet '!' 12Vcc_Ext 
+\i (22:29:10) xNet '!' Perst#_Sl5 
+\i (22:29:10) xNet '!' Perst#_Sl6 
+\i (22:29:10) xNet '!' Perst#_Sl7 
+\i (22:29:10) xNet '!' Perst4_L 
+\i (22:29:10) xNet '!' Pin8_Dwnrst_L 
+\i (22:29:10) xrefdes '!' R156 
+\i (22:29:10) xrefdes '!' R155 
+\i (22:29:10) xrefdes '!' R152 
+\i (22:29:10) xrefdes '!' U23 
+\i (22:29:10) xrefdes '!' R154 
+\i (22:29:10) xrefdes '!' R153 
+\i (22:29:10) xname_flush '!' 
+\i (22:29:11) xNet 12Vcc_Ext 
+\i (22:29:11) xNet Mr# 
+\i (22:29:11) xNet Perst#_Sl5 
+\i (22:29:11) xNet Perst#_Sl6 
+\i (22:29:11) xNet Perst#_Sl7 
+\i (22:29:11) xNet Cperst_L 
+\i (22:29:11) xNet Mreset_L 
+\i (22:29:11) xNet N20181756 
+\i (22:29:11) xNet N20182455 
+\i (22:29:11) xNet Perst4_L 
+\i (22:29:11) xNet Perst_L 
+\i (22:29:11) xNet Perst_L_3V3 
+\i (22:29:11) xNet Pin6_Dwnrst_L 
+\i (22:29:11) xNet Pin8_Dwnrst_L 
+\i (22:29:11) xrefdes R156 
+\i (22:29:11) xrefdes R135 
+\i (22:29:11) xrefdes Rp75 
+\i (22:29:11) xrefdes S2 
+\i (22:29:11) xrefdes Rp76 
+\i (22:29:11) xrefdes U27 
+\i (22:29:11) xrefdes R143 
+\i (22:29:11) xrefdes C245 
+\i (22:29:11) xrefdes R144 
+\i (22:29:11) xrefdes R148 
+\i (22:29:11) xrefdes R155 
+\i (22:29:11) xrefdes R152 
+\i (22:29:11) xrefdes C244 
+\i (22:29:11) xrefdes R139 
+\i (22:29:11) xrefdes U23 
+\i (22:29:11) xrefdes U23 
+\i (22:29:11) xrefdes U23 
+\i (22:29:11) xrefdes R154 
+\i (22:29:11) xrefdes R153 
+\i (22:29:11) xname_flush 
+\i (22:29:16) xNet '!' 12Vcc_Ext 
+\i (22:29:16) xNet '!' Mr# 
+\i (22:29:16) xNet '!' Perst#_Sl5 
+\i (22:29:16) xNet '!' Perst#_Sl6 
+\i (22:29:16) xNet '!' Perst#_Sl7 
+\i (22:29:16) xNet '!' Cperst_L 
+\i (22:29:16) xNet '!' Mreset_L 
+\i (22:29:16) xNet '!' N20181756 
+\i (22:29:16) xNet '!' N20182455 
+\i (22:29:16) xNet '!' Perst4_L 
+\i (22:29:16) xNet '!' Perst_L 
+\i (22:29:16) xNet '!' Perst_L_3V3 
+\i (22:29:16) xNet '!' Pin6_Dwnrst_L 
+\i (22:29:16) xNet '!' Pin8_Dwnrst_L 
+\i (22:29:16) xrefdes '!' R156 
+\i (22:29:16) xrefdes '!' R135 
+\i (22:29:16) xrefdes '!' Rp75 
+\i (22:29:16) xrefdes '!' S2 
+\i (22:29:16) xrefdes '!' Rp76 
+\i (22:29:16) xrefdes '!' U27 
+\i (22:29:16) xrefdes '!' R143 
+\i (22:29:16) xrefdes '!' C245 
+\i (22:29:16) xrefdes '!' R144 
+\i (22:29:16) xrefdes '!' R148 
+\i (22:29:16) xrefdes '!' R155 
+\i (22:29:16) xrefdes '!' R152 
+\i (22:29:16) xrefdes '!' C244 
+\i (22:29:16) xrefdes '!' R139 
+\i (22:29:16) xrefdes '!' U23 
+\i (22:29:16) xrefdes '!' U23 
+\i (22:29:16) xrefdes '!' U23 
+\i (22:29:16) xrefdes '!' R154 
+\i (22:29:16) xrefdes '!' R153 
+\i (22:29:16) xname_flush '!' 
+\i (22:30:05) xNet '!' Gpio_12 
+\i (22:30:05) xNet '!' Gpio_23 
+\i (22:30:05) xNet '!' Gpio_7 
+\i (22:30:05) xNet '!' Gpio_8 
+\i (22:30:05) xname_flush '!' 
+\i (22:30:09) xNet 1.8V_Ext 
+\i (22:30:09) xNet 12V_Sl4_Shp 
+\i (22:30:09) xNet 12Vcc_Ext 
+\i (22:30:09) xNet 12Vg 
+\i (22:30:09) xNet 12Vs 
+\i (22:30:09) xNet 3.3V_Sl4_Shp 
+\i (22:30:09) xNet 3Vg 
+\i (22:30:09) xNet 3Vs 
+\i (22:30:09) xNet Atnled#_S 
+\i (22:30:09) xNet Button#_S 
+\i (22:30:09) xNet Clken#_S 
+\i (22:30:09) xNet Fault# 
+\i (22:30:09) xNet Mrl#_S 
+\i (22:30:09) xNet Perst#_S 
+\i (22:30:09) xNet Perst#_Sl4 
+\i (22:30:09) xNet Prsnt#_Sl4 
+\i (22:30:09) xNet Prsnt#_Sl7 
+\i (22:30:09) xNet Pwrflt#_S 
+\i (22:30:09) xNet Pwrled#_S 
+\i (22:30:09) xNet Clkbuf_Oe_2_L 
+\i (22:30:09) xNet Clkbuf_Oe_3_L 
+\i (22:30:09) xNet Clkbuf_Oe_8_L 
+\i (22:30:09) xNet Clkbuf_Oe_Phy0 
+\i (22:30:09) xNet Clkbuf_Oe_Phy1 
+\i (22:30:09) xNet Clkbuf_Oe_Slot4 
+\i (22:30:09) xNet Clken_N_Sl 
+\i (22:30:09) xNet Clkreq_L_0 
+\i (22:30:09) xNet Clkreq_L_4 
+\i (22:30:09) xNet Gpio_12 
+\i (22:30:09) xNet Gpio_23 
+\i (22:30:09) xNet Gpio_7 
+\i (22:30:09) xNet Gpio_8 
+\i (22:30:09) xNet Gpio_S 
+\i (22:30:09) xNet Hp_Led_7 
+\i (22:30:09) xNet Hp_Rst_7_L 
+\i (22:30:09) xNet Hpscl 
+\i (22:30:09) xNet Hpsda 
+\i (22:30:09) xNet Interlock_S 
+\i (22:30:09) xNet Ioe_Addr0 
+\i (22:30:09) xNet Ioe_Addr1 
+\i (22:30:09) xNet Ioe_Addr2 
+\i (22:30:09) xNet Is1 
+\i (22:30:09) xNet Is2 
+\i (22:30:09) xNet N22226783 
+\i (22:30:09) xNet N22226854 
+\i (22:30:09) xNet N22226894 
+\i (22:30:09) xNet N22226919 
+\i (22:30:09) xNet N22226922 
+\i (22:30:09) xNet N22226992 
+\i (22:30:09) xNet N22227000 
+\i (22:30:09) xNet N22227049 
+\i (22:30:09) xNet N22227050 
+\i (22:30:09) xNet N22227069 
+\i (22:30:09) xNet N22818950 
+\i (22:30:09) xNet N22828371 
+\i (22:30:09) xNet N27804735 
+\i (22:30:09) xNet Pdc_L_7 
+\i (22:30:09) xNet Perst4_L 
+\i (22:30:09) xNet Pwren_S 
+\i (22:30:09) xNet Pwren_Sl 
+\i (22:30:09) xNet Pwrgood_S 
+\i (22:30:09) xNet Shcl_I2c 
+\i (22:30:09) xNet Shda_I2c 
+\i (22:30:09) xNet Shp_Hp_Ctrl 
+\i (22:30:09) xNet Shpint 
+\i (22:30:09) xNet Sl7 
+\i (22:30:09) xNet U9_Oe 
+\i (22:30:09) xrefdes Ds17 
+\i (22:30:09) xrefdes R111 
+\i (22:30:09) xrefdes R118 
+\i (22:30:09) xrefdes R128 
+\i (22:30:09) xrefdes M2 
+\i (22:30:09) xrefdes C219 
+\i (22:30:09) xrefdes Rp60 
+\i (22:30:09) xrefdes R125 
+\i (22:30:09) xrefdes R130 
+\i (22:30:09) xrefdes Tp18 
+\i (22:30:09) xrefdes C234 
+\i (22:30:09) xrefdes Ds16 
+\i (22:30:09) xrefdes R116 
+\i (22:30:09) xrefdes Bd9 
+\i (22:30:09) xrefdes Rp61 
+\i (22:30:09) xrefdes R121 
+\i (22:30:09) xrefdes Rp63 
+\i (22:30:09) xrefdes C233 
+\i (22:30:09) xrefdes D2 
+\i (22:30:09) xrefdes R123 
+\i (22:30:09) xrefdes C236 
+\i (22:30:09) xrefdes U23 
+\i (22:30:09) xrefdes Bd10 
+\i (22:30:09) xrefdes C232 
+\i (22:30:09) xrefdes U22 
+\i (22:30:09) xrefdes Rp64 
+\i (22:30:09) xrefdes C228 
+\i (22:30:09) xrefdes C229 
+\i (22:30:09) xrefdes C231 
+\i (22:30:09) xrefdes Rp62 
+\i (22:30:09) xrefdes R117 
+\i (22:30:09) xrefdes R122 
+\i (22:30:09) xrefdes R119 
+\i (22:30:09) xrefdes Ds15 
+\i (22:30:09) xrefdes R114 
+\i (22:30:09) xrefdes R120 
+\i (22:30:09) xrefdes R110 
+\i (22:30:09) xrefdes R129 
+\i (22:30:10) xrefdes U25 
+\i (22:30:10) xrefdes M1 
+\i (22:30:10) xrefdes C218 
+\i (22:30:10) xrefdes D1 
+\i (22:30:10) xrefdes Tp20 
+\i (22:30:10) xrefdes R103 
+\i (22:30:10) xrefdes R115 
+\i (22:30:10) xrefdes C227 
+\i (22:30:10) xrefdes C235 
+\i (22:30:10) xrefdes Tp19 
+\i (22:30:10) xrefdes R127 
+\i (22:30:10) xrefdes R124 
+\i (22:30:10) xrefdes R104 
+\i (22:30:10) xrefdes R126 
+\i (22:30:10) xrefdes R131 
+\i (22:30:10) xrefdes J5 
+\i (22:30:10) xrefdes C230 
+\i (22:30:10) xrefdes U24 
+\i (22:30:10) xrefdes C226 
+\i (22:30:10) xrefdes C222 
+\i (22:30:10) xrefdes R113 
+\i (22:30:10) xrefdes C225 
+\i (22:30:10) xrefdes R112 
+\i (22:30:10) xrefdes S1 
+\i (22:30:10) xrefdes Rd64 
+\i (22:30:10) xrefdes Rd65 
+\i (22:30:10) xrefdes Rd66 
+\i (22:30:10) xrefdes R105 
+\i (22:30:10) xrefdes R106 
+\i (22:30:10) xrefdes R107 
+\i (22:30:10) xrefdes R108 
+\i (22:30:10) xrefdes R109 
+\i (22:30:10) xrefdes U21 
+\i (22:30:10) xrefdes Rd67 
+\i (22:30:10) xrefdes Rd68 
+\i (22:30:10) xrefdes C217 
+\i (22:30:10) xrefdes C220 
+\i (22:30:10) xrefdes C221 
+\i (22:30:10) xrefdes Rp66 
+\i (22:30:10) xrefdes Rp67 
+\i (22:30:10) xrefdes Rp68 
+\i (22:30:10) xrefdes Rp69 
+\i (22:30:10) xrefdes C237 
+\i (22:30:10) xrefdes C240 
+\i (22:30:10) xrefdes C239 
+\i (22:30:10) xrefdes Rp65 
+\i (22:30:10) xrefdes R133 
+\i (22:30:10) xrefdes Rp71 
+\i (22:30:10) xrefdes Rp70 
+\i (22:30:10) xrefdes Rp74 
+\i (22:30:10) xrefdes Rp73 
+\i (22:30:10) xrefdes Rp72 
+\i (22:30:10) xrefdes R132 
+\i (22:30:10) xrefdes C238 
+\i (22:30:10) xrefdes C241 
+\i (22:30:10) xrefdes C242 
+\i (22:30:10) xrefdes C243 
+\i (22:30:10) xrefdes U26 
+\i (22:30:10) xrefdes R134 
+\i (22:30:10) xrefdes Ds18 
+\i (22:30:10) xrefdes J6 
+\i (22:30:10) xrefdes Sw14 
+\i (22:30:10) xrefdes Rp89 
+\i (22:30:10) xrefdes Rp90 
+\i (22:30:10) xrefdes Rp91 
+\i (22:30:10) xrefdes J10 
+\i (22:30:10) xrefdes Rp80 
+\i (22:30:10) xrefdes Rp81 
+\i (22:30:10) xrefdes Rp82 
+\i (22:30:10) xname_flush 
+\i (22:30:16) xNet '!' 1.8V_Ext 
+\i (22:30:16) xNet '!' 12V_Sl4_Shp 
+\i (22:30:16) xNet '!' 12Vcc_Ext 
+\i (22:30:16) xNet '!' 12Vg 
+\i (22:30:16) xNet '!' 12Vs 
+\i (22:30:16) xNet '!' 3.3V_Sl4_Shp 
+\i (22:30:16) xNet '!' 3Vg 
+\i (22:30:16) xNet '!' 3Vs 
+\i (22:30:16) xNet '!' Atnled#_S 
+\i (22:30:16) xNet '!' Button#_S 
+\i (22:30:16) xNet '!' Clken#_S 
+\i (22:30:16) xNet '!' Fault# 
+\i (22:30:16) xNet '!' Mrl#_S 
+\i (22:30:16) xNet '!' Perst#_S 
+\i (22:30:16) xNet '!' Perst#_Sl4 
+\i (22:30:16) xNet '!' Prsnt#_Sl4 
+\i (22:30:16) xNet '!' Prsnt#_Sl7 
+\i (22:30:16) xNet '!' Pwrflt#_S 
+\i (22:30:16) xNet '!' Pwrled#_S 
+\i (22:30:16) xNet '!' Clkbuf_Oe_2_L 
+\i (22:30:16) xNet '!' Clkbuf_Oe_3_L 
+\i (22:30:16) xNet '!' Clkbuf_Oe_8_L 
+\i (22:30:16) xNet '!' Clkbuf_Oe_Phy0 
+\i (22:30:16) xNet '!' Clkbuf_Oe_Phy1 
+\i (22:30:16) xNet '!' Clkbuf_Oe_Slot4 
+\i (22:30:16) xNet '!' Clken_N_Sl 
+\i (22:30:16) xNet '!' Clkreq_L_0 
+\i (22:30:16) xNet '!' Clkreq_L_4 
+\i (22:30:16) xNet '!' Gpio_12 
+\i (22:30:16) xNet '!' Gpio_23 
+\i (22:30:16) xNet '!' Gpio_7 
+\i (22:30:16) xNet '!' Gpio_8 
+\i (22:30:16) xNet '!' Gpio_S 
+\i (22:30:16) xNet '!' Hp_Led_7 
+\i (22:30:16) xNet '!' Hp_Rst_7_L 
+\i (22:30:16) xNet '!' Hpscl 
+\i (22:30:16) xNet '!' Hpsda 
+\i (22:30:16) xNet '!' Interlock_S 
+\i (22:30:16) xNet '!' Ioe_Addr0 
+\i (22:30:16) xNet '!' Ioe_Addr1 
+\i (22:30:16) xNet '!' Ioe_Addr2 
+\i (22:30:16) xNet '!' Is1 
+\i (22:30:16) xNet '!' Is2 
+\i (22:30:16) xNet '!' N22226783 
+\i (22:30:16) xNet '!' N22226854 
+\i (22:30:16) xNet '!' N22226894 
+\i (22:30:16) xNet '!' N22226919 
+\i (22:30:16) xNet '!' N22226922 
+\i (22:30:16) xNet '!' N22226992 
+\i (22:30:16) xNet '!' N22227000 
+\i (22:30:16) xNet '!' N22227049 
+\i (22:30:16) xNet '!' N22227050 
+\i (22:30:16) xNet '!' N22227069 
+\i (22:30:16) xNet '!' N22818950 
+\i (22:30:16) xNet '!' N22828371 
+\i (22:30:16) xNet '!' N27804735 
+\i (22:30:16) xNet '!' Pdc_L_7 
+\i (22:30:16) xNet '!' Perst4_L 
+\i (22:30:16) xNet '!' Pwren_S 
+\i (22:30:16) xNet '!' Pwren_Sl 
+\i (22:30:16) xNet '!' Pwrgood_S 
+\i (22:30:16) xNet '!' Shcl_I2c 
+\i (22:30:16) xNet '!' Shda_I2c 
+\i (22:30:16) xNet '!' Shp_Hp_Ctrl 
+\i (22:30:16) xNet '!' Shpint 
+\i (22:30:16) xNet '!' Sl7 
+\i (22:30:16) xNet '!' U9_Oe 
+\i (22:30:16) xrefdes '!' Ds17 
+\i (22:30:16) xrefdes '!' R111 
+\i (22:30:16) xrefdes '!' R118 
+\i (22:30:16) xrefdes '!' R128 
+\i (22:30:16) xrefdes '!' M2 
+\i (22:30:16) xrefdes '!' C219 
+\i (22:30:16) xrefdes '!' Rp60 
+\i (22:30:16) xrefdes '!' R125 
+\i (22:30:16) xrefdes '!' R130 
+\i (22:30:16) xrefdes '!' Tp18 
+\i (22:30:16) xrefdes '!' C234 
+\i (22:30:16) xrefdes '!' Ds16 
+\i (22:30:16) xrefdes '!' R116 
+\i (22:30:17) xrefdes '!' Bd9 
+\i (22:30:17) xrefdes '!' Rp61 
+\i (22:30:17) xrefdes '!' R121 
+\i (22:30:17) xrefdes '!' Rp63 
+\i (22:30:17) xrefdes '!' C233 
+\i (22:30:17) xrefdes '!' D2 
+\i (22:30:17) xrefdes '!' R123 
+\i (22:30:17) xrefdes '!' C236 
+\i (22:30:17) xrefdes '!' U23 
+\i (22:30:17) xrefdes '!' Bd10 
+\i (22:30:17) xrefdes '!' C232 
+\i (22:30:17) xrefdes '!' U22 
+\i (22:30:17) xrefdes '!' Rp64 
+\i (22:30:17) xrefdes '!' C228 
+\i (22:30:17) xrefdes '!' C229 
+\i (22:30:17) xrefdes '!' C231 
+\i (22:30:17) xrefdes '!' Rp62 
+\i (22:30:17) xrefdes '!' R117 
+\i (22:30:17) xrefdes '!' R122 
+\i (22:30:17) xrefdes '!' R119 
+\i (22:30:17) xrefdes '!' Ds15 
+\i (22:30:17) xrefdes '!' R114 
+\i (22:30:17) xrefdes '!' R120 
+\i (22:30:17) xrefdes '!' R110 
+\i (22:30:17) xrefdes '!' R129 
+\i (22:30:17) xrefdes '!' U25 
+\i (22:30:17) xrefdes '!' M1 
+\i (22:30:17) xrefdes '!' C218 
+\i (22:30:17) xrefdes '!' D1 
+\i (22:30:17) xrefdes '!' Tp20 
+\i (22:30:17) xrefdes '!' R103 
+\i (22:30:17) xrefdes '!' R115 
+\i (22:30:17) xrefdes '!' C227 
+\i (22:30:17) xrefdes '!' C235 
+\i (22:30:17) xrefdes '!' Tp19 
+\i (22:30:17) xrefdes '!' R127 
+\i (22:30:17) xrefdes '!' R124 
+\i (22:30:17) xrefdes '!' R104 
+\i (22:30:17) xrefdes '!' R126 
+\i (22:30:17) xrefdes '!' R131 
+\i (22:30:17) xrefdes '!' J5 
+\i (22:30:17) xrefdes '!' C230 
+\i (22:30:17) xrefdes '!' U24 
+\i (22:30:17) xrefdes '!' C226 
+\i (22:30:17) xrefdes '!' C222 
+\i (22:30:17) xrefdes '!' R113 
+\i (22:30:17) xrefdes '!' C225 
+\i (22:30:17) xrefdes '!' R112 
+\i (22:30:17) xrefdes '!' S1 
+\i (22:30:17) xrefdes '!' Rd64 
+\i (22:30:17) xrefdes '!' Rd65 
+\i (22:30:17) xrefdes '!' Rd66 
+\i (22:30:17) xrefdes '!' R105 
+\i (22:30:17) xrefdes '!' R106 
+\i (22:30:17) xrefdes '!' R107 
+\i (22:30:17) xrefdes '!' R108 
+\i (22:30:17) xrefdes '!' R109 
+\i (22:30:17) xrefdes '!' U21 
+\i (22:30:17) xrefdes '!' Rd67 
+\i (22:30:17) xrefdes '!' Rd68 
+\i (22:30:17) xrefdes '!' C217 
+\i (22:30:17) xrefdes '!' C220 
+\i (22:30:17) xrefdes '!' C221 
+\i (22:30:17) xrefdes '!' Rp66 
+\i (22:30:17) xrefdes '!' Rp67 
+\i (22:30:17) xrefdes '!' Rp68 
+\i (22:30:17) xrefdes '!' Rp69 
+\i (22:30:17) xrefdes '!' C237 
+\i (22:30:17) xrefdes '!' C240 
+\i (22:30:17) xrefdes '!' C239 
+\i (22:30:17) xrefdes '!' Rp65 
+\i (22:30:17) xrefdes '!' R133 
+\i (22:30:17) xrefdes '!' Rp71 
+\i (22:30:17) xrefdes '!' Rp70 
+\i (22:30:17) xrefdes '!' Rp74 
+\i (22:30:17) xrefdes '!' Rp73 
+\i (22:30:17) xrefdes '!' Rp72 
+\i (22:30:17) xrefdes '!' R132 
+\i (22:30:17) xrefdes '!' C238 
+\i (22:30:17) xrefdes '!' C241 
+\i (22:30:17) xrefdes '!' C242 
+\i (22:30:17) xrefdes '!' C243 
+\i (22:30:17) xrefdes '!' U26 
+\i (22:30:17) xrefdes '!' R134 
+\i (22:30:17) xrefdes '!' Ds18 
+\i (22:30:17) xrefdes '!' J6 
+\i (22:30:17) xrefdes '!' Sw14 
+\i (22:30:17) xrefdes '!' Rp89 
+\i (22:30:17) xrefdes '!' Rp90 
+\i (22:30:17) xrefdes '!' Rp91 
+\i (22:30:17) xrefdes '!' J10 
+\i (22:30:17) xrefdes '!' Rp80 
+\i (22:30:17) xrefdes '!' Rp81 
+\i (22:30:17) xrefdes '!' Rp82 
+\i (22:30:17) xname_flush '!' 
+\i (22:31:18) xNet '!' Refclkin_R 
+\i (22:31:18) xNet '!' Refclkip_R 
+\i (22:31:18) xname_flush '!' 
+\i (22:31:21) xNet 1.8V_Ext 
+\i (22:31:21) xNet 12Vcc_Ext 
+\i (22:31:21) xNet Ckmode 
+\i (22:31:21) xNet Clkbuf_Input_Sel 
+\i (22:31:21) xNet Refclkin_R 
+\i (22:31:21) xNet Refclkip_R 
+\i (22:31:21) xNet Refclkn_Sl4 
+\i (22:31:21) xNet Refclkn_Sl5 
+\i (22:31:21) xNet Refclkn_Sl6 
+\i (22:31:21) xNet Refclkn_Sl7 
+\i (22:31:21) xNet Refclkon0 
+\i (22:31:21) xNet Refclkon4 
+\i (22:31:21) xNet Refclkon5 
+\i (22:31:21) xNet Refclkon6 
+\i (22:31:21) xNet Refclkon7 
+\i (22:31:21) xNet Refclkon_Phy0 
+\i (22:31:21) xNet Refclkon_Phy1 
+\i (22:31:21) xNet Refclkop0 
+\i (22:31:21) xNet Refclkop4 
+\i (22:31:21) xNet Refclkop5 
+\i (22:31:21) xNet Refclkop6 
+\i (22:31:21) xNet Refclkop7 
+\i (22:31:21) xNet Refclkop_Phy0 
+\i (22:31:21) xNet Refclkop_Phy1 
+\i (22:31:21) xNet Refclkp_Sl4 
+\i (22:31:21) xNet Refclkp_Sl5 
+\i (22:31:21) xNet Refclkp_Sl6 
+\i (22:31:21) xNet Refclkp_Sl7 
+\i (22:31:21) xNet Resref 
+\i (22:31:21) xrefdes R102 
+\i (22:31:21) xrefdes R88 
+\i (22:31:21) xrefdes R89 
+\i (22:31:21) xrefdes R90 
+\i (22:31:21) xrefdes R91 
+\i (22:31:21) xrefdes R92 
+\i (22:31:21) xrefdes R93 
+\i (22:31:21) xrefdes R159 
+\i (22:31:21) xrefdes R160 
+\i (22:31:21) xrefdes Rd82 
+\i (22:31:21) xrefdes Rd81 
+\i (22:31:21) xrefdes Rp87 
+\i (22:31:21) xrefdes Rd5 
+\i (22:31:21) xrefdes R157 
+\i (22:31:21) xrefdes R158 
+\i (22:31:21) xrefdes U28 
+\i (22:31:21) xname_flush 
+\i (22:31:24) xNet '!' 1.8V_Ext 
+\i (22:31:24) xNet '!' 12Vcc_Ext 
+\i (22:31:24) xNet '!' Ckmode 
+\i (22:31:24) xNet '!' Clkbuf_Input_Sel 
+\i (22:31:24) xNet '!' Refclkin_R 
+\i (22:31:24) xNet '!' Refclkip_R 
+\i (22:31:24) xNet '!' Refclkn_Sl4 
+\i (22:31:24) xNet '!' Refclkn_Sl5 
+\i (22:31:24) xNet '!' Refclkn_Sl6 
+\i (22:31:24) xNet '!' Refclkn_Sl7 
+\i (22:31:24) xNet '!' Refclkon0 
+\i (22:31:24) xNet '!' Refclkon4 
+\i (22:31:24) xNet '!' Refclkon5 
+\i (22:31:24) xNet '!' Refclkon6 
+\i (22:31:24) xNet '!' Refclkon7 
+\i (22:31:24) xNet '!' Refclkon_Phy0 
+\i (22:31:24) xNet '!' Refclkon_Phy1 
+\i (22:31:24) xNet '!' Refclkop0 
+\i (22:31:24) xNet '!' Refclkop4 
+\i (22:31:24) xNet '!' Refclkop5 
+\i (22:31:24) xNet '!' Refclkop6 
+\i (22:31:24) xNet '!' Refclkop7 
+\i (22:31:24) xNet '!' Refclkop_Phy0 
+\i (22:31:24) xNet '!' Refclkop_Phy1 
+\i (22:31:24) xNet '!' Refclkp_Sl4 
+\i (22:31:24) xNet '!' Refclkp_Sl5 
+\i (22:31:24) xNet '!' Refclkp_Sl6 
+\i (22:31:24) xNet '!' Refclkp_Sl7 
+\i (22:31:24) xNet '!' Resref 
+\i (22:31:24) xrefdes '!' R102 
+\i (22:31:24) xrefdes '!' R88 
+\i (22:31:24) xrefdes '!' R89 
+\i (22:31:24) xrefdes '!' R90 
+\i (22:31:24) xrefdes '!' R91 
+\i (22:31:24) xrefdes '!' R92 
+\i (22:31:24) xrefdes '!' R93 
+\i (22:31:24) xrefdes '!' R159 
+\i (22:31:24) xrefdes '!' R160 
+\i (22:31:24) xrefdes '!' Rd82 
+\i (22:31:24) xrefdes '!' Rd81 
+\i (22:31:24) xrefdes '!' Rp87 
+\i (22:31:24) xrefdes '!' Rd5 
+\i (22:31:24) xrefdes '!' R157 
+\i (22:31:24) xrefdes '!' R158 
+\i (22:31:24) xrefdes '!' U28 
+\i (22:31:24) xname_flush '!' 
+\i (22:31:36) xNet Pern5_Recept 
+\i (22:31:36) xNet Pern6_Recept 
+\i (22:31:36) xNet Pern7_Recept 
+\i (22:31:36) xNet Perp5_Recept 
+\i (22:31:36) xNet Perp6_Recept 
+\i (22:31:36) xNet Perp7_Recept 
+\i (22:31:36) xNet Petn5_Recept 
+\i (22:31:36) xNet Petn6_Recept 
+\i (22:31:36) xNet Petn7_Recept 
+\i (22:31:36) xNet Petp5_Recept 
+\i (22:31:36) xNet Petp6_Recept 
+\i (22:31:36) xNet Petp7_Recept 
+\i (22:31:36) xname_flush 
+\i (22:31:36) trapsize 56909
+\i (22:31:42) xNet '!' Pern5_Recept 
+\i (22:31:42) xNet '!' Pern6_Recept 
+\i (22:31:42) xNet '!' Pern7_Recept 
+\i (22:31:42) xNet '!' Perp5_Recept 
+\i (22:31:42) xNet '!' Perp6_Recept 
+\i (22:31:42) xNet '!' Perp7_Recept 
+\i (22:31:42) xNet '!' Petn5_Recept 
+\i (22:31:42) xNet '!' Petn6_Recept 
+\i (22:31:42) xNet '!' Petn7_Recept 
+\i (22:31:42) xNet '!' Petp5_Recept 
+\i (22:31:42) xNet '!' Petp6_Recept 
+\i (22:31:42) xNet '!' Petp7_Recept 
+\i (22:31:42) xname_flush '!' 
+\i (22:32:06) xNet 0.95C_Vddc 
+\i (22:32:06) xNet 0.95V_Cvddc 
+\i (22:32:06) xNet 0.95V_Vddc 
+\i (22:32:06) xNet 0.95Vddc 
+\i (22:32:06) xNet 0.95Vp 
+\i (22:32:06) xNet 1.8C_Vddr 
+\i (22:32:06) xNet 1.8V_Ext 
+\i (22:32:06) xNet 1.8Vddr 
+\i (22:32:06) xNet 1.8Vph 
+\i (22:32:06) xNet 12Vcc_Ext 
+\i (22:32:06) xrefdes C144 
+\i (22:32:06) xrefdes C145 
+\i (22:32:06) xrefdes Bd1 
+\i (22:32:06) xrefdes C125 
+\i (22:32:06) xrefdes C126 
+\i (22:32:06) xrefdes C123 
+\i (22:32:06) xrefdes C124 
+\i (22:32:06) xrefdes C127 
+\i (22:32:06) xrefdes C128 
+\i (22:32:06) xrefdes C131 
+\i (22:32:06) xrefdes C132 
+\i (22:32:06) xrefdes C129 
+\i (22:32:06) xrefdes C133 
+\i (22:32:06) xrefdes C134 
+\i (22:32:06) xrefdes C121 
+\i (22:32:06) xrefdes C122 
+\i (22:32:06) xrefdes C119 
+\i (22:32:06) xrefdes C120 
+\i (22:32:06) xrefdes C148 
+\i (22:32:06) xrefdes C149 
+\i (22:32:06) xrefdes C146 
+\i (22:32:06) xrefdes C147 
+\i (22:32:06) xrefdes Bd3 
+\i (22:32:06) xrefdes Bd4 
+\i (22:32:06) xrefdes Bd6 
+\i (22:32:06) xrefdes Bd7 
+\i (22:32:06) xrefdes Bd8 
+\i (22:32:06) xrefdes C136 
+\i (22:32:06) xrefdes C137 
+\i (22:32:06) xrefdes C135 
+\i (22:32:06) xrefdes C141 
+\i (22:32:06) xrefdes C140 
+\i (22:32:06) xrefdes C143 
+\i (22:32:06) xrefdes C142 
+\i (22:32:06) xrefdes C139 
+\i (22:32:06) xrefdes C138 
+\i (22:32:06) xrefdes C161 
+\i (22:32:06) xrefdes C160 
+\i (22:32:06) xrefdes C157 
+\i (22:32:06) xrefdes C156 
+\i (22:32:06) xrefdes C153 
+\i (22:32:06) xrefdes C150 
+\i (22:32:06) xrefdes C154 
+\i (22:32:06) xrefdes C158 
+\i (22:32:06) xrefdes C162 
+\i (22:32:06) xrefdes C159 
+\i (22:32:06) xrefdes C155 
+\i (22:32:06) xrefdes C152 
+\i (22:32:06) xrefdes C151 
+\i (22:32:06) xrefdes C166 
+\i (22:32:06) xrefdes C167 
+\i (22:32:06) xrefdes C163 
+\i (22:32:06) xrefdes C165 
+\i (22:32:06) xrefdes C164 
+\i (22:32:06) xrefdes C130 
+\i (22:32:06) xrefdes U28 
+\i (22:32:06) xname_flush 
+\i (22:32:11) xNet '!' 0.95C_Vddc 
+\i (22:32:11) xNet '!' 0.95V_Cvddc 
+\i (22:32:11) xNet '!' 0.95V_Vddc 
+\i (22:32:11) xNet '!' 0.95Vddc 
+\i (22:32:11) xNet '!' 0.95Vp 
+\i (22:32:11) xNet '!' 1.8C_Vddr 
+\i (22:32:11) xNet '!' 1.8V_Ext 
+\i (22:32:11) xNet '!' 1.8Vddr 
+\i (22:32:11) xNet '!' 1.8Vph 
+\i (22:32:11) xNet '!' 12Vcc_Ext 
+\i (22:32:11) xrefdes '!' C144 
+\i (22:32:11) xrefdes '!' C145 
+\i (22:32:11) xrefdes '!' Bd1 
+\i (22:32:11) xrefdes '!' C125 
+\i (22:32:11) xrefdes '!' C126 
+\i (22:32:11) xrefdes '!' C123 
+\i (22:32:11) xrefdes '!' C124 
+\i (22:32:11) xrefdes '!' C127 
+\i (22:32:11) xrefdes '!' C128 
+\i (22:32:11) xrefdes '!' C131 
+\i (22:32:11) xrefdes '!' C132 
+\i (22:32:11) xrefdes '!' C129 
+\i (22:32:11) xrefdes '!' C133 
+\i (22:32:11) xrefdes '!' C134 
+\i (22:32:11) xrefdes '!' C121 
+\i (22:32:11) xrefdes '!' C122 
+\i (22:32:11) xrefdes '!' C119 
+\i (22:32:11) xrefdes '!' C120 
+\i (22:32:11) xrefdes '!' C148 
+\i (22:32:11) xrefdes '!' C149 
+\i (22:32:11) xrefdes '!' C146 
+\i (22:32:11) xrefdes '!' C147 
+\i (22:32:11) xrefdes '!' Bd3 
+\i (22:32:11) xrefdes '!' Bd4 
+\i (22:32:11) xrefdes '!' Bd6 
+\i (22:32:11) xrefdes '!' Bd7 
+\i (22:32:11) xrefdes '!' Bd8 
+\i (22:32:11) xrefdes '!' C136 
+\i (22:32:11) xrefdes '!' C137 
+\i (22:32:11) xrefdes '!' C135 
+\i (22:32:11) xrefdes '!' C141 
+\i (22:32:11) xrefdes '!' C140 
+\i (22:32:11) xrefdes '!' C143 
+\i (22:32:11) xrefdes '!' C142 
+\i (22:32:11) xrefdes '!' C139 
+\i (22:32:11) xrefdes '!' C138 
+\i (22:32:11) xrefdes '!' C161 
+\i (22:32:11) xrefdes '!' C160 
+\i (22:32:11) xrefdes '!' C157 
+\i (22:32:11) xrefdes '!' C156 
+\i (22:32:11) xrefdes '!' C153 
+\i (22:32:11) xrefdes '!' C150 
+\i (22:32:11) xrefdes '!' C154 
+\i (22:32:11) xrefdes '!' C158 
+\i (22:32:11) xrefdes '!' C162 
+\i (22:32:11) xrefdes '!' C159 
+\i (22:32:11) xrefdes '!' C155 
+\i (22:32:11) xrefdes '!' C152 
+\i (22:32:11) xrefdes '!' C151 
+\i (22:32:11) xrefdes '!' C166 
+\i (22:32:11) xrefdes '!' C167 
+\i (22:32:11) xrefdes '!' C163 
+\i (22:32:11) xrefdes '!' C165 
+\i (22:32:11) xrefdes '!' C164 
+\i (22:32:11) xrefdes '!' C130 
+\i (22:32:11) xrefdes '!' U28 
+\i (22:32:11) xname_flush '!' 
+\i (22:32:14) xNet '!' Pern0_Recept 
+\i (22:32:14) xNet '!' Pern1_Recept 
+\i (22:32:14) xNet '!' Pern2_Recept 
+\i (22:32:14) xNet '!' Pern3_Recept 
+\i (22:32:14) xNet '!' Perp0_Recept 
+\i (22:32:14) xNet '!' Perp1_Recept 
+\i (22:32:14) xNet '!' Perp2_Recept 
+\i (22:32:14) xNet '!' Perp3_Recept 
+\i (22:32:14) xNet '!' Petn0_Recept 
+\i (22:32:14) xNet '!' Petn1_Recept 
+\i (22:32:14) xNet '!' Petn2_Recept 
+\i (22:32:14) xNet '!' Petn3_Recept 
+\i (22:32:14) xNet '!' Petp0_Recept 
+\i (22:32:14) xNet '!' Petp1_Recept 
+\i (22:32:14) xNet '!' Petp2_Recept 
+\i (22:32:14) xNet '!' Petp3_Recept 
+\i (22:32:14) xname_flush '!' 
+\i (22:32:16) xNet Pern0_Recept 
+\i (22:32:16) xNet Pern1_Recept 
+\i (22:32:16) xNet Pern2_Recept 
+\i (22:32:16) xNet Pern3_Recept 
+\i (22:32:16) xNet Pern4_Recept 
+\i (22:32:17) xNet Pern5_Recept 
+\i (22:32:17) xNet Pern6_Recept 
+\i (22:32:17) xNet Pern7_Recept 
+\i (22:32:17) xNet Perp0_Recept 
+\i (22:32:17) xNet Perp1_Recept 
+\i (22:32:17) xNet Perp2_Recept 
+\i (22:32:17) xNet Perp3_Recept 
+\i (22:32:17) xNet Perp4_Recept 
+\i (22:32:17) xNet Perp5_Recept 
+\i (22:32:17) xNet Perp6_Recept 
+\i (22:32:17) xNet Perp7_Recept 
+\i (22:32:17) xNet Petn0_Recept 
+\i (22:32:17) xNet Petn1_Recept 
+\i (22:32:17) xNet Petn2_Recept 
+\i (22:32:17) xNet Petn3_Recept 
+\i (22:32:17) xNet Petn4_Recept 
+\i (22:32:17) xNet Petn5_Recept 
+\i (22:32:17) xNet Petn6_Recept 
+\i (22:32:17) xNet Petn7_Recept 
+\i (22:32:17) xNet Petp0_Recept 
+\i (22:32:17) xNet Petp1_Recept 
+\i (22:32:17) xNet Petp2_Recept 
+\i (22:32:17) xNet Petp3_Recept 
+\i (22:32:17) xNet Petp4_Recept 
+\i (22:32:17) xNet Petp5_Recept 
+\i (22:32:17) xNet Petp6_Recept 
+\i (22:32:17) xNet Petp7_Recept 
+\i (22:32:17) xrefdes U28 
+\i (22:32:17) xname_flush 
+\i (22:32:17) xNet '!' Pern0_Recept 
+\i (22:32:17) xNet '!' Pern1_Recept 
+\i (22:32:17) xNet '!' Pern2_Recept 
+\i (22:32:17) xNet '!' Pern3_Recept 
+\i (22:32:17) xNet '!' Pern4_Recept 
+\i (22:32:17) xNet '!' Pern5_Recept 
+\i (22:32:17) xNet '!' Pern6_Recept 
+\i (22:32:17) xNet '!' Pern7_Recept 
+\i (22:32:17) xNet '!' Perp0_Recept 
+\i (22:32:17) xNet '!' Perp1_Recept 
+\i (22:32:17) xNet '!' Perp2_Recept 
+\i (22:32:17) xNet '!' Perp3_Recept 
+\i (22:32:17) xNet '!' Perp4_Recept 
+\i (22:32:17) xNet '!' Perp5_Recept 
+\i (22:32:17) xNet '!' Perp6_Recept 
+\i (22:32:17) xNet '!' Perp7_Recept 
+\i (22:32:17) xNet '!' Petn0_Recept 
+\i (22:32:17) xNet '!' Petn1_Recept 
+\i (22:32:17) xNet '!' Petn2_Recept 
+\i (22:32:17) xNet '!' Petn3_Recept 
+\i (22:32:17) xNet '!' Petn4_Recept 
+\i (22:32:17) xNet '!' Petn5_Recept 
+\i (22:32:17) xNet '!' Petn6_Recept 
+\i (22:32:17) xNet '!' Petn7_Recept 
+\i (22:32:17) xNet '!' Petp0_Recept 
+\i (22:32:17) xNet '!' Petp1_Recept 
+\i (22:32:17) xNet '!' Petp2_Recept 
+\i (22:32:17) xNet '!' Petp3_Recept 
+\i (22:32:17) xNet '!' Petp4_Recept 
+\i (22:32:17) xNet '!' Petp5_Recept 
+\i (22:32:17) xNet '!' Petp6_Recept 
+\i (22:32:17) xNet '!' Petp7_Recept 
+\i (22:32:17) xrefdes '!' U28 
+\i (22:32:17) xname_flush '!' 
+\i (22:32:20) xNet Pern0_Recept 
+\i (22:32:20) xNet Pern1_Recept 
+\i (22:32:20) xNet Pern2_Recept 
+\i (22:32:20) xNet Pern3_Recept 
+\i (22:32:20) xNet Pern4_Recept 
+\i (22:32:20) xNet Pern5_Recept 
+\i (22:32:20) xNet Pern6_Recept 
+\i (22:32:20) xNet Pern7_Recept 
+\i (22:32:20) xNet Perp0_Recept 
+\i (22:32:20) xNet Perp1_Recept 
+\i (22:32:20) xNet Perp2_Recept 
+\i (22:32:20) xNet Perp3_Recept 
+\i (22:32:20) xNet Perp4_Recept 
+\i (22:32:21) xNet Perp5_Recept 
+\i (22:32:21) xNet Perp6_Recept 
+\i (22:32:21) xNet Perp7_Recept 
+\i (22:32:21) xNet Petn0_Recept 
+\i (22:32:21) xNet Petn1_Recept 
+\i (22:32:21) xNet Petn2_Recept 
+\i (22:32:21) xNet Petn3_Recept 
+\i (22:32:21) xNet Petn4_Recept 
+\i (22:32:21) xNet Petn5_Recept 
+\i (22:32:21) xNet Petn6_Recept 
+\i (22:32:21) xNet Petn7_Recept 
+\i (22:32:21) xNet Petp0_Recept 
+\i (22:32:21) xNet Petp1_Recept 
+\i (22:32:21) xNet Petp2_Recept 
+\i (22:32:21) xNet Petp3_Recept 
+\i (22:32:21) xNet Petp4_Recept 
+\i (22:32:21) xNet Petp5_Recept 
+\i (22:32:21) xNet Petp6_Recept 
+\i (22:32:21) xNet Petp7_Recept 
+\i (22:32:21) xrefdes U28 
+\i (22:32:21) xname_flush 
+\i (22:32:24) xNet '!' Pern0_Recept 
+\i (22:32:24) xNet '!' Pern1_Recept 
+\i (22:32:24) xNet '!' Pern2_Recept 
+\i (22:32:24) xNet '!' Pern3_Recept 
+\i (22:32:24) xNet '!' Pern4_Recept 
+\i (22:32:24) xNet '!' Pern5_Recept 
+\i (22:32:24) xNet '!' Pern6_Recept 
+\i (22:32:24) xNet '!' Pern7_Recept 
+\i (22:32:24) xNet '!' Perp0_Recept 
+\i (22:32:24) xNet '!' Perp1_Recept 
+\i (22:32:24) xNet '!' Perp2_Recept 
+\i (22:32:24) xNet '!' Perp3_Recept 
+\i (22:32:24) xNet '!' Perp4_Recept 
+\i (22:32:24) xNet '!' Perp5_Recept 
+\i (22:32:24) xNet '!' Perp6_Recept 
+\i (22:32:24) xNet '!' Perp7_Recept 
+\i (22:32:24) xNet '!' Petn0_Recept 
+\i (22:32:24) xNet '!' Petn1_Recept 
+\i (22:32:24) xNet '!' Petn2_Recept 
+\i (22:32:24) xNet '!' Petn3_Recept 
+\i (22:32:24) xNet '!' Petn4_Recept 
+\i (22:32:24) xNet '!' Petn5_Recept 
+\i (22:32:24) xNet '!' Petn6_Recept 
+\i (22:32:24) xNet '!' Petn7_Recept 
+\i (22:32:24) xNet '!' Petp0_Recept 
+\i (22:32:24) xNet '!' Petp1_Recept 
+\i (22:32:24) xNet '!' Petp2_Recept 
+\i (22:32:24) xNet '!' Petp3_Recept 
+\i (22:32:24) xNet '!' Petp4_Recept 
+\i (22:32:24) xNet '!' Petp5_Recept 
+\i (22:32:24) xNet '!' Petp6_Recept 
+\i (22:32:24) xNet '!' Petp7_Recept 
+\i (22:32:24) xrefdes '!' U28 
+\i (22:32:24) xname_flush '!' 
+\i (22:32:42) xNet '!' Gpio_26 
+\i (22:32:42) xNet '!' Gpio_30 
+\i (22:32:42) xNet '!' Gpio_31 
+\i (22:32:42) xNet '!' Scl_I2c_Cn 
+\i (22:32:42) xNet '!' Sda_I2c_Cn 
+\i (22:32:42) xname_flush '!' 
+\i (22:32:46) xNet 1.8V_Ext 
+\i (22:32:46) xNet 12Vcc_Ext 
+\i (22:32:46) xNet Debug_Mode_En_[L] 
+\i (22:32:46) xNet Hold# 
+\i (22:32:46) xNet Hot_Plug_En_[L] 
+\i (22:32:46) xNet Pm_L11_En_[L] 
+\i (22:32:46) xNet Portcfg[0] 
+\i (22:32:46) xNet Portcfg[1] 
+\i (22:32:46) xNet Portcfg[2] 
+\i (22:32:46) xNet Portgood_L[0] 
+\i (22:32:46) xNet Portgood_L[0]_Led 
+\i (22:32:46) xNet Portgood_L[1] 
+\i (22:32:46) xNet Portgood_L[1]_Led 
+\i (22:32:46) xNet Portgood_L[2] 
+\i (22:32:46) xNet Portgood_L[2]_Led 
+\i (22:32:46) xNet Portgood_L[3] 
+\i (22:32:46) xNet Portgood_L[3]_Led 
+\i (22:32:46) xNet Portgood_L[4] 
+\i (22:32:46) xNet Portgood_L[4]_Led 
+\i (22:32:46) xNet Portgood_L[5] 
+\i (22:32:46) xNet Portgood_L[5]_Led 
+\i (22:32:46) xNet Portgood_L[6] 
+\i (22:32:46) xNet Portgood_L[6]_Led 
+\i (22:32:46) xNet Portgood_L[7] 
+\i (22:32:46) xNet Portgood_L[7]_Led 
+\i (22:32:46) xNet Wp# 
+\i (22:32:46) xNet Chip_Mode0 
+\i (22:32:46) xNet Chip_Mode1 
+\i (22:32:46) xNet Clkbufpd_L 
+\i (22:32:46) xNet Debug_Mode_En_L 
+\i (22:32:46) xNet Eeck 
+\i (22:32:46) xNet Eecs_L 
+\i (22:32:46) xNet Eedi 
+\i (22:32:46) xNet Eedo 
+\i (22:32:46) xNet Fatal_Err_L 
+\i (22:32:46) xNet Fatal_Err_L_Led 
+\i (22:32:46) xNet Gpio_26 
+\i (22:32:46) xNet Gpio_30 
+\i (22:32:46) xNet Gpio_31 
+\i (22:32:46) xNet Hot_Plug_En_L 
+\i (22:32:46) xNet I2c_Addr0 
+\i (22:32:46) xNet I2c_Addr1 
+\i (22:32:46) xNet I2c_Addr2 
+\i (22:32:46) xNet Inta_L 
+\i (22:32:46) xNet Jtag_Sel_L 
+\i (22:32:46) xNet N27777045 
+\i (22:32:46) xNet N27777049 
+\i (22:32:46) xNet N27777059 
+\i (22:32:46) xNet N27777063 
+\i (22:32:46) xNet N27777100 
+\i (22:32:46) xNet N27777106 
+\i (22:32:46) xNet N27777288 
+\i (22:32:46) xNet N27777297 
+\i (22:32:46) xNet N27777306 
+\i (22:32:46) xNet N27777315 
+\i (22:32:46) xNet N27777324 
+\i (22:32:46) xNet N27777333 
+\i (22:32:46) xNet N27777342 
+\i (22:32:46) xNet N27777351 
+\i (22:32:46) xNet N27779492 
+\i (22:32:46) xNet N27779498 
+\i (22:32:46) xNet N27779522 
+\i (22:32:46) xNet N27779528 
+\i (22:32:46) xNet N27779562 
+\i (22:32:46) xNet N27779566 
+\i (22:32:46) xNet N27788287 
+\i (22:32:46) xNet N27788814 
+\i (22:32:46) xNet N27812988 
+\i (22:32:46) xNet N27813004 
+\i (22:32:46) xNet N27813020 
+\i (22:32:46) xNet N27813031 
+\i (22:32:46) xNet N27849923 
+\i (22:32:46) xNet N27973277 
+\i (22:32:46) xNet N28339986 
+\i (22:32:46) xNet Pdc_L_0 
+\i (22:32:46) xNet Pdc_L_1 
+\i (22:32:46) xNet Pdc_L_2 
+\i (22:32:46) xNet Pdc_L_3 
+\i (22:32:46) xNet Pdc_L_4 
+\i (22:32:46) xNet Pdc_L_5 
+\i (22:32:46) xNet Pdc_L_6 
+\i (22:32:46) xNet Pdc_L_7 
+\i (22:32:46) xNet Perst_Chip_L 
+\i (22:32:46) xNet Perst_L 
+\i (22:32:46) xNet Perst_L_3V3 
+\i (22:32:46) xNet Phy_Sram_Bypass 
+\i (22:32:46) xNet Pm_L11_En_L 
+\i (22:32:46) xNet Scl_I2c 
+\i (22:32:46) xNet Scl_I2c_Cn 
+\i (22:32:46) xNet Sda_I2c 
+\i (22:32:46) xNet Sda_I2c_Cn 
+\i (22:32:46) xNet Shcl_I2c 
+\i (22:32:46) xNet Shda_I2c 
+\i (22:32:46) xNet Shpcint_L 
+\i (22:32:46) xNet Shpint 
+\i (22:32:46) xNet Smbus_En_L 
+\i (22:32:46) xNet Surprise_Hp_En 
+\i (22:32:46) xNet Tms 
+\i (22:32:46) xNet Trst_L 
+\i (22:32:46) xNet U9_1Dir 
+\i (22:32:46) xNet U9_1Oe_L 
+\i (22:32:46) xNet U9_2Dir 
+\i (22:32:46) xNet U9_2Oe_L 
+\i (22:32:46) xNet U9_Oe 
+\i (22:32:46) xrefdes R46 
+\i (22:32:46) xrefdes Rd7 
+\i (22:32:46) xrefdes Rd8 
+\i (22:32:46) xrefdes Rd9 
+\i (22:32:46) xrefdes Rd10 
+\i (22:32:46) xrefdes Rd12 
+\i (22:32:46) xrefdes Rd13 
+\i (22:32:46) xrefdes R49 
+\i (22:32:46) xrefdes Ds6 
+\i (22:32:46) xrefdes Rp15 
+\i (22:32:46) xrefdes Rp16 
+\i (22:32:46) xrefdes Rp17 
+\i (22:32:46) xrefdes Rp18 
+\i (22:32:46) xrefdes R61 
+\i (22:32:46) xrefdes Ds7 
+\i (22:32:46) xrefdes Rp14 
+\i (22:32:46) xrefdes R62 
+\i (22:32:46) xrefdes R63 
+\i (22:32:46) xrefdes Ds8 
+\i (22:32:46) xrefdes Rd22 
+\i (22:32:46) xrefdes Ds9 
+\i (22:32:46) xrefdes R64 
+\i (22:32:46) xrefdes Sw3 
+\i (22:32:46) xrefdes Rd23 
+\i (22:32:46) xrefdes Ds10 
+\i (22:32:46) xrefdes R65 
+\i (22:32:46) xrefdes Rd24 
+\i (22:32:46) xrefdes Ds11 
+\i (22:32:46) xrefdes R66 
+\i (22:32:46) xrefdes Rd20 
+\i (22:32:46) xrefdes Rd25 
+\i (22:32:46) xrefdes Ds12 
+\i (22:32:46) xrefdes Rd21 
+\i (22:32:46) xrefdes R67 
+\i (22:32:46) xrefdes Ds13 
+\i (22:32:46) xrefdes R69 
+\i (22:32:46) xrefdes C106 
+\i (22:32:46) xrefdes C108 
+\i (22:32:46) xrefdes C107 
+\i (22:32:46) xrefdes C110 
+\i (22:32:46) xrefdes C109 
+\i (22:32:46) xrefdes C111 
+\i (22:32:46) xrefdes R73 
+\i (22:32:46) xrefdes U9 
+\i (22:32:46) xrefdes Rd14 
+\i (22:32:46) xrefdes Sw2 
+\i (22:32:46) xrefdes Rp8 
+\i (22:32:47) xrefdes Rp7 
+\i (22:32:47) xrefdes Rp10 
+\i (22:32:47) xrefdes Rp9 
+\i (22:32:47) xrefdes Rp11 
+\i (22:32:47) xrefdes Rp12 
+\i (22:32:47) xrefdes Rd15 
+\i (22:32:47) xrefdes Rd16 
+\i (22:32:47) xrefdes Rd17 
+\i (22:32:47) xrefdes Rd18 
+\i (22:32:47) xrefdes Rd19 
+\i (22:32:47) xrefdes C99 
+\i (22:32:47) xrefdes C101 
+\i (22:32:47) xrefdes C100 
+\i (22:32:47) xrefdes R50 
+\i (22:32:47) xrefdes R57 
+\i (22:32:47) xrefdes R58 
+\i (22:32:47) xrefdes C103 
+\i (22:32:47) xrefdes R56 
+\i (22:32:47) xrefdes C102 
+\i (22:32:47) xrefdes R60 
+\i (22:32:47) xrefdes R54 
+\i (22:32:47) xrefdes R55 
+\i (22:32:47) xrefdes R59 
+\i (22:32:47) xrefdes J2 
+\i (22:32:47) xrefdes C105 
+\i (22:32:47) xrefdes C104 
+\i (22:32:47) xrefdes U8 
+\i (22:32:47) xrefdes U7 
+\i (22:32:47) xrefdes R52 
+\i (22:32:47) xrefdes R51 
+\i (22:32:47) xrefdes R53 
+\i (22:32:47) xrefdes J3 
+\i (22:32:47) xrefdes Rd11 
+\i (22:32:47) xrefdes Rp13 
+\i (22:32:47) xrefdes R68 
+\i (22:32:47) xrefdes Rp22 
+\i (22:32:47) xrefdes Rp19 
+\i (22:32:47) xrefdes Rd26 
+\i (22:32:47) xrefdes Rp20 
+\i (22:32:47) xrefdes Rd27 
+\i (22:32:47) xrefdes Rp26 
+\i (22:32:47) xrefdes Rd28 
+\i (22:32:47) xrefdes Rd29 
+\i (22:32:47) xrefdes Sw4 
+\i (22:32:47) xrefdes Rp23 
+\i (22:32:47) xrefdes C115 
+\i (22:32:47) xrefdes C114 
+\i (22:32:47) xrefdes C113 
+\i (22:32:47) xrefdes Rp25 
+\i (22:32:47) xrefdes Rp24 
+\i (22:32:47) xrefdes R74 
+\i (22:32:47) xrefdes C112 
+\i (22:32:47) xrefdes C117 
+\i (22:32:47) xrefdes C116 
+\i (22:32:47) xrefdes C118 
+\i (22:32:47) xrefdes U10 
+\i (22:32:47) xrefdes Rp21 
+\i (22:32:47) xrefdes R48 
+\i (22:32:47) xrefdes Tp14 
+\i (22:32:47) xrefdes Ds14 
+\i (22:32:47) xrefdes R70 
+\i (22:32:47) xrefdes R72 
+\i (22:32:47) xrefdes Rd85 
+\i (22:32:47) xrefdes Rd1 
+\i (22:32:47) xrefdes Rd2 
+\i (22:32:47) xrefdes Rp176 
+\i (22:32:47) xrefdes Rp177 
+\i (22:32:47) xrefdes R79 
+\i (22:32:47) xrefdes U28 
+\i (22:32:47) xname_flush 
+\i (22:32:50) xNet '!' 1.8V_Ext 
+\i (22:32:50) xNet '!' 12Vcc_Ext 
+\i (22:32:50) xNet '!' Debug_Mode_En_[L] 
+\i (22:32:50) xNet '!' Hold# 
+\i (22:32:50) xNet '!' Hot_Plug_En_[L] 
+\i (22:32:50) xNet '!' Pm_L11_En_[L] 
+\i (22:32:50) xNet '!' Portcfg[0] 
+\i (22:32:50) xNet '!' Portcfg[1] 
+\i (22:32:50) xNet '!' Portcfg[2] 
+\i (22:32:50) xNet '!' Portgood_L[0] 
+\i (22:32:50) xNet '!' Portgood_L[0]_Led 
+\i (22:32:50) xNet '!' Portgood_L[1] 
+\i (22:32:50) xNet '!' Portgood_L[1]_Led 
+\i (22:32:50) xNet '!' Portgood_L[2] 
+\i (22:32:50) xNet '!' Portgood_L[2]_Led 
+\i (22:32:50) xNet '!' Portgood_L[3] 
+\i (22:32:50) xNet '!' Portgood_L[3]_Led 
+\i (22:32:50) xNet '!' Portgood_L[4] 
+\i (22:32:50) xNet '!' Portgood_L[4]_Led 
+\i (22:32:50) xNet '!' Portgood_L[5] 
+\i (22:32:50) xNet '!' Portgood_L[5]_Led 
+\i (22:32:50) xNet '!' Portgood_L[6] 
+\i (22:32:50) xNet '!' Portgood_L[6]_Led 
+\i (22:32:50) xNet '!' Portgood_L[7] 
+\i (22:32:50) xNet '!' Portgood_L[7]_Led 
+\i (22:32:50) xNet '!' Wp# 
+\i (22:32:50) xNet '!' Chip_Mode0 
+\i (22:32:50) xNet '!' Chip_Mode1 
+\i (22:32:51) xNet '!' Clkbufpd_L 
+\i (22:32:51) xNet '!' Debug_Mode_En_L 
+\i (22:32:51) xNet '!' Eeck 
+\i (22:32:51) xNet '!' Eecs_L 
+\i (22:32:51) xNet '!' Eedi 
+\i (22:32:51) xNet '!' Eedo 
+\i (22:32:51) xNet '!' Fatal_Err_L 
+\i (22:32:51) xNet '!' Fatal_Err_L_Led 
+\i (22:32:51) xNet '!' Gpio_26 
+\i (22:32:51) xNet '!' Gpio_30 
+\i (22:32:51) xNet '!' Gpio_31 
+\i (22:32:51) xNet '!' Hot_Plug_En_L 
+\i (22:32:51) xNet '!' I2c_Addr0 
+\i (22:32:51) xNet '!' I2c_Addr1 
+\i (22:32:51) xNet '!' I2c_Addr2 
+\i (22:32:51) xNet '!' Inta_L 
+\i (22:32:51) xNet '!' Jtag_Sel_L 
+\i (22:32:51) xNet '!' N27777045 
+\i (22:32:51) xNet '!' N27777049 
+\i (22:32:51) xNet '!' N27777059 
+\i (22:32:51) xNet '!' N27777063 
+\i (22:32:51) xNet '!' N27777100 
+\i (22:32:51) xNet '!' N27777106 
+\i (22:32:51) xNet '!' N27777288 
+\i (22:32:51) xNet '!' N27777297 
+\i (22:32:51) xNet '!' N27777306 
+\i (22:32:51) xNet '!' N27777315 
+\i (22:32:51) xNet '!' N27777324 
+\i (22:32:51) xNet '!' N27777333 
+\i (22:32:51) xNet '!' N27777342 
+\i (22:32:51) xNet '!' N27777351 
+\i (22:32:51) xNet '!' N27779492 
+\i (22:32:51) xNet '!' N27779498 
+\i (22:32:51) xNet '!' N27779522 
+\i (22:32:51) xNet '!' N27779528 
+\i (22:32:51) xNet '!' N27779562 
+\i (22:32:51) xNet '!' N27779566 
+\i (22:32:51) xNet '!' N27788287 
+\i (22:32:51) xNet '!' N27788814 
+\i (22:32:51) xNet '!' N27812988 
+\i (22:32:51) xNet '!' N27813004 
+\i (22:32:51) xNet '!' N27813020 
+\i (22:32:51) xNet '!' N27813031 
+\i (22:32:51) xNet '!' N27849923 
+\i (22:32:51) xNet '!' N27973277 
+\i (22:32:51) xNet '!' N28339986 
+\i (22:32:51) xNet '!' Pdc_L_0 
+\i (22:32:51) xNet '!' Pdc_L_1 
+\i (22:32:51) xNet '!' Pdc_L_2 
+\i (22:32:51) xNet '!' Pdc_L_3 
+\i (22:32:51) xNet '!' Pdc_L_4 
+\i (22:32:51) xNet '!' Pdc_L_5 
+\i (22:32:51) xNet '!' Pdc_L_6 
+\i (22:32:51) xNet '!' Pdc_L_7 
+\i (22:32:51) xNet '!' Perst_Chip_L 
+\i (22:32:51) xNet '!' Perst_L 
+\i (22:32:51) xNet '!' Perst_L_3V3 
+\i (22:32:51) xNet '!' Phy_Sram_Bypass 
+\i (22:32:51) xNet '!' Pm_L11_En_L 
+\i (22:32:51) xNet '!' Scl_I2c 
+\i (22:32:51) xNet '!' Scl_I2c_Cn 
+\i (22:32:51) xNet '!' Sda_I2c 
+\i (22:32:51) xNet '!' Sda_I2c_Cn 
+\i (22:32:51) xNet '!' Shcl_I2c 
+\i (22:32:51) xNet '!' Shda_I2c 
+\i (22:32:51) xNet '!' Shpcint_L 
+\i (22:32:51) xNet '!' Shpint 
+\i (22:32:51) xNet '!' Smbus_En_L 
+\i (22:32:51) xNet '!' Surprise_Hp_En 
+\i (22:32:51) xNet '!' Tms 
+\i (22:32:51) xNet '!' Trst_L 
+\i (22:32:51) xNet '!' U9_1Dir 
+\i (22:32:51) xNet '!' U9_1Oe_L 
+\i (22:32:51) xNet '!' U9_2Dir 
+\i (22:32:51) xNet '!' U9_2Oe_L 
+\i (22:32:51) xNet '!' U9_Oe 
+\i (22:32:51) xrefdes '!' R46 
+\i (22:32:51) xrefdes '!' Rd7 
+\i (22:32:51) xrefdes '!' Rd8 
+\i (22:32:51) xrefdes '!' Rd9 
+\i (22:32:51) xrefdes '!' Rd10 
+\i (22:32:51) xrefdes '!' Rd12 
+\i (22:32:51) xrefdes '!' Rd13 
+\i (22:32:51) xrefdes '!' R49 
+\i (22:32:51) xrefdes '!' Ds6 
+\i (22:32:51) xrefdes '!' Rp15 
+\i (22:32:51) xrefdes '!' Rp16 
+\i (22:32:51) xrefdes '!' Rp17 
+\i (22:32:51) xrefdes '!' Rp18 
+\i (22:32:51) xrefdes '!' R61 
+\i (22:32:51) xrefdes '!' Ds7 
+\i (22:32:51) xrefdes '!' Rp14 
+\i (22:32:51) xrefdes '!' R62 
+\i (22:32:51) xrefdes '!' R63 
+\i (22:32:51) xrefdes '!' Ds8 
+\i (22:32:51) xrefdes '!' Rd22 
+\i (22:32:51) xrefdes '!' Ds9 
+\i (22:32:51) xrefdes '!' R64 
+\i (22:32:51) xrefdes '!' Sw3 
+\i (22:32:51) xrefdes '!' Rd23 
+\i (22:32:51) xrefdes '!' Ds10 
+\i (22:32:51) xrefdes '!' R65 
+\i (22:32:51) xrefdes '!' Rd24 
+\i (22:32:51) xrefdes '!' Ds11 
+\i (22:32:51) xrefdes '!' R66 
+\i (22:32:51) xrefdes '!' Rd20 
+\i (22:32:51) xrefdes '!' Rd25 
+\i (22:32:51) xrefdes '!' Ds12 
+\i (22:32:51) xrefdes '!' Rd21 
+\i (22:32:51) xrefdes '!' R67 
+\i (22:32:51) xrefdes '!' Ds13 
+\i (22:32:51) xrefdes '!' R69 
+\i (22:32:51) xrefdes '!' C106 
+\i (22:32:51) xrefdes '!' C108 
+\i (22:32:51) xrefdes '!' C107 
+\i (22:32:51) xrefdes '!' C110 
+\i (22:32:51) xrefdes '!' C109 
+\i (22:32:51) xrefdes '!' C111 
+\i (22:32:51) xrefdes '!' R73 
+\i (22:32:51) xrefdes '!' U9 
+\i (22:32:51) xrefdes '!' Rd14 
+\i (22:32:51) xrefdes '!' Sw2 
+\i (22:32:51) xrefdes '!' Rp8 
+\i (22:32:51) xrefdes '!' Rp7 
+\i (22:32:51) xrefdes '!' Rp10 
+\i (22:32:51) xrefdes '!' Rp9 
+\i (22:32:51) xrefdes '!' Rp11 
+\i (22:32:51) xrefdes '!' Rp12 
+\i (22:32:51) xrefdes '!' Rd15 
+\i (22:32:51) xrefdes '!' Rd16 
+\i (22:32:51) xrefdes '!' Rd17 
+\i (22:32:51) xrefdes '!' Rd18 
+\i (22:32:51) xrefdes '!' Rd19 
+\i (22:32:51) xrefdes '!' C99 
+\i (22:32:51) xrefdes '!' C101 
+\i (22:32:51) xrefdes '!' C100 
+\i (22:32:51) xrefdes '!' R50 
+\i (22:32:51) xrefdes '!' R57 
+\i (22:32:51) xrefdes '!' R58 
+\i (22:32:51) xrefdes '!' C103 
+\i (22:32:51) xrefdes '!' R56 
+\i (22:32:51) xrefdes '!' C102 
+\i (22:32:51) xrefdes '!' R60 
+\i (22:32:51) xrefdes '!' R54 
+\i (22:32:51) xrefdes '!' R55 
+\i (22:32:51) xrefdes '!' R59 
+\i (22:32:51) xrefdes '!' J2 
+\i (22:32:51) xrefdes '!' C105 
+\i (22:32:51) xrefdes '!' C104 
+\i (22:32:51) xrefdes '!' U8 
+\i (22:32:51) xrefdes '!' U7 
+\i (22:32:51) xrefdes '!' R52 
+\i (22:32:51) xrefdes '!' R51 
+\i (22:32:51) xrefdes '!' R53 
+\i (22:32:51) xrefdes '!' J3 
+\i (22:32:51) xrefdes '!' Rd11 
+\i (22:32:51) xrefdes '!' Rp13 
+\i (22:32:51) xrefdes '!' R68 
+\i (22:32:51) xrefdes '!' Rp22 
+\i (22:32:51) xrefdes '!' Rp19 
+\i (22:32:51) xrefdes '!' Rd26 
+\i (22:32:52) xrefdes '!' Rp20 
+\i (22:32:52) xrefdes '!' Rd27 
+\i (22:32:52) xrefdes '!' Rp26 
+\i (22:32:52) xrefdes '!' Rd28 
+\i (22:32:52) xrefdes '!' Rd29 
+\i (22:32:52) xrefdes '!' Sw4 
+\i (22:32:52) xrefdes '!' Rp23 
+\i (22:32:52) xrefdes '!' C115 
+\i (22:32:52) xrefdes '!' C114 
+\i (22:32:52) xrefdes '!' C113 
+\i (22:32:52) xrefdes '!' Rp25 
+\i (22:32:52) xrefdes '!' Rp24 
+\i (22:32:52) xrefdes '!' R74 
+\i (22:32:52) xrefdes '!' C112 
+\i (22:32:52) xrefdes '!' C117 
+\i (22:32:52) xrefdes '!' C116 
+\i (22:32:52) xrefdes '!' C118 
+\i (22:32:52) xrefdes '!' U10 
+\i (22:32:52) xrefdes '!' Rp21 
+\i (22:32:52) xrefdes '!' R48 
+\i (22:32:52) xrefdes '!' Tp14 
+\i (22:32:52) xrefdes '!' Ds14 
+\i (22:32:52) xrefdes '!' R70 
+\i (22:32:52) xrefdes '!' R72 
+\i (22:32:52) xrefdes '!' Rd85 
+\i (22:32:52) xrefdes '!' Rd1 
+\i (22:32:52) xrefdes '!' Rd2 
+\i (22:32:52) xrefdes '!' Rp176 
+\i (22:32:52) xrefdes '!' Rp177 
+\i (22:32:52) xrefdes '!' R79 
+\i (22:32:52) xrefdes '!' U28 
+\i (22:32:52) xname_flush '!' 
+\i (22:34:06) xNet 1.8V_Ext 
+\i (22:34:06) xNet 12V_Sl4_Shp 
+\i (22:34:06) xNet 12Vcc_Ext 
+\i (22:34:06) xNet 3.3V_Sl4_Shp 
+\i (22:34:06) xNet Perst#_Sl4 
+\i (22:34:06) xNet Perst#_Sl5 
+\i (22:34:06) xNet Perst#_Sl6 
+\i (22:34:06) xNet Perst#_Sl7 
+\i (22:34:06) xNet Prsnt#_Sl4 
+\i (22:34:06) xNet Prsnt#_Sl7 
+\i (22:34:06) xNet Rst#_Sl4 
+\i (22:34:06) xNet Rst#_Sl5 
+\i (22:34:06) xNet Rst#_Sl6 
+\i (22:34:06) xNet Rst#_Sl7 
+\i (22:34:06) xNet Hp_Rst_7_L 
+\i (22:34:06) xNet N27803637 
+\i (22:34:06) xNet N27803664 
+\i (22:34:06) xNet Pdc_L_5 
+\i (22:34:06) xNet Pdc_L_6 
+\i (22:34:06) xNet Pern4_Recept 
+\i (22:34:06) xNet Pern5_Recept 
+\i (22:34:06) xNet Pern6_Recept 
+\i (22:34:06) xNet Pern7_Recept 
+\i (22:34:06) xNet Perp4_Recept 
+\i (22:34:06) xNet Perp5_Recept 
+\i (22:34:06) xNet Perp6_Recept 
+\i (22:34:06) xNet Perp7_Recept 
+\i (22:34:06) xNet Petn4_Recept 
+\i (22:34:06) xNet Petn5_Recept 
+\i (22:34:06) xNet Petn6_Recept 
+\i (22:34:06) xNet Petn7_Recept 
+\i (22:34:06) xNet Petp4_Recept 
+\i (22:34:06) xNet Petp5_Recept 
+\i (22:34:06) xNet Petp6_Recept 
+\i (22:34:06) xNet Petp7_Recept 
+\i (22:34:06) xNet Refclkn_Sl4 
+\i (22:34:06) xNet Refclkn_Sl5 
+\i (22:34:06) xNet Refclkn_Sl6 
+\i (22:34:06) xNet Refclkn_Sl7 
+\i (22:34:06) xNet Refclkp_Sl4 
+\i (22:34:06) xNet Refclkp_Sl5 
+\i (22:34:06) xNet Refclkp_Sl6 
+\i (22:34:06) xNet Refclkp_Sl7 
+\i (22:34:06) xNet Txn4_S4 
+\i (22:34:06) xNet Txn5_S5 
+\i (22:34:06) xNet Txn6_S6 
+\i (22:34:06) xNet Txn7_S7 
+\i (22:34:06) xNet Txp4_S4 
+\i (22:34:06) xNet Txp5_S5 
+\i (22:34:06) xNet Txp6_S6 
+\i (22:34:06) xNet Txp7_S7 
+\i (22:34:06) xrefdes R37 
+\i (22:34:06) xrefdes Slot4 
+\i (22:34:06) xrefdes C75 
+\i (22:34:06) xrefdes C76 
+\i (22:34:06) xrefdes C79 
+\i (22:34:06) xrefdes C78 
+\i (22:34:06) xrefdes R40 
+\i (22:34:06) xrefdes R38 
+\i (22:34:06) xrefdes Slot5 
+\i (22:34:06) xrefdes R39 
+\i (22:34:06) xrefdes C74 
+\i (22:34:06) xrefdes C77 
+\i (22:34:06) xrefdes C81 
+\i (22:34:06) xrefdes C80 
+\i (22:34:06) xrefdes R42 
+\i (22:34:06) xrefdes Slot6 
+\i (22:34:06) xrefdes R44 
+\i (22:34:06) xrefdes C90 
+\i (22:34:06) xrefdes C92 
+\i (22:34:06) xrefdes C94 
+\i (22:34:06) xrefdes C93 
+\i (22:34:06) xrefdes R45 
+\i (22:34:06) xrefdes C89 
+\i (22:34:06) xrefdes C91 
+\i (22:34:06) xrefdes C96 
+\i (22:34:06) xrefdes C95 
+\i (22:34:06) xrefdes J1 
+\i (22:34:06) xrefdes R43 
+\i (22:34:06) xrefdes R41 
+\i (22:34:06) xrefdes Slot7 
+\i (22:34:06) xname_flush 
+\i (22:34:14) xNet '!' 1.8V_Ext 
+\i (22:34:14) xNet '!' 12V_Sl4_Shp 
+\i (22:34:14) xNet '!' 12Vcc_Ext 
+\i (22:34:14) xNet '!' 3.3V_Sl4_Shp 
+\i (22:34:14) xNet '!' Perst#_Sl4 
+\i (22:34:14) xNet '!' Perst#_Sl5 
+\i (22:34:14) xNet '!' Perst#_Sl6 
+\i (22:34:14) xNet '!' Perst#_Sl7 
+\i (22:34:14) xNet '!' Prsnt#_Sl4 
+\i (22:34:14) xNet '!' Prsnt#_Sl7 
+\i (22:34:14) xNet '!' Rst#_Sl4 
+\i (22:34:14) xNet '!' Rst#_Sl5 
+\i (22:34:14) xNet '!' Rst#_Sl6 
+\i (22:34:14) xNet '!' Rst#_Sl7 
+\i (22:34:14) xNet '!' Hp_Rst_7_L 
+\i (22:34:14) xNet '!' N27803637 
+\i (22:34:14) xNet '!' N27803664 
+\i (22:34:14) xNet '!' Pdc_L_5 
+\i (22:34:14) xNet '!' Pdc_L_6 
+\i (22:34:14) xNet '!' Pern4_Recept 
+\i (22:34:14) xNet '!' Pern5_Recept 
+\i (22:34:14) xNet '!' Pern6_Recept 
+\i (22:34:14) xNet '!' Pern7_Recept 
+\i (22:34:14) xNet '!' Perp4_Recept 
+\i (22:34:14) xNet '!' Perp5_Recept 
+\i (22:34:14) xNet '!' Perp6_Recept 
+\i (22:34:14) xNet '!' Perp7_Recept 
+\i (22:34:14) xNet '!' Petn4_Recept 
+\i (22:34:14) xNet '!' Petn5_Recept 
+\i (22:34:14) xNet '!' Petn6_Recept 
+\i (22:34:14) xNet '!' Petn7_Recept 
+\i (22:34:14) xNet '!' Petp4_Recept 
+\i (22:34:14) xNet '!' Petp5_Recept 
+\i (22:34:14) xNet '!' Petp6_Recept 
+\i (22:34:14) xNet '!' Petp7_Recept 
+\i (22:34:14) xNet '!' Refclkn_Sl4 
+\i (22:34:14) xNet '!' Refclkn_Sl5 
+\i (22:34:14) xNet '!' Refclkn_Sl6 
+\i (22:34:14) xNet '!' Refclkn_Sl7 
+\i (22:34:14) xNet '!' Refclkp_Sl4 
+\i (22:34:14) xNet '!' Refclkp_Sl5 
+\i (22:34:14) xNet '!' Refclkp_Sl6 
+\i (22:34:14) xNet '!' Refclkp_Sl7 
+\i (22:34:14) xNet '!' Txn4_S4 
+\i (22:34:14) xNet '!' Txn5_S5 
+\i (22:34:14) xNet '!' Txn6_S6 
+\i (22:34:14) xNet '!' Txn7_S7 
+\i (22:34:14) xNet '!' Txp4_S4 
+\i (22:34:14) xNet '!' Txp5_S5 
+\i (22:34:14) xNet '!' Txp6_S6 
+\i (22:34:14) xNet '!' Txp7_S7 
+\i (22:34:14) xrefdes '!' R37 
+\i (22:34:14) xrefdes '!' Slot4 
+\i (22:34:14) xrefdes '!' C75 
+\i (22:34:14) xrefdes '!' C76 
+\i (22:34:14) xrefdes '!' C79 
+\i (22:34:14) xrefdes '!' C78 
+\i (22:34:14) xrefdes '!' R40 
+\i (22:34:14) xrefdes '!' R38 
+\i (22:34:14) xrefdes '!' Slot5 
+\i (22:34:14) xrefdes '!' R39 
+\i (22:34:14) xrefdes '!' C74 
+\i (22:34:14) xrefdes '!' C77 
+\i (22:34:14) xrefdes '!' C81 
+\i (22:34:14) xrefdes '!' C80 
+\i (22:34:14) xrefdes '!' R42 
+\i (22:34:14) xrefdes '!' Slot6 
+\i (22:34:14) xrefdes '!' R44 
+\i (22:34:14) xrefdes '!' C90 
+\i (22:34:14) xrefdes '!' C92 
+\i (22:34:14) xrefdes '!' C94 
+\i (22:34:14) xrefdes '!' C93 
+\i (22:34:14) xrefdes '!' R45 
+\i (22:34:14) xrefdes '!' C89 
+\i (22:34:14) xrefdes '!' C91 
+\i (22:34:14) xre
